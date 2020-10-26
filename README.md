@@ -1,4 +1,4 @@
-# V/1441 - MÉTODOS ESTATÍSTICOS APLICADOS AS CIÊNCIAS VETERINÁRIAS
+# IV 1441 - MÉTODOS ESTATÍSTICOS APLICADOS AS CIÊNCIAS VETERINÁRIAS
 Crédito: (1T - 1P)
 Carga Horária: (15T - 45P)
 
@@ -34,25 +34,25 @@ Cálculo de área sob a curva normal
 Tipificação de respostas individuais
 Intervalo de confiança da média
 
-## 3. Aplicação do Intervalo de Confiança da Média
+### 3. Aplicação do Intervalo de Confiança da Média
 
 Ensaios com dados pareados
 Cálculo amostral
 
-## 4. Principais delineamentos experimentais e respectivas análises
+### 4. Principais delineamentos experimentais e respectivas análises
 
 Ensaios Inteiramente ao Acaso
 Ensaios em Blocos ao Acaso
 Quadrado Latino
 Parcelas Subdivididas5. Interação entre fatores experimentais
 
-## 6. Estudos de dispersão de freqüência
+### 6. Estudos de dispersão de freqüência
 
 Levantamentos
 Tabelas de contingência
 Teste de Qui-quadrado
 
-## 7. Associação entre variáveis
+### 7. Associação entre variáveis
 
 Correlação
 Modelagem linear simples
