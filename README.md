@@ -1,2 +1,2 @@
-# M-todos-Estat-sticos
+# Métodos Estatísticos
 Repositório do curso de métodos estatísticos UFRRJ
