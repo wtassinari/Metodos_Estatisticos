@@ -90,4 +90,4 @@ Horizonte, 2002. 265p
 1980
 
 6. STEEL, R.G.D. & Torrie, J.H. Principles and Procedures of Statistics. McGraw-Hill,
-New York,1980
+New York,1980.
