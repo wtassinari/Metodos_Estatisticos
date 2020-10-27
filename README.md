@@ -27,6 +27,12 @@ Princípios básicos da experimentação
 Estatística descritiva: média e desvio padrão
 Coeficiente de variação
 
+|   Datas    | Atividades  |                                                              |
+| :--------: | :---------: | ------------------------------------------------------------ |
+| 15/01/2021 | Assincronas | [Fonte: Wikipédia (2020)](https://pt.wikipedia.org/wiki/Indicador_social) |
+| 15/01/2021 |  Sincronas  |                                                              |
+|            |             |                                                              |
+
 ### 2. Distribuição normal e binomial
 
 Caracterização, propriedades e utilização
