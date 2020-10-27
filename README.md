@@ -22,7 +22,7 @@ paramétricos e não paramétricos.
 Contribuição da Estatística à Experimentação
 Classificação das variáveis
 Unidades experimentais
-Situações mais comuns na experimentação animal
+Situações mais comuns na experimentação animal.
 Princípios básicos da experimentação
 Estatística descritiva: média e desvio padrão
 Coeficiente de variação.
