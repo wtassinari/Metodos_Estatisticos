@@ -25,7 +25,7 @@ Unidades experimentais
 Situações mais comuns na experimentação animal
 Princípios básicos da experimentação
 Estatística descritiva: média e desvio padrão
-Coeficiente de variação
+Coeficiente de variação.
 
 |   Datas    | Atividades  |                                                              |
 | :--------: | :---------: | ------------------------------------------------------------ |
