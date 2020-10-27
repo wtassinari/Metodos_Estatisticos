@@ -15,6 +15,10 @@ Caracterização das variáveis e suas distribuições. Inferência estatística
 Delineamentos experimentais. Associação de variáveis. Principais testes estatísticos
 paramétricos e não paramétricos.
 
+## Instalando o pacote estatístico R + a interface gráfica Rcommander
+
+- [Instalação do R e Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg)
+
 ## CONTEÚDO PROGRAMÁTICO:
 
 ### 1. Introdução
