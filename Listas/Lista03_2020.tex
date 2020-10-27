@@ -1,0 +1,133 @@
+\documentclass[a4paper,11pt,twoside,openright]{report}
+% \documentclass[15pt]{report}
+
+\usepackage[brazil]{babel}    % d� suporte para os termos na l�ngua portuguesa do Brasil
+\usepackage[latin1]{inputenc} % d� suporte para caracteres especiais como acentos e cedilha
+\usepackage[T1]{fontenc}      % L� a codifica��o de fonte T1 (font encoding default � 0T1).
+% \usepackage[dvipdfm]{graphicx} % para inclus�o de figuras (png, jpg, gif, bmp)
+% \usepackage{graphics}          % figuras gr�ficas
+\usepackage{color}             % para letras e caixas coloridas
+\usepackage{makeidx}           % �ndice remissivo
+\usepackage{a4wide}            % correta formata��o da p�gina em A4
+\usepackage{setspace}          % para a dist�ncia entre linhas
+
+
+\begin{document}
+\begin{center}
+\titulo{\Large {Lista de Exerc\'{\i}cios 03 \\ M\'{e}todos Estat\'{\i}sticos Aplicados as Ci\^{e}ncias Veterin\'{a}rias}
+             \\ Professor Wagner Tassinari 
+             \\ \small{E-mail: \textit{wtassinari@gmail.com}}\\
+\begin{flushleft}
+\textbf{Aluno: .............................................................................................}
+\end{flushleft}
+\end{center} 
+
+% \pagebreak
+
+% \begin{verbatim}
+%  http://groups.google.com/group/estatistica-ciencias-veterinarias?hl=pt-BR
+% \end{verbatim} 
+
+\section*{Exerc\'{\i}cio 1} Diferencie testes Param\'{e}tricos dos N\~{a}o-Param\'{e}tricos.
+
+\section*{Exerc\'{\i}cio 2} Conceitue \textit{p-valor}. Elabore algum exemplo de an\'{a}lise e interprete o \textit{p-valor}.
+
+\section*{Exerc\'{\i}cio 3} Diferencie Intervalos de Confian\c{c}a de Testes de Hip\'{o}teses. Elabore algum exemplo de an\'{a}lise onde seja 
+poss\'{\i}vel a utiliza\c{c}\~{a}o de ambos os m\'{e}todos e interprete.
+
+\section*{Exerc\'{\i}cio 4} Qual o(s) objetivo(s) dos testes de normalidade ? Pesquise e cite pelo menos seis tipos diferentes de testes de normalidade
+e comente a respeito de cada um deles.
+
+\section*{Exerc\'{\i}cio 5}
+\hspace{0.5cm}Os dez valores a seguir correspondem ao teor de colesterol s\'{e}rico em c\~{a}es machos normais, medidos em mg/100ml: \textit{(250, 265, 140, 380, 
+300, 230, 320, 163, 280 e 261)}. E os outros dez valores a seguir correspondem tamb\'{e}m ao teor de colesterol s\'{e}rico em c\~{a}es normais, medidos em mg/100ml, 
+desta vez f\^{e}meas: \textit{(255, 290, 254, 170, 150, 280, 386, 308, 237 e 147)}. Compare a distribui\c{c}\~{a}o dos dados acima e verifique se apresentam
+uma diferen\c{c}a significativa ao n\'{\i}vel de 1\% de signific\^{a}ncia. Comente os procedimentos estat\'{\i}sticos utilizados e interprete os resultados.\\
+
+
+\section*{Exerc\'{\i}cio 6}
+\hspace{0.5cm}De uma popula\c{c}\~{a}o de aminais, foi selecionada uma amostra de 10 cobaias; tais cobaias foram submetidas ao tratamento com uma ra\c{c}\~{a}o
+especial por um m\^{e}s; na tabela a seguir est\~{a}o mostrados os pesos antes ($x_{i}$) e depois ($y_{i}$) do tratamento, em kg:
+
+\begin{center}
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|c|}{Cobaia} & \multicolumn{1}{c|}{1} & \multicolumn{1}{c|}{2} & \multicolumn{1}{c|}{3} & \multicolumn{1}{c|}{4} & \multicolumn{1}{c|}{5} & \multicolumn{1}{c|}{6} & \multicolumn{1}{c|}{7} & \multicolumn{1}{c|}{8} & \multicolumn{1}{c|}{9} & \multicolumn{1}{c|}{10} \\ 
+\hline
+\multicolumn{1}{|c|}{$x_{i}$} & \multicolumn{1}{c|}{635} & \multicolumn{1}{c|}{704} & \multicolumn{1}{c|}{662} & \multicolumn{1}{c|}{560} & \multicolumn{1}{c|}{603} & \multicolumn{1}{c|}{745} & \multicolumn{1}{c|}{698} & \multicolumn{1}{c|}{575} & \multicolumn{1}{c|}{633} & \multicolumn{1}{c|}{669} \\ 
+\hline
+\multicolumn{1}{|c|}{$y_{i}$} & \multicolumn{1}{c|}{640} & \multicolumn{1}{c|}{712} & \multicolumn{1}{c|}{681} & \multicolumn{1}{c|}{558} & \multicolumn{1}{c|}{610} & \multicolumn{1}{c|}{740} & \multicolumn{1}{c|}{707} & \multicolumn{1}{c|}{585} & \multicolumn{1}{c|}{635} & \multicolumn{1}{c|}{682} \\ 
+\hline
+\end{tabular}
+\end{center}
+
+Verifique se os animais tiveram um aumento de peso significativo, ao n\'{\i}vel de 10\% de signific\^{a}ncia.
+
+\section*{Exerc\'{\i}cio 7}
+\hspace{0.5cm}Um estudo foi conduzido para se comparar o teor de gordura em leite integral pasteurizado (g\%) de dois fabricantes. 
+Verifique, com base nos dados abaixo, se existe diferen\c{c}a significativa na quantidade de gordura encontrada no leite entre os fabricantes:
+
+\begin{center}
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|c|}{Fabr. A} & \multicolumn{1}{c|}{4,2} & \multicolumn{1}{c|}{3,8} & \multicolumn{1}{c|}{3,6} & \multicolumn{1}{c|}{3,8} & \multicolumn{1}{c|}{4,0} & \multicolumn{1}{c|}{3,9} & \multicolumn{1}{c|}{3,8} & \multicolumn{1}{c|}{4,0} \\ 
+\hline
+\multicolumn{1}{|c|}{Fabr. B} & \multicolumn{1}{c|}{3,8} & \multicolumn{1}{c|}{3,5} & \multicolumn{1}{c|}{3,6} & \multicolumn{1}{c|}{3,8} & \multicolumn{1}{c|}{3,7} & \multicolumn{1}{c|}{3,7} & \multicolumn{1}{c|}{3,7} & \multicolumn{1}{c|}{-} \\ 
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Exerc\'{\i}cio 4}
+\hspace{0.5cm} Cinco operadores de certo tipo de m\'{a}quina s\~{a}o treinados em m\'{a}quinas de duas marcas diferentes, A e B. 
+Mediu-se o tempo que cada um deles gasta na realiza\c{c}\~{a}o de uma mesma tarefa, sendo os resultados (em minutos) os seguintes:
+
+\begin{center}
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Operador & \multicolumn{1}{c|}{1} & \multicolumn{1}{c|}{2} & \multicolumn{1}{c|}{3} & \multicolumn{1}{c|}{4} & \multicolumn{1}{c|}{5} \\ 
+\hline
+Marca A & \multicolumn{1}{c|}{80} & \multicolumn{1}{c|}{72} & \multicolumn{1}{c|}{65} & \multicolumn{1}{c|}{78} & \multicolumn{1}{c|}{85} \\ 
+\hline
+Marca B & \multicolumn{1}{c|}{75} & \multicolumn{1}{c|}{70} & \multicolumn{1}{c|}{60} & \multicolumn{1}{c|}{72} & \multicolumn{1}{c|}{78} \\ 
+\hline
+% A - B ($d_{i}$) &  &  &  &  &  \\ 
+% \hline
+\end{tabular}
+\end{center}
+
+Ao n\'{\i}vel de signific\^{a}ncia de 5$\%$, o que poder\'{\i}amos afirrmar em rela\c{c}\~{a}o ao tempo gasto com as m\'{a}quinas das duas marcas ?
+
+\section*{Exerc\'{\i}cio 9}
+\hspace{0.5cm}Objetivando-se testar o efeito da niacina (vitamina PP) sobre o teor de hemoglobina em su\'{\i}nos, um pesquisador realizou um ensaio 
+com 8 animais onde se obteve os seguintes resultados da concentra\c{c}\~{a}o de hemoglobina (g\%) antes (A) e ap\'{o}s (B) o tratamento com a vitamina.
+
+\begin{center}
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|c|}{Animal} & \multicolumn{1}{c|}{1} & \multicolumn{1}{c|}{2} & \multicolumn{1}{c|}{3} & \multicolumn{1}{c|}{4} & \multicolumn{1}{c|}{5} & \multicolumn{1}{c|}{6} & \multicolumn{1}{c|}{7} & \multicolumn{1}{c|}{8} \\ 
+\hline
+\multicolumn{1}{|c|}{A} & \multicolumn{1}{c|}{13,6} & \multicolumn{1}{c|}{13,6} & \multicolumn{1}{c|}{14,7} & \multicolumn{1}{c|}{12,1} & \multicolumn{1}{c|}{12,3} & \multicolumn{1}{c|}{13,2} & \multicolumn{1}{c|}{11,0} & \multicolumn{1}{c|}{12,4} \\ 
+\hline
+\multicolumn{1}{|c|}{B} & \multicolumn{1}{c|}{11,4} & \multicolumn{1}{c|}{12,5} & \multicolumn{1}{c|}{14,6} & \multicolumn{1}{c|}{13,0} & \multicolumn{1}{c|}{11,7} & \multicolumn{1}{c|}{10,3} & \multicolumn{1}{c|}{9,8} & \multicolumn{1}{c|}{10,4} \\ 
+\hline
+% \multicolumn{1}{|c|}{A - B ($d_{i}$)} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} \\ 
+% \hline
+\end{tabular}
+\end{center}
+
+Verifique se existe diferen\c{c}a significativa para o efeito da vitamina. Use $\alpha$ = 5$\%$ e $\alpha$ = 1$\%$.
+
+\section*{Exerc\'{\i}cio 10}
+\hspace{0.5cm}De uma popula\c{c}\~{a}o de amimais, foi selecionada uma amostra de 10 cobaias; tais cobaias foram submetidas ao tratamento com 
+uma ra\c{c}\~{a}o especial por um m\^{e}s. Os dados abaixo referem-se aos pesos antes e depois do tratamento, em kg:
+ 
+\begin{itemize}
+\item antes = (320, 400, 662, 560, 603, 745, 698, 330, 633, 669)
+\item depois = (500, 410, 681, 558, 610, 666, 707, 585, 635, 800)
+\item Verifique se os animais tiveram um aumento de peso significativo, ao n\'{\i}vel de 1$\%$ de signific\^{a}ncia.
+\item Suponha n\~{a}o normalidade na vari\'{a}vel peso.
+
+
+
+
+\end{document}

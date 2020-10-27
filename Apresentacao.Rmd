@@ -1,0 +1,99 @@
+---
+title: "Métodos Estatísticos"
+subtitle: "Curso de Pós-Graduação em Ciências Veterinárias UFRRJ"
+author: |
+  |
+  | Wagner S. Tassinari
+date: |
+  | \vspace{2cm} \center \footnotesize 2020
+institute: |
+  | \center \footnotesize CPGCV/UFRRJ
+output: 
+  binb::metropolis:
+  toc: false
+beameroption: "hide notes"
+header-includes:
+  \usepackage[sfdefault]{FiraSans}
+  \usecolortheme[named=violet]{structure}
+  \setbeamercolor{frametitle}{bg=violet}
+  \setbeamercolor{progress bar}{fg=violet}
+---
+
+
+```{r,setup, include=FALSE}
+# https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html
+knitr::opts_chunk$set(fig.width = 7, fig.height = 5, fig.align = 'center', dpi = 96, cache=TRUE, echo = F, comment = "", message = F, warning = F)
+```
+
+# Cronograma
+
+## Cronograma:
+
+- Introdução à Estatística + Rcommander 
+
+- Análise Exploratória de Dados
+
+- Probabilidade + Testes paramétricos e não-paramétricos
+
+- Testes paramétricos + Testes não-paramétricos 
+
+- Medidas de Associação + Avaliação
+
+# Bibliografia
+
+## Bibliografia:
+
+- Vieira, Sonia. **Introdução à Bioestatı́stica**. ELSEVIER - Quarta Edição - Rio de Janeiro, 2011.
+
+
+- Pocinho, Margarida e Figueiredo, João Paulo. **Apostila de Bioestatı́stica e Estatı́stica**. Instituto
+Superior Miguel Torga, Coimbra - Portugual, 2009.
+
+- Sampaio I.B.M. **Estatı́stica Aplicada à Experimentação Animal** - Terceira Edição - FEPMVZ-Editora, 2007.
+
+- Petrie A. and Watson P.F. **Statistics for Veterinary and Animal Science**. Blackwell Science, 1999.
+
+
+## Bibliografia do Pacote estatístico R + Rcommander 
+
+- R Core Team. **R: A Language and Environment for Statistical Computing**. R Foundation for Statistical
+Computing, Vienna, Austria, 2014.
+http://www.R-project.org
+
+- R. Ihaka. **R: Past and Future History**. Statistics
+Department, The University of Auckland, Auckland, New
+Zealand.
+http://cran.r-project.org/doc/html/interface98-paper/paper.html
+
+- J.Fox, M. Bouchet-Valat. **Getting Started With the R Commander**. Version 2.3-0.
+http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/Getting-Started-with-the-Rcmdr.pdf
+
+
+## Bibliografia do Pacote estatístico R + Rcommander 
+
+- J. Fox. **Using the R Commander: A Point-and-Click Interface for R**. Chapman&Hall / CRC Press, 2017.
+http://socserv.mcmaster.ca/jfox/Books/RCommander/
+
+- Torsten Hothorn and Brian S. Everitt. **A Handbook of Statistical Analyses Using R**. Chapman & Hall/CRC
+Press, Boca Raton, Florida, USA, 3rd edition, 2014.
+http://www.crcpress.com/product/isbn/9781482204582
+
+- W. N. Venables, D.M.Smith and the R Core Team. **An Introduction to R**. Version 3.1.2, 2014.
+http://www.cran.r-project.org/doc/manuals/R-intro.pdf
+
+
+- Nathaniel D. Phillips. **YaRrr! The Pirate’s Guide to R**. e-book, 2018.
+https://bookdown.org/ndphillips/YaRrr/
+
+
+# Colaboração
+
+## Colaboração na elaboração de parte do material por:
+
+- Fabiano Marcos de Lima
+
+- Julio Lima
+
+- Luan Noé da Silva
+
+- Raquel de Vasconcellos C. de Oliveira

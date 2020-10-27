@@ -1,0 +1,178 @@
+\documentclass[a4paper,11pt,twoside,openright]{report}
+% \documentclass[15pt]{report}
+
+\usepackage[brazil]{babel}    % d� suporte para os termos na l�ngua portuguesa do Brasil
+\usepackage[latin1]{inputenc} % d� suporte para caracteres especiais como acentos e cedilha
+\usepackage[T1]{fontenc}      % L� a codifica��o de fonte T1 (font encoding default � 0T1).
+\usepackage[dvipdfm]{graphicx} % para inclus�o de figuras (png, jpg, gif, bmp)
+\usepackage{graphics}          % figuras gr�ficas
+\usepackage{color}             % para letras e caixas coloridas
+\usepackage{makeidx}           % �ndice remissivo
+\usepackage{a4wide}            % correta formata��o da p�gina em A4
+\usepackage{setspace}          % para a dist�ncia entre linhas
+
+
+\begin{document}
+\begin{center}
+\titulo{\Large {Lista de Exerc\'{\i}cios 04 \\ M\'{e}todos Estat\'{\i}sticos Aplicados as Ci\^{e}ncias Veterin\'{a}rias}
+             \\ Professor Wagner Tassinari 
+             \\ \small{E-mail: \textit{wtassinari@gmail.com}}\\
+\begin{flushleft}
+\textbf{Aluno: .............................................................................................}
+\end{flushleft}
+\end{center} 
+
+% \pagebreak
+
+% \begin{verbatim}
+%  http://groups.google.com/group/estatistica-ciencias-veterinarias?hl=pt-BR
+% \end{verbatim
+
+\section*{Exerc\'{\i}cio 1}
+\hspace{0.5cm}Em uma pesquisa com 5000 indiv\'{\i}duos, desejava-se investigar uma poss\'{\i}vel associa\c{c}\~{a}o entre daltonismo e sexo. Encontrou-se os seguintes resultados,
+
+\begin{center}
+\begin{tabular}{l|l|l}
+\hline
+Sexo & \multicolumn{1}{c|}{Vis\~{a}o Normal} & \multicolumn{1}{c}{Dalt\^{o}nico} \\ 
+\hline
+Masculino & \multicolumn{1}{c|}{2210} & \multicolumn{1}{c}{190} \\ 
+Feminino & \multicolumn{1}{c|}{2540} & \multicolumn{1}{c}{60} \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+\section*{Exerc\'{\i}cio 2}
+\hspace{0.5cm}Com base nos dados abaixo, verifique se existe rela\c{c}\~{a}o entre o tipo sangu\'{\i}neo e a origem do indiv\'{\i}duo.
+
+\begin{center}
+\begin{tabular}{l|llll|l}
+\hline
+\multicolumn{1}{l}{} & \multicolumn{4}{c}{Tipo Sangu\'{\i}neo} &  \\ 
+\hline
+Origem & \multicolumn{1}{c}{O} & \multicolumn{1}{c}{A} & \multicolumn{1}{c}{B} & \multicolumn{1}{c|}{AB} & \multicolumn{1}{c}{Total} \\ 
+\hline
+\'{A}rabe & \multicolumn{1}{c}{130} & \multicolumn{1}{c}{149} & \multicolumn{1}{c}{29} & \multicolumn{1}{c|}{8} & \multicolumn{1}{c}{316} \\ 
+N\~{a}o-\'{A}rabe & \multicolumn{1}{c}{417} & \multicolumn{1}{c}{292} & \multicolumn{1}{c}{94} & \multicolumn{1}{c|}{17} & \multicolumn{1}{c}{820} \\ 
+\hline
+Total & \multicolumn{1}{c}{547} & \multicolumn{1}{c}{441} & \multicolumn{1}{c}{123} & \multicolumn{1}{c|}{25} & \multicolumn{1}{c}{1136} \\ 
+\hline
+\end{tabular}
+\end{center}
+ 
+
+\section*{Exerc\'{\i}cio 3} 
+\hspace{0.5cm}Com base nos dados abaixo, verifique se a propor\c{c}\~{a}o de rec\'{e}m-nascidos vivos portadores de anomalia \'{e} a mesma nos dois sexos.
+
+\begin{center}
+\begin{tabular}{l|ll|l}
+\hline
+\multicolumn{1}{l}{} & \multicolumn{2}{c}{Anomalia} &  \\ 
+\hline
+Sexo & \multicolumn{1}{c}{Presente} & \multicolumn{1}{c|}{Ausente} & \multicolumn{1}{c}{Total} \\ 
+\hline
+Masculino & \multicolumn{1}{c}{28} & \multicolumn{1}{c|}{1485} & \multicolumn{1}{c}{1513} \\ 
+Feminino & \multicolumn{1}{c}{45} & \multicolumn{1}{c|}{1406} & \multicolumn{1}{c}{1451} \\ 
+\hline
+Total & \multicolumn{1}{c}{73} & \multicolumn{1}{c|}{2891} & \multicolumn{1}{c}{2964} \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+\section*{Exerc\'{\i}cio 4}
+\hspace{0.5cm}A companhia \textbf{A} de detetiza\c{c}\~{a}o afirma que o processo por ela utilizado garante um efeito mais prolongado do que 
+aquele obtido por seus concorrentes mais diretos. Uma amsotra de v\'{a}rios ambientes detetizados foi colhida e anotou-se a dura\c{c}\~{a}o do efeito
+ de detetiza\c{c}\~{a}o. Os resultados est\~{a}o na tabela abaixo. Voc\^{e} acha que existe alguma evid\^{e}ncia a favor ou contra a afirma\c{c}\~{a}o 
+feita pela companhia \textbf{A} ?
+
+\begin{center}
+\begin{tabular}{l|l|l|l}
+\hline
+ & \multicolumn{3}{c}{Dura\c{c}\~{a}o do efeito da detetiza\c{c}\~{a}o} \\ 
+\hline
+\multicolumn{1}{c|}{Companhia} & \multicolumn{1}{c|}{Menos de 4 meses} & \multicolumn{1}{c|}{De 4 a 8 meses} & \multicolumn{1}{c}{Mais de 8 meses} \\ 
+\hline
+\multicolumn{1}{c|}{A} & \multicolumn{1}{c|}{64} & \multicolumn{1}{c|}{120} & \multicolumn{1}{c}{16} \\ 
+\multicolumn{1}{c|}{B} & \multicolumn{1}{c|}{104} & \multicolumn{1}{c|}{175} & \multicolumn{1}{c}{21} \\ 
+\multicolumn{1}{c|}{C} & \multicolumn{1}{c|}{27} & \multicolumn{1}{c|}{48} & \multicolumn{1}{c}{5} \\ 
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Exerc\'{\i}cio 5}
+\hspace{0.5cm}Os dados abaixo s\~{a}o referentes ao consumo de cigarros per capito em 1930 e as mortes por 1.000.000 de habitantes em 1950 causadas por c\^{a}ncer no pulm\~{a}o, 
+em 11 pa\'{\i}ses. Pede-se:
+
+\begin{enumerate}
+	\item Desenhar o diagrama de dispers\~{a}o;
+	\item Calcular o coeficiente de correla\c{c}\~{a}o;
+	\item Interprete seus achados.
+\end{enumerate}
+
+\begin{center}
+\begin{tabular}{l|l|l}
+\hline
+\multicolumn{1}{c|}{Pa\'{\i}s} & \multicolumn{1}{c|}{Consumo de cigarros} & \multicolumn{1}{c}{Mortes} \\ 
+\hline
+\multicolumn{1}{c|}{Isl\^{a}ndia} & \multicolumn{1}{c|}{240} & \multicolumn{1}{c}{63} \\ 
+\multicolumn{1}{c|}{Noruega} & \multicolumn{1}{c|}{255} & \multicolumn{1}{c}{100} \\ 
+\multicolumn{1}{c|}{Su\'{e}cia} & \multicolumn{1}{c|}{340} & \multicolumn{1}{c}{140} \\ 
+\multicolumn{1}{c|}{Dinamarca} & \multicolumn{1}{c|}{375} & \multicolumn{1}{c}{175} \\ 
+\multicolumn{1}{c|}{Canad\'{a}} & \multicolumn{1}{c|}{510} & \multicolumn{1}{c}{160} \\ 
+\multicolumn{1}{c|}{Austria} & \multicolumn{1}{c|}{490} & \multicolumn{1}{c}{180} \\ 
+\multicolumn{1}{c|}{Holanda} & \multicolumn{1}{c|}{490} & \multicolumn{1}{c}{250} \\ 
+\multicolumn{1}{c|}{Su\'{\i}\c{c}a} & \multicolumn{1}{c|}{180} & \multicolumn{1}{c}{180} \\ 
+\multicolumn{1}{c|}{Finl\^{a}ndia} & \multicolumn{1}{c|}{1125} & \multicolumn{1}{c}{360} \\ 
+\multicolumn{1}{c|}{Gr\~{a}-Bretanha} & \multicolumn{1}{c|}{1150} & \multicolumn{1}{c}{470} \\ 
+\multicolumn{1}{c|}{EUA} & \multicolumn{1}{c|}{1275} & \multicolumn{1}{c}{200} \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+\section*{Exerc\'{\i}cio 6}
+\hspace{0.5cm}Observando os dados abaixo, verifique se existe rela\c{c}\~{a}o entre o peso \'{u}mido e o peso seco, em gramas, de l\'{o}bulos hep\'{a}ticos
+ de ratos.
+
+\begin{center}
+\begin{tabular}{l|l}
+\hline
+\multicolumn{1}{c|}{Peso \'{u}mido} & \multicolumn{1}{c}{Peso seco} \\ 
+\hline
+\multicolumn{1}{c|}{6,7} & \multicolumn{1}{c}{2,0} \\ 
+\multicolumn{1}{c|}{7,7} & \multicolumn{1}{c}{2,2} \\ 
+\multicolumn{1}{c|}{6,5} & \multicolumn{1}{c}{2,0} \\ 
+\multicolumn{1}{c|}{7,4} & \multicolumn{1}{c}{2,2} \\ 
+\multicolumn{1}{c|}{6,1} & \multicolumn{1}{c}{1,9} \\ 
+\multicolumn{1}{c|}{7,4} & \multicolumn{1}{c}{2,3} \\ 
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Exerc\'{\i}cio 7}
+\hspace{0.5cm}Observando os dados abaixo, verifique se existe rela\c{c}\~{a}o entre a idade gestacional, em semanas, e peso ao nascer, e, 
+quilogramas, de rec\'{e}m-nascidos.
+
+\begin{center}
+\begin{tabular}{l|l}
+\hline
+\multicolumn{1}{c|}{Idade gestacional} & \multicolumn{1}{c}{Peso ao nascer} \\ 
+\hline
+\multicolumn{1}{c|}{28} & \multicolumn{1}{c}{1,25} \\ 
+\multicolumn{1}{c|}{32} & \multicolumn{1}{c}{1,25} \\ 
+\multicolumn{1}{c|}{35} & \multicolumn{1}{c}{1,75} \\ 
+\multicolumn{1}{c|}{38} & \multicolumn{1}{c}{2,25} \\ 
+\multicolumn{1}{c|}{39} & \multicolumn{1}{c}{3,25} \\ 
+\multicolumn{1}{c|}{41} & \multicolumn{1}{c}{3,25} \\ 
+\multicolumn{1}{c|}{42} & \multicolumn{1}{c}{4,25} \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+\\
+
+
+\end{document}

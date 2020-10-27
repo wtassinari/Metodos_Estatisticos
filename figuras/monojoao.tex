@@ -1,0 +1,1474 @@
+\documentclass[a4paper,12pt]{report} %a4paper=21cm por 29,7cm;1in= 2,54cm;1cm=28pt%
+%\documentclass[12pt]{report}
+%\usepackage{abntex}
+\pagestyle{myheadings}
+\usepackage{amssymb}
+\usepackage[normalem]{ulem}
+\usepackage{graphics} % Pacote para a inclusï¿½o de grï¿½ficos
+\usepackage[dvips]{graphicx} %Trocar [draft] p/ [dvips] para a figura aparecer!
+\usepackage{graphicx}% para colocar figuras .gif, .jpg, etc.
+\usepackage{theorem}
+\usepackage[latin1]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{longtable}
+\usepackage{amsmath} % Pacotes Típicos c/ fontes matemáticas
+%\usepackage{math}
+\usepackage{amsfonts}% Pacotes Típicos c/ fontes matemáticas
+\usepackage{latexsym} % para fazer $\Box$ no \LaTeX2$\epsilon$
+%\usepackage[portuguese]{babel} % para separar sílabas em Português, etc...
+\usepackage{lscape} % gira 90o: \landscape ... \endlandscape
+\usepackage{amstext} % texto em equações: $... \text{} ...$
+\usepackage{multicol} % \begin{multicols}{2}{ ... }\end{multicols}
+%\usepackage{axodraw} % para fazer figuras c/ o axodraw
+\usepackage{tabularx} % tabelas ocupando toda a página
+\usepackage[textures]{epsfig}
+%\usepackage{epsf}
+%\usepackage{pstricks}
+
+%\usepackage{float}
+%\begin{verbatim} ... \end{verbatim}
+\def\abstractname{\vspace{-1in}\hspace{165pt} \sc \Large Resumo}
+\def\contentsname{\vspace{-1in}\hspace{165pt} \sc \Large Sumï¿½rio}
+\def\appendixname{\vspace{-1in}\hspace{165pt} \sc \Large Apï¿½ndice}
+%
+\renewcommand{\baselinestretch}{2}
+%
+\setlength{\hoffset}{-1in}      %+1in margem esquerda
+\setlength{\voffset}{-1in}      %+1in margem superior
+\setlength{\topmargin}{2cm}     %dist cx cabeçalho 'a margem superior
+\setlength{\headheight}{.5cm}  %altura da cx cabeï¿½alho
+\setlength{\headsep}{1cm}         %dist cx cabeçalho 'a cx texto
+\setlength{\textwidth}{14.8cm}      %largura da cx texto
+\setlength{\textheight}{23.7cm} %altura da cx texto
+\setlength{\oddsidemargin}{3.5cm}   %dist margem esquerda 'a cx texto das pg                        %impares
+\setlength{\evensidemargin}{3.5cm}  %dist margem esquerda 'a cx texto das pg                        %pares
+\setlength{\marginparwidth}{0in}   %largura da cx margem
+\setlength{\marginparsep}{0in} %dist da cx margem 'a cx texto
+\setlength{\paperwidth}{30cm}  %largura do papel
+\setlength{\paperheight}{29,7cm}   %altura do papel
+\setlength{\footskip}{28pt}          %dist da cx margem 'a cx texto
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPA %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\begin{center}
+{\bf \sc Univesidade Federal Rural do Rio de Janeiro\\
+Instituto de Ciências Exatas \\
+Departamento de Matemática}\\ [3cm]
+{\sc \bf \large Utilização do Modelo de Regressão Linear Múltipla Aplicado na Variabilidade do Preço do Mel nos Municípios de Angra dos Reis e Mangaratiba\\[4cm]}
+{\it João Paulo de Castro Antunes}\\[1cm]
+Orientador: Prof. Dr. Wagner de Souza Tassinari \\
+Orientadora: Prof. Dr. Maria Cristina Lorenzon \\[2cm]
+{\bf \sc Seropédica}\\
+{\bf \sc 2009}
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FOLHA DE ROSTO %%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\vspace*{1.5cm}
+\begin{center}
+{\sc \large João Paulo de Castro Antunes}\\[3cm]
+{\sc \bf \large Utilização do Modelo de Regressão Linear Múltipla Aplicado na Variabilidade do Preço do Mel nos Municípios de Angra dos Reis e Mangaratiba\\[2cm]}
+
+{\it Sob a orientação do Prof. Dr. Wagner de Souza Tassinari}\\
+ {\it e Prof. Dr. Maria Cristina Lorenzon}\\[2cm]
+\begin{flushright}
+\begin{minipage}[h]{4.5cm}
+Monografia submetida como requisito parcial para obtenção do grau de Licenciado e Bacharel em Matemática.
+\end{minipage}
+\end{flushright}
+\vspace{0.5cm}
+Seropédica\\    2009
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FOLHA DE ASSINATURA %%%%%%%%%%%%%%%%%%
+\newpage
+\thispagestyle{empty}
+\vspace*{1.5cm}
+\begin{center}
+     {\sc \large João Paulo de Castro Antunes}\\[1cm] 
+    {\sc \bf \large Utilização do Modelo de Regressão Linear Múltipla Aplicado na Variabilidade do Preço do Mel nos Municípios de Angra dos Reis e Mangaratiba\\[2cm]}
+
+{Monografia submetida como requisito parcial para obtenção do grau de Licenciado e Bacharel em Matemática, submetida à  aprovação da banca examinadora composta pelos seguintes membros:}\\[1cm]
+
+{\it Prof. Dr. Wagner de Souza Tassinari}\\[2cm]
+ {\it Prof. Dr. Maria Cristina Lorenzon}\\[2cm]
+{\it Prof. Mestre Adriana Oliveira Andrade }\\[1cm]
+
+Seropédica, 14 de julho de 2009.
+    
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% AGRADECIMENTO %%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\vspace*{12cm}
+\begin{flushright}
+Primeiramente agradeço a Deus, que é a luz que ilumina o meu caminho.\\
+Aos meus pais que sempre souberam dizer as palavras certas nas horas certas.\\
+Aos meus irmãos que mesmo de longe nunca deixaram de me apoiar.\\
+A minha familia em geral.\\
+Aos professores e amigos da minha universidade.\\
+A todos muito obrigado.\\
+\end{flushright}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% RESUMO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{\sc \centerline{Resumo}}
+\thispagestyle{empty} \addcontentsline{toc}{chapter}{Resumo}
+\hspace{0,58cm}O estado do Rio de Janeiro é um dos maiores centros consumidores de mel do país, mas no que diz respeito à produção continua estagnada, favorecendo a importação de mel de outros estados. O estado é também um dos que apresentam maior devastação ambiental e índices muitos pobres de suporte a agricultura familiar (Sebrae, 2006)
+. A região da Costa Verde do estado do Rio de Janeiro é uma das regiões menos expressivas na produção apícola.
+ 
+\hspace{0,58cm} Este trabalho objetiva identificar alguns fatores que contribuem para variabilidade do preço do mel nos municípios de Angra dos Reis e Mangaratiba. Tal estudo foi feito utilizando técnicas de modelagem de regressão linear múltipla, fornecendo como resultado uma reta de regressão que nos permite prevê o preço médio de 100g de mel, auxiliando assim o consumidor na pesquisa e compra de mel na região da Costa Verde - RJ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%t%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% ABSTRACT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\chapter*{\sc \centerline{Abstract}}
+%\thispagestyle{empty} \addcontentsline{toc}{chapter}{Abstract}
+%\hspace{0,58cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PREFï¿½CIO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\chapter*{\sc \centerline{Prefï¿½cio}}
+%\thispagestyle{empty} \addcontentsline{toc}{chapter}{Prefï¿½cio}
+%\hspace{0,58cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% SUMï¿½RIO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\tableofcontents
+\thispagestyle{empty}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LISTA DE FIGURAS %%%%%%%%%%%%%%%%%%%%%%%
+%\listoffigures \addcontentsline{toc}{chapter}{Lista de figuras}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% lista de tabelas %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\listoftables
+%\addcontentsline{toc}{chapter}{Lista de tabelas}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUÇÃO %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{\sc {Introdução}}
+\thispagestyle{empty} \addcontentsline{toc}{chapter}{Introdução}
+\hspace{0,58cm}
+Os modelos de regressão linear vem sendo largamente utilizados em diversas áreas do conhecimento, tais como: computação, administração, engenharias, biologia, agronomia, saúde, sociologia, etc.
+
+Tomando como base o trabalho feito por Scudino (2007), o objetivo dessa monografia é  analisar potênciais fatores determinísticos do preço do mel na região da Costa Verde do estado do Rio de Janeiro,  através da utilização de  modelos de regressão linear múltipla. O estudo foi realizado nas cidades de Angra dos Reis e Mangaratiba, no período compreendido entre janeiro e julho de 2007.
+
+Essa monografia está dividida em cinco capítulos. No primeiro serão apresentados os modelos de regressão linear simples. No segundo serão apresentados os modelos de regressão linear múltipla, enfatizando o uso  de variáveis dummeis. No terceiro abordaremos o uso de variáveis Dummeis.
+
+ No quarto capítulo serão mostrados alguns métodos de diagnósticos de resíduos sobre o modelo de regressão linear. No quinto capítulo será abordado um pouco sobre o mercado de mel, sendo feita uma contextualização do assunto. 
+
+E, finalmente, no sexto capítulo será feita uma aplicação desses modelos e dos respectivos métodos de diagnósticos no estudo dos fatores determinantes da variabilidade do preço do mel na região da Costa Verde - RJ.
+
+
+
+
+ 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPÍTULO I (ANÁLISE DE REGRESSÃO LINEAR SIMPLES) %%%%%%%%%%%%%%
+\chapter{\sc {Regressão Linear Simples}}
+\thispagestyle{empty}
+
+\section{Introdução}
+\hspace{0,58cm}    A finalidade da análise de regressão é estudar a relação funcional entre duas ou mais variáveis, as quais assumem valores quantitativos ou qualitativos, de tal forma que elas possam ser preditas a partir de outras, ou seja, podem projetar ou estimar uma nova observação (Martins, 2005). Muitos são os exemplos que podemos citar/enumerar onde uma variável é predita através de outra ou de outras, onde existe esta relação funcional entre as variáveis.
+
+A) Preço do aluguel de um imóvel a partir de sua localização, área total do imóvel, número de quartos e estado de conservação do imóvel;
+
+B) Aumento na produção de uma cultura em relação à quantidade de adubo fornecido às plantas;
+
+C) Número de pessoas internadas com sintomas da Dengue em relação ao índice pluviométrico da região estudada. 
+
+Observando esses exemplos o objetivo é medir a relação entre elas, essa medida terá as seguintes características:
+
+1 - se houver relação entre as variáveis, esta relação será forte ou fraca;
+
+2 - caso observe-se esta relação, o objetivo seguinte é construir um modelo que possa interpretar a função existente entre as variáveis envolvidas no estudo;
+
+3 - obtendo este modelo, pode-se utilizá-lo para estimar valores futuros da variável independente e simultaneamente verificar o efeito de cada variável independente em relação a variavel dependente.
+
+Assim podemos concluir que o conjunto de variáveis pode ser constituido por vários elementos, os quais poderão estar relacionados entre si. Quando tiver uma relação entre duas variáveis, utilizaremos a regressão linear simples, quando a relação for entre mais de duas variáveis utilizaremos a regressão linear múltipla.
+
+Para Akaike (1974) os modelos de regressão obedecem algumas características:
+
+1 - buscar relações de causa e efeito das variáveis;
+
+2 - predição de valores;
+
+3 - estabelecer uma explicação sobre uma população a partir da
+amostra.
+
+\section{Modelo de Regressão Linear Simples}
+
+\hspace{0,58cm} Martins (2005) explica que a natureza da relação entre as variáveis pode tomar várias formas, desde uma simples relação linear até uma complexa função matemática.
+\newpage
+O modelo de regressão linear simples pode ser representado como:
+
+\begin{equation}\label{modelo de regressao simples}
+ Y_{i} = \alpha + \beta X_{i} + \varepsilon_{i}
+\end{equation}
+
+onde:\hspace{0,58cm} $Y_{i}$ = valor predito pelo modelo para a i-ésima observação.
+
+\hspace{1,75cm} $\alpha$ = intercepto
+
+\hspace{1,75cm}$\beta$ = inclinação da reta
+
+\hspace{1,75cm}$\varepsilon$ = erro aleatório de $Y_{i}$ para a $i$-ésima observação.
+
+Onde $\alpha$ representa o valor da variável $Y$ quando a variével $X$ = 0 ; $\beta$ representa a inclinação da reta de regressão, isto é, a mudança de $Y$ por cada unidade de $X$ ; $\varepsilon$ representa uma variável aleatória que descreve o erro de $Y$ para cada observação $i$.
+
+
+\hspace{0,58cm}Com base em uma amostra pretendemos expecificar uma equação de regressão, ao estimar os valores dos coeficientes da reta de regressão:
+ 
+\begin{equation}\label{equacao de regressao simples}
+ \^{Y}_{i} = a + b X_{i} 
+\end{equation}
+
+onde:\hspace{0,58cm}$\^{Y}$ = o valor da previsão de $Y$ para uma observação $X_{i}$
+
+\hspace{1,71cm}$ X_{i} $ = o valor de $X$ para cada observação $i$
+
+\hspace{1,71cm}$a$ = o estimador de $\alpha$
+
+\hspace{1,71cm}$b$ = o estimador de $\beta$
+
+Agora basta ajustar os parâmetros $a$ e $b$ de tal forma que a reta se ajuste da melhor forma ao nosso conjunto de pontos. Existem várias formas de estimar estes parâmetros. Nesse estudo utilizaremos o Método dos Mínimos Quadrados (MMQ), que consiste em minimizar a soma dos quadrados dos erros, ou seja minimizar a função de mínimos quadrados (Bussab, 2002):
+
+O método de ajuste dos mínimos quadrados é preferível por que:
+
+\begin{enumerate}
+ \item Onera os desvios maiores, fato desejável que evita grandes desvios.
+
+ \item Permite realizar testes de significância na equação de regressão.
+
+ \item A reta de regressão passa pelo ponto formado pelos valores das médias das duas séries de observações.
+
+\end{enumerate}
+
+
+
+O erro de previsão $\varepsilon$ corresponde a diferença entre um valor observado $Y$ e o valor correspondente de $\^{Y}$ da reta. O que se deseja e temos que fazer é torna esse erro pequeno, ou seja, $( Y - \^{Y})$ o menor possível. Vamos somar todos os erros e fazer que essa soma de zero, isto é:  $\sum_{i=1}^n e_{i} = 0$ .
+
+Na reta os pontos que estão acima dão erros positivos e os que estão abaixo dão erros negativos por isso usaremos os quadrados dos erros em nossos cáculos, daí o nome de Mínimos Quadrados e como $\^Y_{i} = a + bX_{i}$, vamos minimizar os erros (Montgomery $\&$ Runger, 2003):
+
+Sendo a soma dos quadrados dos desvios das observações em relação à reta de regressão dada por
+
+\begin{equation}\label{minimizando os erros}
+L = \sum_{i=1}^n \varepsilon_{i}^{2} = \sum _{i=1}^n (Y{i} - a - bX_{i})^{2}
+\end{equation}
+
+Os estimadores dos mínimos quadrados têm que satisfazer
+
+\begin{equation}\label{minimizando os erros2}
+\dfrac{\partial L}{\partial a} = -2 \sum _{i=1}^n (Y{i} - a - bX_{i}) = 0 
+\end{equation}
+\begin{equation}\label{minimizando os erros3}
+\dfrac{\partial L}{\partial b} = -2 \sum _{i=1}^n (Y{i} - a - bX_{i})X_{i} = 0
+\end{equation}
+ 
+A simplificação dessas duas equações resulta em 
+
+\begin{equation}\label{minimizando os erros3}
+na + b\sum_{i=1}^n X_{i} = \sum_{i=1}^n Y_{i} 
+\end{equation}
+
+\begin{equation}\label{minimizando os erros4}
+a\sum_{i=1}^n X_{i} + b\sum_{i=1}^n X_{i}^{2} = \sum_{i=1}^n Y_{i}X_{i} 
+\end{equation}
+
+Resolvendo o sistema para $a$ e $b$, temos:
+\begin{equation}\label{coeficientes1}
+ b = \dfrac{S_{XY}}{S_{XX}} \hspace{1,71cm}e   \hspace{1,71cm}a = \bar{y}   - b\bar{x}  
+\end{equation}
+
+onde:
+
+\begin{equation}\label{coeficientes3}
+ S_{XY} = \sum xy-\dfrac{\sum x \sum y}{n} \hspace{1,21cm}e\hspace{1,21cm}S_{XX} = \sum x^{2}-\dfrac{(\sum x)^{2}}{n}   
+\end{equation}
+
+\begin{equation}\label{coeficientes4}
+ \bar{x} = \dfrac{\sum x}{n} \hspace{1,71cm}e   \hspace{1,71cm}\bar{y} = \dfrac{\sum y}{n}  
+\end{equation}
+
+Após encontrarmos os coeficientes é necessário fazer algumas hipóteses sobre a variável aleatória $\varepsilon$ para que esse modelo tenha validade.
+
+\section{Hipóteses Sobre o Modelo}
+
+\hspace{0,58cm}Martins (2005) explica que para validação das inferências feitas, são necessárias algumas hipóteses sobre o comportamento da variável aleatória que representa os possíveis erros da variável dependente $Y$, no modelo:
+
+\begin{center}
+ $ y_{i} = \alpha + \beta X_{i} + \varepsilon_{i}$
+\end{center} 
+
+São elas:
+
+\begin{enumerate}
+
+ \item A distribuição de probabilidade dos erros segue uma distribuição normal, ou seja,\\ $\varepsilon \sim N(0,\sigma^{2})$.
+
+
+ \item A média da distribuição de probabilidade da variável $\varepsilon$ é zero, isto é: $\mu_{\varepsilon} = E[\varepsilon] = 0$. Assim, para cada observação $X$, a média dos erros para uma grande série de experimentos é zero.
+
+ \item A variância da distribuição de probablilidade da variável $\varepsilon$ é constante para todos os valores de $X$, e é igual a $\sigma^{2}$. Isto é: $Var[\varepsilon] = \sigma^{2}$.
+
+
+
+ \item Os erros associados a duas observações quaisquer são independentes. Isto é, o erro associado com um valor de $\varepsilon_{i}$ não afeta o erro associado com outro valor de $\varepsilon_{i+1}$, ou seja, $cor(\varepsilon_{i},\varepsilon_{i+1}) = 0$
+
+\end{enumerate}
+
+
+\hspace{0,58cm}Para algumas aplicações, é necessário um estimador para a variância do erro que ajudará a inspecionar o comportamento do resíduo no diagrama de inspeção, e observar o grau de precisão do ajuste. O método para calcular esta estimativa é obitida a soma dos quadrados dos desvios pela número de graus de liberdade da soma, onde os desvios são as diferenças entre as observações e a estimativa do modelo proposto. Observe a fórmula abaixo:
+
+\begin{equation}\label{varianca do modelo1}
+S^{2} = \dfrac{\sum_{i=1}^n (y_{i} - \^y_{i})^{2}}{\phi} = \dfrac{\sum_{i=1}^n (\varepsilon_{i})^{2}}{\phi}
+\end{equation}
+
+onde $\phi$ representa o número de graus de liberdades, que no nosso caso é $n - 2$  pois já temos dois parâmetros estimados $a$ e $b$ da reta $ \^Y_{i} = a + bX_{i}$. Substituindo temos:
+
+\begin{equation}\label{varianca do modelo2}
+S^{2} = \dfrac{\sum_{i=1}^n (y_{i} - \^y_{i})^{2}}{n-2} = \dfrac{\sum_{i=1}^n (\varepsilon_{i})^{2}}{n-2}
+\end{equation}
+
+
+A raiz quadrada de $S^{2}$ é o desvio padrão, ou erro padrão da estimativa.
+
+Assim:
+
+\begin{equation}\label{desvio padrao do modelo}
+S = \sqrt{\dfrac{\sum_{i=1}^n (y_{i} - \^y_{i})^{2}}{n-2}} = \sqrt{\dfrac{\sum_{i=1}^n (\varepsilon_{i})^{2}}{n-2}}
+\end{equation}
+ 
+Denomina-se variação residual a soma dos quadrados dos desvios $ \sum(y_{i} - \^y_{i})^{2}$:
+
+\begin{equation}\label{Variacao residual}
+VR = \sum_{n=i}^n(y_{i} - \^y_{i})^{2} = S_{YY} -(b)(S_{XY})
+\end{equation}
+ 
+Desta maneira também poderemos escrever:
+\begin{equation}\label{Variacao residual}
+S^{2} = \dfrac{VR}{n-2} = \dfrac{S_{YY} -(b)(S_{XY})}{n-2} \hspace{0,58cm}e \hspace{0,58cm} S = \sqrt{\dfrac{VR}{n-2}} = \sqrt{\dfrac{S_{YY} -(b)(S_{XY})}{n-2}}
+\end{equation}
+
+onde:
+
+\begin{equation}\label{Syy}
+S_{YY} = \sum_{i=1}^n y^{2} -\dfrac{(\sum_{i=1}^n y)^{2}}{n}
+\end{equation}
+
+
+\section{Coeficiente de Determinação ($R^{2}$)}
+\hspace{0,58cm} Diz respeito a um indicador que mensura a qualidade do ajuste do modelo, ou seja, verifica a aderência da reta de regressão estimada ao conjunto de dados.
+
+Desta maneira, o coeficiente de determinação é dado por:
+
+\begin{equation}\label{R1}
+R^{2} = \dfrac{VE}{VT}
+\end{equation}
+
+\begin{equation}\label{R2}
+R^{2} = \dfrac{b(S_{XY})}{S_{YY}}
+\end{equation}
+
+\begin{equation}\label{R3}
+R^{2} = \dfrac{VT - VR}{VT}
+\end{equation}
+
+onde:\hspace{0,58cm} 0 $\leq$ $R^{2}$ $\leq$ 1, ou se multiplicarmos o $R^{2}$ por 100 teremos:
+\hspace{1,71cm} 0\% $\leq$ $R^{2}$ $\leq$ 100\%
+
+Sejam: 
+\begin{itemize}
+ \item Variação Total
+\begin{equation}\label{VT}
+VT = S_{YY} = \sum_{i=1}^n(y_{i} - \bar{y})^{2} = \sum_{i=1}^n y^{2} - \dfrac{(\sum_{i=1}^n y)^{2}}{n}
+\end{equation}
+ \item Variação Explicada pela Variável Independente
+\begin{equation}\label{VE}
+VE = \sum_{i=1}^n (\^y_{i} - \bar{y})^{2} = b(S_{XY})
+\end{equation}
+ \item A variação residual será calculada como a diferença entre a variação total e a variação explicada:
+
+\begin{equation}\label{VR}
+VR = VT - VE = S_{YY} - b(S_{XY})
+\end{equation}
+\end{itemize}
+
+
+
+\hspace{0,58cm}Pode dizer-se que $ R^{2} $ representa a percentagem da variabilidade de $Y$ que é explicada pela regressão. Este coeficiente é a medida de quão bem a reta de regressão se ajusta aos dados. $R^{2}$ varia entre zero e um, e quanto mais próximo de um estiver, melhor será o ajuste do modelo.
+
+\hspace{0,58cm}$R^{2} = 1$ indica que o ajuste é perfeito, pois todos os pontos observados estão na reta ajustada, ou seja as variações de $y_{i} e \^y_{i}$, são completamente explicadas pelas variações de $X$ .Se $ R^{2} = 0$ , conclui-se que as variações de $Y$ são devidas a outras razões e a inserção de $X$ no modelo não afetará as variações de novas variáveis $Y$, ou seja, não existiria regressão linear no conjunto de dados.
+
+
+ 
+\section{Inferência Sobre o Coeficiente de inclinação ($\beta $) }
+
+\subsection{Teste de Hipóteses}
+
+\hspace{0,58cm}Com este teste poderemos verificar a existência, ou não, associação entre as variáveis $X$ e $Y$( Martins, 2005). O teste com o parâmetro $\beta$ verifica a contribuição da variável $X$ na explicação da variabilidade de $Y$.
+
+Procedimento para realização do teste:
+
+\begin{enumerate}
+ \item Formulação da hipóteses
+
+\hspace{0,71cm}$ H_{0}: \beta = 0$
+
+\hspace{0,71cm}$H_{1}: \beta \neq 0$ 
+
+\hspace{0,71cm}$H_{1}: \beta > 0$
+
+\hspace{0,71cm}$H_{1}: \beta < 0$ 
+
+\item Fixar $\alpha$ (probabilidade de erro) e escolher a variável do teste, no caso, a distribuição t de Student com $\phi$ = n - 2
+
+\item Com auxílio da $tabela$ t, construir as regiões para rejeição ( RC ) e aceitação ( não-rejeição) RA para $H_{0}$.
+
+\item Com os dados amostrais, calcular o valor da variável:
+
+\begin{equation}\label{teste hipotese}
+t_{cal} = \dfrac{b}{\dfrac{S}{\sqrt{S_{XX}}}}
+\end{equation}
+
+
+
+ \begin{figure}[htp]
+
+\begin{center}
+\caption{Regiões Críticas }
+ \includegraphics[width=250,height=200]{teste.png}
+ % analises4.png: 0x0 pixel, 0dpi, 0.00x0.00 cm, bb=
+\\
+\small Fonte: Martins (2005)\\
+\end{center}
+
+\end{figure}
+
+\item Conclusão do teste:
+
+\begin{itemize}
+ \item Caso (a): se $t_{cal} > t_{\frac{\alpha}{2}}$, ou $t_{cal} < - t_{\frac{\alpha}{2}}$ ,rejeita-se $H_{0}$, com risco $\alpha$, ou seja, que  a contribuição de X é significativa.
+ \item Caso (b): Se $ - t_{\frac{\alpha}{2}} \leq t_{cal} \leq t_{ - \frac{\alpha}{2}} $, não rejeita $H_{0}$ com risco $\alpha$, ou seja, que  a contribuição é nula. 
+
+\end{itemize}
+
+\subsection{ANOVA da Regressão ( teste  $F$ )}
+\hspace{0,58cm}Podemos verificar a existência da contribuição da variável $X$ também através da utilização da análise de variância (ANOVA), estudando as variações totais, explicadas e residuais. Para executar o teste $F$ seguimos os seguintes procedimentos:
+
+
+\begin{enumerate}
+ \item  Enunciar as hipóteses:  $H_{0}: \beta = 0$
+
+\hspace{0,71cm}$H_{1}: \beta \neq 0$
+\item Fixar o nível de significância do teste ($\alpha$) e escolher uma variável $F$ com 1 grau de liberdade no numerador ( devido ao uso de uma variável independente) e $(n-2)$ graus de liberdade no denominador.
+
+\item Com o auxílio da tabela de distribuição $F$, determinan-se as regiões de reijeição e não rejeição (aceitação).
+
+\item Montar o quadro de Análise das Variâncias (QAV)
+
+\end{enumerate}
+
+\begin{tabular}{lllll}
+
+\hline
+Fonte de Variação & Soma dos Quadrados & GL & Quadrados Médios & \multicolumn{1}{c} {F_{calculado}} \\ 
+\hline
+Devido a variável & \multicolumn{1}{c} {VE = $bS_{XY}$} &\multicolumn{1}{c} {1} & \multicolumn{1}{c}{$bS_{XY}$/1} &  \\ 
+Residual & \multicolumn{1}{c}  {VR = $S_{YY}$ - $S_{XY}$} &\multicolumn{1}{c} {n - 2} &\multicolumn{1}{c} {$S^{2} = \dfrac{VR}{(n - 2)}$} & \multicolumn{1}{c}{Fcal = $\dfrac{bS_{XY}}{S^{2}}$} \\ 
+Total &\multicolumn{1}{c} {$VT = S_{YY}$} &\multicolumn{1}{c} {n - 1} &  &  \\ 
+\hline
+\end{tabular}
+
+\begin{itemize}
+
+\item Conclusão:Obtemos o  $F_{tab}$ por F($\alpha$, n - 2) e daí se $F_{cal}>F_{tab}$ rejeita-se $H_{0}$, concluindo-se, com risco $\alpha$, que existe regressão linear simples, isto é, o modelo pode explicar e prever a variável $Y$.
+
+ \end{itemize}
+
+
+ \begin{figure}[htp]
+
+\begin{center}
+\caption{Regiões Críticas}
+ \includegraphics[width=250,height=200]{Ftab.png}
+ % analises4.png: 0x0 pixel, 0dpi, 0.00x0.00 cm, bb=
+\\
+\small Fonte: Martins (2005)\\
+\end{center}
+
+\end{figure}
+ 
+
+
+\section{Intervalos de Confiança}
+\hspace{0,58cm}Uma forma alternativa ao teste do parâmetro $\beta_{1}$ do modelo é a contribuição de intervalos de confiança em torno do parâmetro $\beta$ ou do valor previsto de $Y$ (Martins, 2005).
+
+\hspace{0,58cm}Quanto maior for o intervalo em torno da reta ajustada, menor será a precisão do ajuste é uma medida de qualidade do ajuste.
+
+Para o intervalo de confiança do coeficiente de inclinação ($\beta$) temos:
+\begin{equation}\label{intervalo de confiança}
+P( b-t_{\frac{\alpha}{2}}\dfrac{S}{\sqrt{S_{XX}}}\leq \beta \leq b + t_{\frac{\alpha}{2}}\dfrac{S}{\sqrt{S_{XX}}}) = ( 1 - \alpha)100
+\end{equation}
+
+Para o intervalo de confiança do valor previsto $Y$ temos:
+\begin{equation}\label{intervalo de confiança}
+P(\^Y_{(x)} \pm t_{\frac{\alpha}{2}}S\sqrt{1 + \frac{1}{n} + \dfrac{(x- \bar{x})^{2}}{S_{XX}}}) = ( 1 - \alpha)100 
+\end{equation}
+
+onde a distribuição $t$ é tomada com $( n-2 )$ graus de liberdade, e os valores $\pm t_{\frac{\alpha}{2}}$ obtidos na tabela $t$ de Student.
+
+\chapter{\sc {Regressão Linear Múltipla}}
+\thispagestyle{empty}
+
+\section{Introdução}
+\hspace{0,58cm}Na prática o modelo de regressão linear simples é pouco utlizado no mundo real, pois geralmente não existe apenas uma variável que influência a variável que queremos prever e/ou explicar. Modelos que contém mais de uma variável independente recebem o nome de modelos de regressão linear múltipla (Gujarati, 2000).
+
+\hspace{0,58cm}A regressão múltipla envolve três ou mais variáveis. Ou seja, ainda uma única variável dependente e duas ou mais variáveis independentes (explanatórias).
+
+\hspace{0,58cm}A finalidade das variáveis independentes adicionais é melhorar a capacidade de predição em confronto com a regressão linear simples.
+
+\hspace{0,58cm}Mesmo quando estamos interessados no efeito de apenas uma das variáveis, é aconselhavel incluir as outras capazes de afetar $Y$, efetuando uma análise de regressão múltipla, por 2 razões:
+
+\begin{enumerate}
+ \item Para reduzir os resíduos. Reduzindo-se a variância residual (erro padrão da estimativa), aumenta a força dos testes de significância;
+
+ \item Para eliminar a tendenciosidade causada pela omissão de uma variável que afeta $Y$ substancialmente.
+
+\end{enumerate}
+
+\hspace{0,58cm}Uma estimativa é tendenciosa quando, por exemplo, numa pesquisa em que se deseja investigar a relação entre a aplicação de fertilizante e o volume de safra, atribuímos erroneamente ao fertilizante os efeitos do fertilizante mais a precipitação pluviométrica.
+
+\hspace{0,58cm}O ideal é que o modelo propossto seja capaz de explicar a maior parte da variabilidade da variável resposta com o menor número de variáveis independentes, sobretudo em virtude do custo na obtenção de dados para muitas variáveis e também pela necessidade de observações adicionais para compensar a perda de graus de liberdade decorrente da introdução de mais variáveis independentes.
+
+\section{Modelo de Regressão Linear Mútipla}
+
+\hspace{0,58cm}A equação da regressão múltipla tem a forma seguinte:
+
+\begin{equation}\label{modelo de regressao multipla}
+\^Y_{i} = a + b_{1}X_{1i} + b_{2}X_{2i} + ... + b_{k}X_{ki}.
+\end{equation}
+
+onde: $\^Y_{i}$ é a variável dependente;
+
+\hspace{1,2cm}$X_{1i},X_{2i},...,X_{ki}$ são as variáveis independentes;
+
+\hspace{1,2cm}$a$ é o intercepto, também conhecido como média geral;
+
+\hspace{1,2cm}$b_{i}$ determina os efeitos(contribuição) das variáveis independentes $X_{k}$ (coeficiente de inclinação);
+
+
+\hspace{0,58cm}Agora precisamos estimar os nossos parâmetros para podermos escreve a equação do modelo, para isso podemos reescrever nosso modelo como (Montgomery $\&$ Runger, 2003) :
+
+\begin{equation}\label{modelo de regressao multipla2}
+\^Y_{i} = a + \sum_{j=1}^k b_{j}X_{ij}   \hspace{3cm}  i = 1,2,...,n \\
+\end{equation}
+
+A função dos míninos quadrados é
+
+\begin{equation}\label{modelo de regressao multipla3}
+L = \sum_{i=1}^n \varepsilon_{i}^{2} = \sum_{i=1}^n (\^Y_{i} - a - \sum_{j=1}^k b_{j}X_{ij})^{2} 
+\end{equation}
+
+\hspace{0,58cm}A função L deve ser minimizada com relação aos parâmetros $a$, $b_{1}$, ..., $b_{k}$. e as estimativas dos mínimos quadrados têm que satisfazer 
+
+\begin{equation}\label{minimizando os erros multiplo1}
+\dfrac{\partial L}{\partial a} = -2 \sum _{i=1}^n (Y{i} - a - \sum_{j=1}^k b_{j}X_{ij}) = 0 
+\end{equation}
+
+e
+
+
+\begin{equation}\label{minimizando os erros multiplo2}
+\dfrac{\partial L}{\partial b_{j}} = -2 \sum _{i=1}^n (Y{i} - a - \sum_{j=1}^k b_{j}X_{ij})X_{ij} = 0
+\end{equation}
+\newpage
+Simplificando as equações (2.4) e (2.5), obtemos as equações normais de mínimos quadrados
+
+\begin{equation*}\label{equacoes normais multiplo1}
+na + b_{1}\sum_{i=1}^n X_{i1} + b_{2}\sum_{i=1}^n X_{i2} + ... + b_{k}\sum_{i=1}^n X_{ik} = \sum_{i=1}^n Y_{i}
+
+a\sum_{i=1}^n X_{i1} + b_{1}\sum_{i=1}^n X_{i1}^{2} + b_{2}\sum_{i=1}^n X_{i1}X_{i2} + ... + b_{k}\sum_{i=1}^n X_{i1}X_{ik} = \sum_{i=1}^n X_{i1}Y_{i}
+
+\hspace{1,2cm}. \hspace{2cm} . \hspace{2cm} . \hspace{3,5cm} . \hspace{2cm}.
+
+\hspace{1,2cm}. \hspace{2cm} . \hspace{2cm} . \hspace{3,5cm} . \hspace{2cm}.
+
+\hspace{1,2cm}. \hspace{2cm} . \hspace{2cm} . \hspace{3,5cm} . \hspace{2cm}.
+
+\hspace{1,2cm}. \hspace{2cm} . \hspace{2cm} . \hspace{3,5cm} . \hspace{2cm}.
+
+a\sum_{i=1}^n X_{i} + b_{1}\sum_{i=1}^n X_{ik}X_{i1}} + b_{2}\sum_{i=1}^n X_{ik}X_{i2} + ... + b_{k}\sum_{i=1}^n X_{ik}^{2} = \sum_{i=1}^n X_{ik}Y_{i}
+\end{equation*}
+
+\hspace{0,58cm}Note que há $p = k + 1$ equações normais, uma para cada um dos coeficientes desconhecidos de regressão. A solução para as equações normais serão os estimadores de mínimos quadrados dos coeficientes de regressão, a, $b_{1}, b_{2}, ..., b_{k}$. As equações normais podem ser resolvidas por qualquer método apropriado para resolver um sistema de equações lineares (Montgomery $\&$ Runger, 2003).
+
+\section{Hipóteses Sobre o Modelo}
+
+\hspace{0,58cm}Para garantir a validade sobre os resultados obtidos pelo Método dos Mínimos Quadrados (MMQ), bem como a significância das inferências sobre o modelo de regressão linaer múltipla, são necessárias as mesmas hipóteses que foram feitas para o modelo de regressão linear simples (Martins, 2005).
+
+\section{ Estimação da Variância S^{2}}
+
+\hspace{0,58cm}Como na regressão linear simples, a variância $\sigma^{2}$ do erro do modelo de regressão linear múltipla também pode ser estimador, constituindo-se em um indicador da qualidade do ajustamento. A expressão da variância amostral é dada por (Martins, 2005):
+
+\begin{equation}\label{variancia multipla}
+S^{2} = \dfrac{\sum_{i=1}^n (Y_{i} - \^Y_{i})^{2}}{n - k - 1} 
+\end{equation}
+
+onde: n = número de observações no estudo.
+
+\hspace{1cm} k = número de variáveis independentes.
+
+Quanto a estimativa do desvio padrão teremos:
+
+\begin{equation}\label{desvio padrao multipla}
+S = \sqrt{S^{2}}
+\end{equation}
+
+\section{Coeficiente de Determinação ($R^{2}$)}
+
+\subsection{Coeficiente de Determinação Clássico}
+
+\hspace{0,58cm} Todo os cáculos para Variação Total ($VT$) (Eq. 1.18), Variação Explicada ($VE$) (Eq. 1.19) e Variação Residual ($VR$) (Eq. 1.15) são iguais aos utilizados para o modelo de regressão linear simples. Mas no caso do Coeficiente de determinação para os modelos de regressão mútipla ($R^{2}$) apesar de ter mesma equação (Eq. 1.21) ele tende a superestimar o verdadeiro valor, assim quado necessário podemos ajusta-lo pelo coeficiente de determinação ajustado.
+
+\subsection{Coeficiente de Determinação Ajustado}
+\hspace{0,58cm}O coeficiente de determinação ajustado tem por finalidade caracterizar a redução da variabilidade total de $Y$ com o conjunto de variáveis $ X_{i}$ , onde $1 \leq i \leq n $ e $1 \leq j \leq k $. Se $R^2$ = 1 temos que $Y_{i} = \^Y_{i} $, e além disso observa-se que $ R^{2}$ aumenta com a adição de variáveis independentes, por isso usa-se o coeficiente de determinação ajustado neste caso, onde é dado por (Charnet, 1999):
+
+\begin{equation}\label{R ajustado}
+R_{a}^{2} = 1 - \dfrac{\dfrac{VE}{n-p}}{\dfrac{VT}{n-1}} = 1 - (\dfrac{n-1}{n-p})\dfrac{VE}{VT}
+\end{equation}
+
+onde: p = o número de variáveis independentes.
+
+\section{Inferência sobre os Coeficientes de inclinação ($\beta_{i}$)}
+
+\subsection{Existência de Regressão Linear Múltipla}
+
+\hspace{0,58cm}Estamos interessados em testar o modelo, visando realizar previsões para $Y$ com certa segurança. Será apresentado o roteiro para o teste do modelo com duas ou mais variáveis (Martins, 2005):
+
+\begin{enumerate}
+ \item \hspace{0,58cm}Formulação das hipóteses
+
+\hspace{0,71cm}$ H_{0}: \beta_{1} = \beta_{2} = ... = \beta_{k}  = 0$
+
+\hspace{0,71cm}$H_{1}$: Todos os parâmetros  $\beta_{1},\beta_{2},...,\beta_{k}$ são diferentes de zero. 
+
+\item Fixar $\alpha$ (probabilidade de erro) e escolher uma variável $F(\alpha; n - (k - 1))$.
+
+ \begin{figure}[htp]
+
+\begin{center}
+\caption{Teste de Hipótese F }
+ \includegraphics[width=250,height=200]{Ftab.png}
+ % analises4.png: 0x0 pixel, 0dpi, 0.00x0.00 cm, bb=
+\\
+\small Fonte: Martins (2005)\\
+\end{center}
+
+\end{figure}
+
+\item Com auxílio da tabela de distribuição $F$, construir as regiões para rejeição ( $RC$ ) e aceitação ( não-rejeição) $RA$.
+
+\item Com os dados amostrais, calcular a estatística do teste:
+
+\begin{equation}\label{teste hipotese multipla}
+F_{cal} = (\dfrac{R^{2}}{1 - R^{2}})[\dfrac{n - (k - 1)}{k}]
+\end{equation}
+\item Caso $F_{cal} > F_{tab}$, rejeita-se $H_{0}$, concluindo-se, com risco $\alpha$, que existe regressão, isto é, o modelo é capaz de explicar e prever $Y$.
+\end{enumerate}
+
+\section{Nível de significância e p-valor}
+\hspace{0,58cm}Para testar uma hipótese estabelecida, a
+probabilidade máxima com o qual se pode ocorrer o erro, é denominada nível de significância do teste (Spiegel,
+1993). Normalmente, o nível de significância é representado por
+$\alpha$ e, geralmente, é especificado antes da extração das amostras
+e das hipóteses, de modo que os resultados obtidos não influênciem a
+escolha. 
+
+\hspace{0,58cm}Usualmente são escolhidos os seguintes níveis $\alpha = 0,01$ ou $0,05$, isto é, se
+escolhido o índice de $0,01$, então existe $1$ chance em  $100$, da
+hipótese ser rejeitada. Da mesma
+maneira podemos dizer que existe uma confiança de $99\%$ de
+que se tome a decisão certa. Supondo que a hipótese nula seja
+verdadeira e que a probabilidade de se obter um efeito devido ao
+erro amostral seja menor do que $1\%$, o achado é dito significativo.
+Se a probabilidade for maior que $1\%$, o achado é dito não-significativo
+(Dancey \verb"&" Reidy, 2006).
+
+\hspace{0,58cm} Na resposta dos testes de hipóteses,
+um valor é comparado com o nível de significância  previamente
+escolhido, sendo chamado de \textit{p}-valor ou valor \textit{p},
+isto é, valor do poder do teste. O \textit{p}-valor (nível de
+significância observado) é o menor nível de significância em que
+$H_{0}$ seria rejeitada, quando um procedimento de teste específico
+é usado em um determinado conjunto de dados.
+
+\hspace{0,58cm}Assim, quando \textit{p}-valor $ \leq \alpha$ implica na rejeição de $H_{0}$ no
+nível $\alpha$. Ou se \textit{p}-valor $> \alpha$ implica na não
+rejeição de $H_{0}$ no nível $\alpha$. Então, em vários estudos as
+respostas poderão vir referenciando o nível de significância ou
+\textit{p}-valor.
+
+
+\section{Técnica de seleção de variáveis explicativas ou independentes \textit{Stepwise}}
+
+\hspace{0,58cm}Um problema importante em muitas aplicações da análise de regressão envolve selecionar o conjunto de variáveis independentes ou preditoras a ser usado no modelo. Algumas vezes, experiência prévia ou considerações teóricas em foco podem ajudar o analista a especificar o conjunto de preditoras(Lins \& Moreira, 1999). 
+
+\hspace{0,58cm}Uma grande quantidade de julgamento e de experiência com o fenômeno sendo modelado é geralmente necessária para selecionar um conjunto apropriado de variáveis preditoras para um modelo de regressão múltipla.
+
+\hspace{0,58cm}Porém existem algumas técnicas que fazem essa seleção de maneira ``automática", a mais usual se chama \textit{stepwise}. Essa técnica é classificada de duas maneiras, \textit{stepwise BackWard} e \textit{stepwise ForWard}.
+ 
+\hspace{0,58cm}A regressão \textit{stepwise BackWard} provavelmente, é a técnica mais utilizada para seleção de variáveis, o procedimento constrói iterativamente uma seqüência de modelos de regressão pela adição ou remoção de variáveis em cada etapa. O critério para adicionar ou remover uma variável em qualquer etapa é geralmente expresso em termos de um teste parcial $F$(Lins \& Moreira, 1999).
+
+ \hspace{0,58cm}A regressão \textit{stepwise BackWard }começa formando um modelo com todas as variáveis
+independentes, e vai se retirando uma a uma as que não foram significativas $(p-valor \geq 0,05)$.
+
+\hspace{0,58cm}O procedimento de seleção \textit{Stepwise ForWard} é uma variação da regressão \textit{stepwise BackWard}, e está baseado no princípio de que as variáveis preditoras devem ser adicionadas ao modelo uma de cada vez, desde que inclusas no modelo sejam significativas $(p-valor \geq 0,05)$.
+
+\hspace{0,58cm}A seleção progressiva é uma simplificação da regressão \textit{stepwise BackWard} que omite o teste parcial $F$ de remoção do modelo das variáveis que foram adicionadas em etapas prévias. Essa é uma potencial fraqueza da seleção \textit{stepwise ForWard}(Lins \& Moreira, 1999).
+
+\chapter{\sc {Variáveis \textit{Dummies}}}
+\thispagestyle{empty}
+
+\section{Introdução}
+
+\hspace{0,58cm} A finalidade desse capítulo é considerar o papel das variáveis explicativas qualitativas na análise de regressão. Na análise de regressão, a variável dependente é muitas vezes influênciada não somente pelas variáveis que podem ser facilmente quantificadas em alguma escala bem definida (por exemplo, renda, produto, preços, custos, altura e temperatura), mas também por variáveis de natureza essencialmente qualitativa (por exemplo, sexo, raça, cor, religião, nacionalidade)(Gujarati, 2000).
+
+\hspace{0,58cm}Como tais variáveis qualitativas geralmente indicam a presença ou a ausência de uma qualidade ou atributo, tais como homem ou mulher, negro ou branco, católico ou não-católico, um método para quantificar tais atributos é contruir variáveis artificiais que assumam valores de 1 ou 0. O 0 indicando a ausência de um atributo e 1 indicando a presença desse atributo. As variáveis que assumem tais valores 0 e 1 são chamadas de variáveis \textit{Dummies}.
+
+\hspace{0,58cm}As variáveis \textit{Dummies} podem ser usadas nos modelos de regressão tão facilmente quanto as variáveis quantitativas. Aliás, um modelo de regressão pode conter variáveis explicativas que são excusivamente dummies, que é o caso do objeto de estudo nesta monografia.
+ 
+
+\section{Regressão Sobre uma Variável Explicativa Qualitativa com duas Classes ou Categorias (Variável \textit{Dummie})}
+
+\hspace{0,58cm} Para uma melhor compreensão vamos utilizar um exemplo onde queremos prever o salário anual de um professor universitário e analisamos para isso seus anos de experiência de ensino e o sexo. Daí temos:
+
+\begin{equation}\label{variavel dummy1}
+Y_{i} = \alpha +\delta D_{i} + \beta X_{i} + \varepsilon_{i}
+\end{equation}
+
+em que: $Y_{i}$ =  salário anual de um professor universitário
+
+\hspace{1,48cm}$X_{i}$ = anos de experiência de ensino
+
+\hspace{1,48cm}$D_{i}$ = 1 se homem e 0 se for mulher
+
+
+\hspace{0,58cm} O modelo contém uma variável explicativa quantitativa (anos de experiência de ensino) e uma variável qualitativa (sexo) que tem duas classes (ou dois níveis), uma \textit{Dummie}, homem e mulher.
+
+
+\section{Regressão Sobre uma Variável  Explicativa Quantitativa e uma Qualitativa com  Mais de duas Classes ou Categorias}
+
+\hspace{0,58cm} Suponhamos que queiramos modelar a despesa anual com saúde feita por um indivíduo sobre a renda e o nivel de intrução do indivíduo. Como a variável ``nivel de instrução" é de natureza qualitativa, suponha que consideremos três níveis de intrução mutualmente excludentes: formação superior, secundária e menos que secundária. Uma estratégia de modelagem seria tranformar a variável qualitativa de $D$ categorias em $D$ - 1 variáveis \textit{Dummies} que representam cada categorias, a categoria não inclusa no modelo será a categoria de referênccia. Portanto podemos usar o seguinte modelo(Gujarati, 2000):
+
+\begin{equation}\label{variavel dummy1}
+Y_{i} = \alpha +\delta D_{1i} +\eta D_{2i} + \beta X_{i} + \varepsilon_{i}
+\end{equation}
+
+em que: $Y_{i}$ = despesa anual com saúde
+
+\hspace{1,48cm}$X_{i$ = renda anual
+
+\hspace{1,48cm}$D_{1i}$ = 1 se tiver formação secundária
+
+\hspace{2,28cm}= 0 caso contrário
+
+\hspace{1,48cm}$D_{2i}$ = 1 se tiver formação superior
+
+ \hspace{2,28cm}= 0 caso contrário
+
+\hspace{0,58cm} Note que na atribuição de variáveis \textit{Dummies} do modelo, estamos tratando arbitrariamente a categoria ``menos de formação secundária" como categoria-base ou de referência. Portanto o intecepto $\alpha$ reflitirá o intercepto dessa categoria.
+
+
+\section{Regressão Sobre duas Variáveis Qualitativas Explicativas }
+
+\hspace{0,58cm} A técnica da variável dummy pode ser facilmente estendida para manipular mais de uma variável qualitativa, vontando agora ao primeiro exemplo sobre variáveis dummies, mas admitindo agora que, além dos anos de experiência de ensino e do sexo, a cor da pele da professor seja também um importante determinante da variável salário. Por simplicidade, suponha que haja duas categorias de cor, negro e branco. Podemos agora escrever o modelo como(Gujarati, 2000):
+
+\begin{equation}\label{variavel dummy1}
+Y_{i} = \alpha +\delta D_{1i} +\eta D_{2i} + \beta X_{i} + \varepsilon_{i}
+\end{equation}
+
+em que: $Y_{i}$ =  salário anual de um professor universitário
+
+\hspace{1,48cm}$X_{i}$ = anos de experiência de ensino
+
+\hspace{1,48cm}$D_{1i}$ = 1 se homem
+
+  \hspace{2,28cm}= 0 se mulher
+
+\hspace{1,48cm}$D_{2i}$ = 1 se for branco
+
+ \hspace{2,28cm}=  0 for negro
+
+
+\hspace{0,58cm} Observe que cada uma das variáveis qualitativas, sexo e cor, tem duas categorias e as categorias base (ou referência) agora são: ser mulher e ser negro.
+
+\section{Mudança de inclinação da Reta por Variáveis \textit{Dummies}}
+
+\hspace{0,58cm} Supusemos até agora, nos modelos considerados, que as variáveis qualitativas afetam o intercepto, mas não o coeficiente de inclinação das variáveis. Assim outro formato possível que a variável \textit{Dummy} pode assumir refere-se a mudanças na inclinação. A variável, assim, assume o valor zero para o período sem a mudança e o valor igual ao da variável cuja inclinação mudou para o período com mudança(Gujarati, 2000). 
+
+\begin{equation}\label{variavel dummy1}
+Y_{i} = \alpha + t X_{i} + \beta X_{i} + \varepsilon_{i}
+\end{equation}
+
+
+\hspace{0,58cm} Um exemplo onde utilizamos esse tipo de variável \textit{Dummy} é quando vamos analisar dois tipos de grupos diferentes, como dois periodos diferentes de tempo de uma determinada pesquisa. Cada período de tempo receberá uma reta de regressão com coeficiente de inclinação diferente, assim para um período de tempo $t$ receberá valor 1 e para o outro $t$ receberá valor 0.
+
+
+
+
+
+\chapter{\sc {Análises de Resíduos}}
+\thispagestyle{empty}
+
+\section{Introdução}
+
+\hspace{0,58cm}O modelo de regressão linear estabelece, para seu desenvolvimento, um conjunto de pressupostos básicos, dos quais a maioria refere-se a variável $\varepsilon_{i}$. Desta forma os resíduos estimados devem passar por um processo de análise para que seja verificado se não há violação dos pressupostos. Deve ser realizado amplo processo de validação dos resultados baseado em testes complementares 
+(Hochheim, 1999).
+
+\hspace{0,58cm}Já vimos o papel fundamental dos resíduos em várias ocasiões, como no método dos mínimos quadrados e na estimação das variâncias. Vamos agora ver o seu papel crucial na avaliação dos pressupostos do modelo, e consequentemente na ``qualidade" do ajuste.
+
+
+\section{Testes para Normalidade dos Resíduos}
+
+\hspace{0,58cm}Para a verificação dos pressupostos do modelos de regressão, devemos verificar a normalidade na distribuição dos residuos, ou seja, $\varepsilon_{i} \sim N(0,\sigma^{2})$. Recordamos que os testes $t$ e teste $F$ utilizados anteriomentes exigem que o termo de erro siga uma distribuição normal. Caso contrário o procedimento dos testes não será válido (Gujarati, 2000).
+
+
+\hspace{0,58cm} Os resíduos devem seguir aproximadamente uma distribuição normal ou seja, com aproximadamente 95 \% dos resíduos dentro do intervalo $[-2\sigma; +2\sigma]$.
+
+\hspace{0,58cm}Existem várias formas de inspecionar a normalidade dos resíduos e veremos aqui algumas delas. A inspeção gráfica é uma forma bastante utilizada através de histograma dos resíduos e a comparação destes resíduos com distribuições normais simuladas, com mesma média e variânça, mas também existe alguns testes que podemos utilizar como o teste \textit{Shapiro Wilk} e o teste \textit{Komogorov}(Siegel \verb"&" Castellen Jr, 2006)..
+
+
+\subsection{Técnicas  gráficas}
+
+\begin{itemize}
+
+
+\item \textbf{Histograma}
+
+  \hspace{0,58cm}Procuram-se afastamentos evidentes em relação à forma simétrica e unimodal da distribuição Normal, em geral, grandes assimetrias ou mais do que um máximo local.
+
+\end{itemize}
+
+  \newpage
+
+  \begin{figure}[htp]
+
+  \begin{center}
+  \caption{Histograma de distribuição Normal }
+  \\
+  \includegraphics[width=160,height=160]{hist.png}
+  \\
+  \small Fonte: Montgomery \& Runger (2003)\\
+  \end{center}
+
+  \end{figure}
+
+
+\begin{itemize}
+ \item \textbf{QQ-plots}
+
+\hspace{0,58cm}Representação gráfica dos quantis teóricos de uma normal reduzida vs. quantis empíricos dos resíduos observados.
+
+\end{itemize}
+
+\begin{figure}[htp]
+
+\begin{center}
+\caption{Gráfico de Quantis QQ-plot}
+\\
+ \includegraphics[width=160,height=160]{titulo.png}.
+\end{center}
+\begin{center}
+\small Fonte:Montgomery \& Runger (2003)\\\end{center}
+\end{figure}
+
+
+
+\subsection{Teste de Shapiro Wilk}
+
+\hspace{0,58cm} O teste Shapiro-Wilk é utilizado para amostras com menos de 50 casos, ele calcula uma variável estatítica (W) que investiga se uma amostra aleatória provém de uma distribuição normal(Siegel \verb"&" Castellen Jr, 2006).
+
+\hspace{0,58cm} Hipóteses sobre o teste:
+
+\hspace{3,58cm}$H_{0}$: A amostra provém de uma população Normal.
+
+\hspace{3,58cm}$H_{1}$: A amostra não provém de uma população Normal.
+
+A variável W é calculada da seguinte forma:
+\begin{center}
+\begin{equation}
+W=\frac{(\displaystyle\sum_{i=1}^{n}a_{i} x_{(i)})^2}{\displaystyle\sum_{i=1}^{n}(x_{i}-\overline{x})^2}      \label{shapiro}
+\end{equation}
+\end{center}
+sendo,\\
+- $ x_{i}$ os valores ordenados de amostras ($x_{1}$ é o menor).\\
+- $ a_{i}$ constantes geradas a partir de meio, variâncias e covariâncias da ordem estatística de uma amostra de tamanho n e uma distribuição normal.
+
+\hspace{0,58cm}Rejeitar $H_{0}$ ao nível de significância $\alpha$ se:
+
+\begin{equation*}
+ W_{cal} < W_{\alpha} 
+\end{equation*}
+
+
+
+
+\subsection{Teste de Kolmogorov-Smirnov}
+\hspace{0,58cm}O teste de Kolmogorov-Smirnov pode ser aplicado para testar se a característica estudada da amostra é oriunda de uma população com distribuição normal. O teste é de execução simples, quando comparado ao qui-quadrado, e baseado na maior diferença absoluta entre a freqüência acumulada observada e a estimada pela distribuição normal(Siegel \verb"&" Castellen Jr, 2006).
+
+\begin{enumerate}
+ \item Formulação das hipóteses
+
+\hspace{0,58cm} $H_{0}$ : A característica em estudo da população ou os erros (desvios) segue a distribuição
+normal.
+
+\hspace{0,58cm} $H_{1}$ : A característica em estudo da população ou os erros (desvios) não segue a distribuição
+normal.
+
+\item Escolha da significância $\alpha$
+
+\item Estatística apropriada
+
+\hspace{0,58cm}A estatística apropriada do teste é baseada na maior diferença absoluta entre a função de distribuição normal acumulada, $\^F ( z_{i} )$ , e a freqüência relativa observada acumulada e ajustada, $F_{i}$ . As expressões encontram-se a seguir:
+
+\begin{equation}\label{teste}
+D_{máx} = g_{máx} + \dfrac{1}{2n}
+\end{equation}
+
+\hspace{0,58cm}onde:
+
+\hspace{0,58cm}$g_{máx}$ : maior valor calculado de g (diferença absoluta);
+
+\hspace{0,58cm}n : tamanho da amostra ou número de parcelas. Sendo:
+
+\begin{equation}\label{teste2}
+g = \mid \^F(z_{i}) - F_{0,5} \mid ; sendo F_{0,5} = \dfrac{(i - 0,5)}{n}
+\end{equation}
+
+onde: $F(z_{i})$ : Função de distribuição normal acumulada ; $F_{0,5}$ :freqüência relativa observada acumulada e ajustada; i : número da amostra; n : tamanho da amostra ou número de parcelas.
+
+
+\item Conclusão
+
+\hspace{0,58cm}Para $n \leq 100$, quando o valor $D_{máx}$ for maior que o valor crítico tabelado $D_{t} ( D_{máx} > D_{t} )$, para um tamanho de amostra n, $\delta$ = 0,5 e significância $\alpha$ (tabelado), a hipótese $H_{0}$ é rejeitada e conclui-se que a característica em estudo da população não segue a distribuição normal. Por outro lado, se $D_{máx}$ for menor que o valor crítico tabelado $( D_{máx} > D_{t} )$, a hipótese $H_{0}$ é aceita e conclui-se que a característica em estudo da população segue a distribuição normal.
+
+\hspace{0,58cm}Para n $>$ 100, o valor crítico $D_{t}$ é obtido diretamente da expressão, sem o auxílio da
+tabela.
+
+\begin{equation}\label{teste2}
+D_{t} = \sqrt{\dfrac{-ln(\frac{\alpha}{2})}{2n}}
+\end{equation}
+
+onde: ln : logaritmo natural; $\alpha$ : significância estabelecida; n : tamanho da amostra ou
+número de parcelas.
+
+\hspace{0,58cm}Da mesma forma, quando o máximo valor de Dmáx for maior que o valor obtido pela expressão $( D_{máx} > D_{t} )$, a hipótese $H_{0}$ é rejeitada e conclui-se que a característica em estudo da população não segue a distribuição normal; caso contrário $( D_{máx} > D_{t} )$, a hipótese $H_{0}$ é aceita.
+
+\end{enumerate}
+
+\section{Resíduos Padronizados}
+
+\hspace{0,58cm} Podemos também padronizar os resíduos, calculando:
+
+\begin{equation}\label{teste2}
+d_{i} = \dfrac{\epsilon_{i}}{\sqrt{\sigma^{2}}} \hspace{0,58cm} i = 1,2,3,...,n. 
+\end{equation}
+
+\hspace{0,58cm}Se os erros forem distribuídos normalmente, então aproximadamente 95\% dos resíduos padronizados devem cair no intervalo (-2,+2). Os resíduos que estiverem fora desse intervalo podem indicar a presença de um outlier ; ou seja, uma observação que não é típica do resto dos dados. Várias regras têm sido propostas para descartar outliers. Entretanto algumas vezes, outliers fornecem informações de interesse para experimentalistas sobre circunstâncias não usuais, não devendo assim ser descartados (Montgomery \& Runger, 2003). Abaixo um gráfico que ajuda a observar a presença de outliers e a normalidade da distribuição:
+
+ \begin{figure}[htp]
+
+\begin{center}
+\caption{Resíduos Padronizados}
+ \includegraphics[width=160,height=160]{residuopadrao.png} 
+ % analises4.png: 0x0 pixel, 0dpi, 0.00x0.00 cm, bb=
+
+\end{center}
+\begin{center}
+\small Fonte: Montgomery \& Runger (2003)\\\end{center}
+\end{figure}
+
+
+
+\chapter{\sc {Mercado do Mel}}
+\thispagestyle{empty}
+
+\section{Introdução}
+
+\hspace{0.58cm}No Brasil, como em qualquel outro lugar do mundo, a criação de abelhas propicia a geração de inúmeros postos de trabalho, empregos e fluxo de renda, principalmente no que diz respeito à agricultura familiar, que desamparada, encontrou nesta atividade uma diversificação de sua produção.
+
+\hspace{0.58cm} A apicultura é uma atividade de fácil manutenção e de baixo custo inicial em relação às demais atividades agropecuárias e vem se tornando um importante segmento para reduzir os índices de pobreza de seus produtores, ao gerar alimentos, ocupação e renda. O setor apícola ganhou maior dimensão a partir da africanização das abelhas melíferas, que ao propiciar maior resistência das abelhas às doenças e ao ataque de inimigos naturais (De Jong, 1992), repercutiram no aumento da produção e no aperfeiçoamento de técnicas de seu manejo (Gonçalves, 1994). Em muitas regiões houve mudanças significativas do perfil sócio-econômico, ora ampliando a margem de lucro como atividade complementar, ora figurando como atividade principal.
+
+\section{Produção Apícola no Brasil}
+
+\hspace{0.5cm}No Brasil, 80\% do total das propriedades rurais pertencem a grupos familiares, abrangendo um universo de 13,8 milhões de pessoas, que são responsáveis pela produção de grande parte dos alimentos consumidos no país (FIBGE, 2005).
+
+\hspace{0.58cm}A criação de animais é um segmento muito valorizado pela agricultura familiar, envolvendo-a em ações econômicas, ecológicas e sócio-culturais (Guelber, 2005), e a apicultura é uma dessas criações de destaque familiar, especialmente quando destinada à regiões e épocas desfavoráveis para a agricultura e outras atividades pecuárias.
+
+\hspace{0.58cm}Há 60 anos, o Brasil sofreu a africanização de suas abelhas, ou seja, a missigenação entre as sub-espécies de abelhas introduzidas da Europa e da África. Isto resultou na formação de uma abelha po-híbrida com mais produtividade e resistência. 
+
+\hspace{0.58cm} No atual sistema produtivo fracionamos os fatores de produção apícola, verifica-se que alguns foram bem estudados, tais como, sanidade e genética, que permitem posicionar o poli-híbrido africanizado como bom produtor. No entanto, o baixo controle zoocténico das criações pode revelar índices de produção conflitantes (Gonçalves, 1994).Os avanços tecnológicos no setor apícola estão se ampliando, mas a maioria dos apicultores ainda trabalha artesanalmente e a demanda técnica a nível de produtor não atende ao crescimento da classe. 
+
+
+\hspace{0.58cm}Estudo realizado com 570 apicultores de vários municípios do estado do Ceará (SEBRAE, 2006) revelou que os problemas ainda são básicos. Os produtores obtêm uma renda média baixa, girando entre R\$ 120,00 a R\$ 240,00 por mês e a baixa produtividade e qualidade dos produtos é decorrente de uso de tecnologia inadequada, falta de assistência técnica, descrédito junto às cooperativas, desarticulação de comunidade, presença de atravessadores, inadimplência junto à instituições financeiras, fomento insuficiente, baixa diversificação da produção, alto índice de perdas de enxames Similar problemática foi apresentada por Reis (2003) em Mato Grosso do Sul.  
+
+
+
+\hspace{0.58cm}Neste perfil, a Apicultura ainda não se distingue das demais atividades agrárias familiares, ainda exclusas. Cerca de cinco milhões de famílias rurais vivem com menos de dois salários mínimos mensais (FIBGE, 2008), o que os destinam às formas rústicas de vida para sobreviver. Embora as novas tecnologias sejam de conhecimento dos muitos produtores, nem todos a adotam, muitas vezes por fatores socioeconômicos relacionados Certamente, a adoção das tecnologias preconizadas pode elevar os níveis de produtividade deste segmento agrário, beneficiando positivamente a economia. (Khan et al., 1991). 
+
+\section{A Apicultura no Rio de Janeiro}
+
+\hspace{0.58cm}A Apicultura do estado do Rio de Janeiro foi uma das pioneiras no Brasil, auxiliou entre as décadas de 40 a 60 a difusão desta cultura em todo o país, ao oferecer cursos, palestras e insumos (Rangel, 2006). A atividade no estado soma mais de 60 anos e seus entraves e avanços devem ser um alerta para outras regiões no atual cenário apícola. 
+
+\hspace{0.58cm}O Rio de Janeiro é considerado um dos maiores centros consumidores de mel no país (Lorenzon et al., 2008). Em dez anos a classe produtora dobrou, mas a produção de mel, em torno de 400 toneladas, continua estagnada, favorecendo a importação de muitas marcas de méis de outros estados. Para o SEBRAE (2006), o estado do Rio apresentou uma alta devastação ambiental e índices muito pobres de suporte à agricultura familiar, fatores estes que contribuem para a improdutividade. Dentro do estado, a região da Costa Verde é uma das menos expressivas na produção apícola. Desta forma tal região merece atenção especial no que tange a comercialização dos produtos apícolas, para favorecer o seu marketing e estratégias de produção.
+
+\hspace{0.58cm}No próximo capítulo mostraremos os resultados obtidos a partir de pesquisa realizada nos municípios de Angra dos Reis e Mangaratiba no período entre janeiro e julho de 2007, onde foram obtidas as seguintes variáveis: preço do mel, tipo de embalagem, pureza do mel, cidade onde foi vendido o mel, bairro, inspeção feita no produto, tipo de estabelecimento e estado de origem do produto.
+
+
+\chapter{\sc {Análise dos Dados}}
+\thispagestyle{empty}
+
+\hspace{0.58cm} Observando os resultados obtidos pela tabela 6.1 é possivel verificar que usando como base as variáveis de referência que representam, os méis sem aditivo, vendidos em farmácia, em ambalagem de plástico, de origem dos estado de Minas Gerais e comercializado no município de Angra dos Reis, chegamos a um preço médio de 1,99 R\$  por 100g de mel.
+
+\hspace{0.58cm}Essas variáveis foram escolhidas para servirem como referência, pois apresentavam o maoir número de observações da amostra investigada. No processo de seleção de variáveis \textit{stepwise}, foram retiradas as variáveis, bairro e inspeção.
+
+\hspace{0.58cm}Ainda nos referindo a tabela 6.1, podemos observar que as variáveis de referência, assim como o mel composto, vendido em supermercado de embalagem de vidro e origem dos estados de RJ e SP, apresentam maior significância ( p-valor$\leq$ 0,05).
+
+
+\begin{table}[htp]
+ \centering
+\renewcommand{\baselinestretch}{1}
+ \caption{Modelo de Regressão Linear Múltipla utilizando ``stepwise" sobre o preço de 100g de mel. }\label{MODELO}
+\begin{tabular}{lllll}
+\hline
+\multicolumn{2}{c}{Variáveis} & \multicolumn{1}{c}{Coeficiente(R\$)} & \multicolumn{1}{c}{IC 95\%(R\$)} & \multicolumn{1}{c}{\textit{p - valor}} \\ 
+\hline
+\multicolumn{2}{c}{Intercepto} & \multicolumn{1}{c}{1.99} & \multicolumn{1}{c}{[1.75 ; 2.23]} & \multicolumn{1}{c}{\leq 0.05     *} \\ 
+\hline
+\multicolumn{1}{c}{Pureza do mel} & \multicolumn{1}{c}{Sem aditivo} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} \\ 
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Composto} & \multicolumn{1}{c}{0.71} & \multicolumn{1}{c}{[0.47 ; 0.95]} & \multicolumn{1}{c}{\leq 0.05     *} \\ 
+\hline
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Farmácia} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} \\ 
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Supermercado} & \multicolumn{1}{c}{-0.45} & \multicolumn{1}{c}{[-0.71 ; - 0.19]} & \multicolumn{1}{c}{\leq 0.05     *} \\ 
+\multicolumn{1}{c}{Tipo de Estabelecimento} & \multicolumn{1}{c}{Mercado popular} & \multicolumn{1}{c}{-0.71} & \multicolumn{1}{c}{[-1.5 ; 0.08]} & \multicolumn{1}{c}{0.20} \\ 
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Horti-Fruti} & \multicolumn{1}{c}{0.54} & \multicolumn{1}{c}{[-0.64 ; 1.72]} & \multicolumn{1}{c}{0.91} \\ 
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Produtos Naturais} & \multicolumn{1}{c}{-0.41} & \multicolumn{1}{c}{[-0.91 ; 0.09]} & \multicolumn{1}{c}{0.62} \\ 
+\hline
+\multicolumn{1}{c}{Embalagem} & \multicolumn{1}{c}{Plástica} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} \\ 
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Vidro} & \multicolumn{1}{c}{0.17} & \multicolumn{1}{c}{[-0.06 ; 0.40]} & \multicolumn{1}{c}{\leq 0.05     *} \\ 
+\hline
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{MG} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} \\ 
+\multicolumn{1}{c}{Origem} & \multicolumn{1}{c}{RJ} & \multicolumn{1}{c}{0.77} & \multicolumn{1}{c}{[0.37 ; 1.17]} & \multicolumn{1}{c}{\leq 0.05     *} \\ 
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{SP} & \multicolumn{1}{c}{1.56} & \multicolumn{1}{c}{[1.04 ; 2.08]} & \multicolumn{1}{c}{\leq 0.05     *} \\ 
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Outros} & \multicolumn{1}{c}{0.28} & \multicolumn{1}{c}{[-0.44 ; 1.00]} & \multicolumn{1}{c}{0.33} \\ 
+\hline
+\multicolumn{1}{c}{Municipio} & \multicolumn{1}{c}{Angra dos Reis} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} & \multicolumn{1}{c}{-} \\ 
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Mangaratiba} & \multicolumn{1}{c}{-0.18} & \multicolumn{1}{c}{[-0.68 ; 0.32]} & \multicolumn{1}{c}{0.95} \\ 
+\hline
+\end{tabular}
+\small Fonte:Angra dos Reis e Mangaratiba. ERJ. 2008\\
+\end{table}
+
+
+ 
+
+\begin{table}[htp]
+ \centering
+\renewcommand{\baselinestretch}{1}
+ \caption{ANOVA do Modelo de Regressão. }\label{MODELO}
+\begin{tabular}{lll}
+\hline
+\multicolumn{1}{c}{Fonte de Variação} & \multicolumn{1}{c}{Soma dos Quadrados} & \multicolumn{1}{c}{Graus de liberdade} \\ 
+\hline
+\multicolumn{1}{c}{Composição} & \multicolumn{1}{c}{ 64.13389} & \multicolumn{1}{c}{1} \\ 
+\multicolumn{1}{c}{Embalagem} & \multicolumn{1}{c}{1.96799} & \multicolumn{1}{c}{1} \\ 
+\multicolumn{1}{c}{Tipo de Estabelecimento} & \multicolumn{1}{c}{22.31910} & \multicolumn{1}{c}{4} \\ 
+\multicolumn{1}{c}{Origem} & \multicolumn{1}{c}{59.38124} & \multicolumn{1}{c}{1} \\ 
+\multicolumn{1}{c}{Município} & \multicolumn{1}{c}{1.49566} & \multicolumn{1}{c}{3} \\ 
+\multicolumn{1}{c}{Resíduos} & \multicolumn{1}{c}{242.23534} & \multicolumn{1}{c}{331} \\ 
+\hline
+\multicolumn{3}{c}{$R^{2}$ = 0.3813      \hspace{0.98cm}          $R^{2}_{ajustado}$ = 0.3626} \\ 
+\hline
+\end{tabular}
+\small Fonte:Angra dos Reis e Mangaratiba. ERJ. 2008\\
+\end{table}
+
+\hspace{0.58cm}.
+
+\hspace{0.58cm}.
+
+\hspace{0.58cm} A partir da tabela 6.2 podemos observar que nossa reta de regressão só explica 36,25\% dos dados, que ainda pode ser melhorado.
+
+\hspace{0.58cm} Precisamos agora validar o modelo de regressão, a figura 6.1 apresenta dois box-plot com os valores observados do preço de 100g de mel o os valores preditos pelo nosso modelo, podemos observar que eles são bem parecidos.
+
+ \begin{figure}[htp]
+
+\begin{center}
+\caption{Box-plot}
+ \includegraphics[width=250,height=200]{boxplot.png}
+ % analises4.png: 0x0 pixel, 0dpi, 0.00x0.00 cm, bb=
+\end{center}
+\\
+\begin{center}
+\small Fonte:Angra dos Reis e Mangaratiba. ERJ. 2008\\\end{center}
+\end{figure}
+
+\newpage
+
+\hspace{0.58cm}Temos também que verificar se há normalidade na distribuição dos resíduos do modelo. A figura 6.2 (A) nos mostra o histograma dos resíduos do modelo, que é bem parecido com uma de distribuição normal. A figura 6.2 (B) simula uma distribuição normal a parti da média e desvio padrão dos resíduos do nosso modelo.Na figura 6.2 (C) podemos analisar como os resíduos se comportam ao longo do eixo das abcissas, onde a maioria dos pontos se encontram no intervalo (-2,2), nesta figura podemos observar também observações extremas (outliers). Na figura 6.2(D) analisamos o gráfico QQ-plot, onde observamos que a grande maioria dos pontos se encontra agrupados em formato de reta .
+
+
+\begin{figure}[htp]
+
+\begin{center}
+\caption{Análise de Resíduos. }
+ \includegraphics[width=450,height=400]{analise_residuos.png}
+ % analises4.png: 0x0 pixel, 0dpi, 0.00x0.00 cm, bb=
+\end{center}
+\\
+\begin{center}
+\small Fonte:Angra dos Reis e Mangaratiba. ERJ. 2008\\\end{center}
+\end{figure}
+
+
+
+
+
+
+
+
+\chapter{\sc {Conclusão}}
+\thispagestyle{empty}
+
+\hspace{0.58cm}Hilmi (2005) em ``O marketing de produtos apícolas" explica que os preços do mel podem mudar frequentemente. Por exemplo, os preços variam em consequência de alterações na produção e demanda em diferentes épocas do ano. O fornecimento de produtos apícolas muitas vezes varia de tempos em tempos, devido às condições meteorológicas,variação da área da flora as doenças das plantas, doenças das abelhas, problemas no deslocamento do mel ao mercado consumidor e muitos outros fatores, que afetam por exelência o fornecimento no mercado.
+
+\hspace{0.58cm} Referente a influência de cada variável no preço do mel, notamos que o  Mercado Popular é onde se encontra o mel mais barato, isso pode está acontecendo pelo fato de não haver atravessadores neste tipo de comércio. Agora levando em consideração os municípios, observamos que o mel vendido em Mangaratiba é quase 20 centavos por 100g mais barato do que o vendido em Angra dos Reis, explica-se este fato por ser de Angra dos Reis um município onde há grande concentração de turistas, elevando assim o poder aquisitivo da população . Já o mel vindo do estado de São Paulo, se destaca como sendo o mais caro, cerca de 1,56 R\$  em referência ao de origem de Minas Gerais que tem maior oferta no Rio de Janeiro. 
+
+\hspace{0.58cm}O tipo de embalagem do mel Vidro obteve um acréscimo de R\$ 0,52 em relação à referência (plástico), por ser um material de maior custo, mas em compensação de maior higiene (Barreto et al., 2006; Costa et al., 2005)
+
+\hspace{0.58cm}O modelo de regressão nos permite avaliar quanto cada variável influência no preço final do mel, contribuindo para que os consumidores possam escolher o local e quais são as características que fazem o mel ter um preço menor. O produtor, dependendo de seu objetivo, pode fazer uma combinação dessas características para projetar o escoamento de sua produção.
+
+\hspace{0.58cm}São várias as suposições que submetemos o modelo de regressão e o analista deve sempre duvidar da validade dessas suposições e conduzir análises para encaminhar a adequação do modelo que está sendo testado. Neste sentido que foram adotados alguns gráficos (QQ-plot, Histograma dos resíduos, Resíduos padroninados versus Valores previstos) que nos ajudaram à aceitar como verdadeiras essas hipóteses  
+
+\hspace{0.58cm} A análise de regressão é uma técnica largamente utilizada nos tempos atuais, que tem sido difundida vastamente entre os mais diversos campos da ciência. Esta trabalho também enfoca a interdisciplinariedade, no trabalho de pesquisadores de diferentes areas do conhecimento, o que proporciona a troca de experiência entre estes.
+
+\hspace{0.58cm}Deixa-se como proposta para um novo trabalho a sugestão de se utilizar outros tipos de modelo de transformações não lineares e/ou outras familias de modelos, como: modelos lineares generalizados (GLM), Modelo de equações silmutaneos(Fahrmeir $\&$ Tutz,2001), modelos aditivos generalizados(McCullag $\&$ Nelder, 1989), entre outros, podendo se obter um melhor ajustamento.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAFIA %%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{thebibliography}{25}
+\addcontentsline{toc}{chapter}{Bibliografia}
+
+\bibitem{AKAIKE}
+AKAIKE, HIROTUGU {\bf A New Look at the Statistical Model Identification.} {\it  Ieee Transaction   on Automatic Control,},1974.
+
+\bibitem{BUSSAB}
+BUSSAB,W. O.; MORRETTIN,P. A. {\bf Estatística Básica.} 5ª ed. São Paulo: {\it Saraiva}, 2002.
+
+\bibitem{BARRETO}
+BARRETO, L. M. R. C.; PEÃO, G. F. R.; DIB, A. P. da S.{\bf Higienização e Sanitização na produção Apícola} Taubate {\it Cabral Editora}, 2006.
+
+\bibitem{CHARNET}
+CHARNET, R. et al. {\bf Análise de Modelos de Regressão Linear com Aplicações.}Campinas/SP {\it  Editora da Unicamp},1999.
+
+\bibitem{DANCEY}
+DANCEY, C. P.; REIDY, J. {\bf Estatística sem Matemática para Psicologia: usando SPSS para Windows. [Tradução VIALI, L.].} 3ª ed. Porto Alegre: Artmed, 2006.
+
+\bibitem{DE JONG}
+DE JONG D.; GONÇALVES L.S. {\bf The africanízed bees of Brazil have become tole	rant to varroa}. {\it Apiacta}, v.33,, 1992.
+
+\bibitem{DEVORE}
+DEVORE, J. L. {\bf Probabilidade e Estatística: para Engenharia e Ciências. [Trad. SILVA, J. P. N.].} São Paulo: {\it Pioneira Thomson Learning}, 2006.
+
+\bibitem{FAHRMEIR}
+FAHRMEIR, L. AND TUTZ, G. {\bf Multivariate Statistical Modelling Based on Generalized Linear Models.} 2nd edition{\it  Springer-Verlag},2001.
+
+\bibitem{FARIAS}
+FARIAS A. A., SOARES J. F.; CÉSAR C. C. {\bf Introdução á Estatística 2 ed.}Rio de Janeiro/RJ,{\it LTC},  2003.
+
+\bibitem{FIBGE}
+FIBGE (Fundação Instituto Brasileiro de Geografia). {\bf Censo Agropecuário: Rio de Janeiro, 1990-2005.} {\it http: // www. sidra. ibge. gov.br/}. Acesso em: 28 jan. 2005.
+
+\bibitem{GONÇALVES}
+GONÇALVES,  L.S. {\bf Genetic improvement of Apis mellifera and tecnological developments in Brazil.} {\it Apiacta}, v.15, 1994
+
+\bibitem{GUELBER}
+GUELBER, V.M.O; KERR, W.E.. {\bf Influência da troca de rainhas entre colônias de abelhas africanizadas na produção de pólen.} {\it Bioscience Journal}, v.22, 2005.
+
+\bibitem{GUJARATI}
+GUJARATI, D. N. {\bf Econometria Básica, 3 ed.} São Paulo/SP,{\it Markron Books}, 2000.
+
+\bibitem{HILMI}
+HILMI, M. {\bf The Marketing of bee products},{\it http: // www.beekeeping.com }. Acesso em 20/10/2008.
+
+\bibitem{HOCHHEIM}
+HOCHHEIM, N. {\bf  Avaliações por inferência estatística} Florianópolis: {\it IBAPE}, 1999.
+
+\bibitem{HOFFMAN}
+HOFFMAN, R. {\bf Estatistica para Economistas, 4 ed}.São Paulo/SP ,{\it  Pioneira Thomson Learning}, 2006.
+
+\bibitem{KHAM}
+KHAM,  M.V. {\bfThe introduction of the african bees (Apis mellifera adansonii) into Brasil and some comments on their spread in South America. } {\it American 	Bee 	Journal, v.114},1974.
+
+\bibitem{LEVIN}
+LEVIN, J. {\bf Estátistica Aplicada a Ciencias Humanas, 2 ed.} São Paulo/SP,{\it Harbra}, 1987.
+
+
+\bibitem{LINS}
+LINS, M. P. E.; MOREIRA. M. C. B.{\bf  Método I-O Stepwise para Seleção de Variáveis em Modelos de Análise Envoltória de Dados} {\it Pesquisa Operacional}, 1999.
+
+\bibitem{LORENZON}
+LORENZON, M C.A: PEIXOTO, E. T., GONÇALVES, E.B. {\bf . Censo Apícola do estado do rio de Janeiro. }Rio de Janeiro.  {\it  SESCOOP,},2008.
+
+\bibitem{MARTINS}
+MARTINS, G. A.{\bf Estatistica Geral e Aplicada 3 ed.}- São Paulo : {\it Atlas},2005.
+
+\bibitem{MCCULLAGH}
+MCCULLAGH, P. & NELDER, J.A.{\bf  Generalized Linear Models. Chapman and Hall} Oxford, 1989.
+
+
+
+\bibitem{MONTGOMERY}
+MONTGOMERY, D. C.; RUNGER, G. C.{\bf Estatística e Probabilidade para Engenheiros} 2ª ed. Rio de Janeiro: {\it LTC}, 2003.
+
+\bibitem{MUSTAFA}
+MUSTAFA C.; ALPHAY F.; MICHAEL T. R. {\bf Inflation, price dispersion, and market structure}. {\it European Economic Review} , 2008.
+
+\bibitem{R
+}R DEVELOPMENT CORE TEAM.R {\bf Foundation for Statistical Computing},  Vienna, AUS,2000.
+
+\bibitem{SCUDINO}
+SCUDINO, P. A.{\bf A utilização de alguns testes estatísticos para a análise da variabilidade do preço do mel nos municípios de Angra dos Reis e Mangaratiba}Monografia de licenciatura em Matemática{\it UFRRJ},  2008.
+
+\bibitem{SEBRAE}
+SEBRAE. {\bf Desafios da Apicultura brasileira} {\it Revista SEBRAE Agronegócio n.324,},2006.
+
+\bibitem{SIEGEL}
+SIEGEL, S.; CASTELLAN JR, N. J. {\bf Estatística não-paramétricapara ciências do comportamento}; [Tradução: CARMONA, S. I. C.], 2ªed. Porto Alegre: {\it Artmed}, 2006.
+
+
+\bibitem{SPIEGEL}
+SPIEGEL, M. R. {\bf Estatística}. [Tradução: CONSENTINO, P.] (Coleção Schaum), São Paulo: Makron Books, 1993.
+
+
+\bibitem{STEPHENS}
+STEPHENS, M. A.{\bf FED para a Bondade de Estatística Fit e algumas comparações},{\it Jornal da Associação Americana Estatística} Vol. 69 1974.
+
+\bibitem{VENABLES}
+VENABLES, W. N. AND RIPLEY, B. D{\bf Modern Applied Statistics with } {\it  S. Fourth edition. }Springer,2002
+
+
+
+\end{thebibliography}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% ANEXOS %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\newpage
+\addcontentsline{toc}{chapter}{Anexos}
+\renewcommand{\baselinestretch}{1}
+
+
+
+{\Huge \bf ANEXOS}
+
+
+ANEXO 1
+\begin{verbatim}
+ 
+      ######  SALVANDO O PROGRAMA ###########
+
+save.image('bancojoao.RData')
+
+load('bancojoao.RData')
+
+######## CARREGANDO E EDITANDO BANCO##############
+
+
+banco = read.table('dado17042008.csv', sep="\t", header=T)
+
+ls()
+
+edit(banco)
+
+summary(banco)
+
+str(banco)
+
+attach(banco)
+
+banco = subset(bancosemml, preco100grama < 6 & preco100grama > 0.20)
+
+### TRANSFORMANDO AS VARIAVEIS EM FACTOR  ##############
+
+######### COMPOSICAO  ###################
+
+banco$composicaofat = factor(banco$composicao, labels=c("Mel Puro", 
+"Mel Composto"), exclude=NA)
+banco$composicaofat= relevel(banco$composicaofat , ref="Mel Puro")
+
+########## EMBALAGEM  ####################
+
+banco$embalafat = factor(banco$embala, labels=c("Vidro", "Plastico"), 
+exclude=NA)
+banco$embalafat= relevel(banco$embalafat , ref="Plastico")
+
+
+
+########## INSPECAO  #################
+
+banco$inspecaofat = factor(banco$inspecao, labels=c("Sif", "Sie" , 
+"Sie-er" , "Sie-rj"  , "Visa sim" ,"Nao inspecionado"), exclude=NA)
+banco$inspecaofat= relevel(banco$inspecaofat , ref="Sif") 
+
+# Agregando 
+banco$inspecao2=banco$inspecao
+banco$inspecao2[banco$inspecao >= 2] = 2
+banco$inspecaofat2 = factor(banco$inspecao2, labels=c("Sif", "Sie"),
+ exclude=NA)
+banco$inspecaofat2= relevel(banco$inspecaofat2 , ref="Sif")
+
+########## BAIRRO  ###################
+
+banco$bairrofat = factor(banco$bairro, labels=c("Centro de Angra dos Reis",
+ "Japuíba","Frade", "Pereque","Bracuí","Camorim","Monsoaba",
+"Jacuenganga","Village","Centrode Mangaratiba","Itacuruça","Muriqui",
+"Conceicao do Jacareí"),exclude=NA)
+banco$bairrofat= relevel(banco$bairrofat , ref="Centro de Angra dos Reis")
+
+########## ORIGEM  ###################
+
+banco$origemfat = factor(banco$origem, labels=c("MG", "RJ", "SP","ES",
+ "SC","RN","PE","CE"), exclude=NA)
+banco$origemfat= relevel(banco$origemfat , ref="SP")
+
+# Agregando 
+banco$origem2=banco$origem
+banco$origem2[banco$origem >= 4] = 4
+banco$origemfat2 = factor(banco$origem2, labels=c("MG", "RJ",
+ "SP","outros"), exclude=NA)
+banco$origemfat2= relevel(banco$origemfat2 , ref="MG")
+
+
+########## MUNICIPIO  ###################
+
+banco$municipfat = factor(banco$municip, labels=c("Angra dos Reis",
+ "Mangaratiba"), exclude=NA)
+banco$municipfat= relevel(banco$municipfat , ref="Angra dos Reis")
+
+########## TIPO DO ESTABELECIMENTO  ###################
+
+banco$Tipoestabfat = factor(banco$Tipoestab, labels=c("Farmacia", "Feira", 
+"Supermercado","Horti-Fruti", "Produtos Naturais"), exclude=NA)
+banco$Tipoestabfat= relevel(banco$Tipoestabfat , ref="Farmacia")
+
+
+summary(banco)
+
+###### MODELO COM AS VARIAVEIS EM FATORES ##############
+
+modelofull1= (lm(preco100grama ~  composicaofat + embalafat  + 
+Tipoestabfat + municipfat + origemfat2  + inspecaofat2 , data=banco))
+
+
+modelofull2= step(lm(preco100grama ~  composicaofat + embalafat  + 
+Tipoestabfat + municipfat + origemfat2  + inspecaofat2 , data=banco))
+
+modelofull1
+
+modelofull2
+
+summary(modelofull2)
+
+aov(modelofull2)
+
+
+######  TESTES DE NORMALIDADE DOS RESIDUOS #######
+
+## shapiro-wilk###
+shapiro.test(resid(modelofull2))
+
+####  wilcoxon  #####
+
+wilcox.test(resid(modelofull2))
+
+
+#### GERANDO ALGUNS GRAFICOS #######################
+
+boxplot(banco$preco100grama, modelofull2$fitted.values,
+ main = " Box-plot -Preço de 100g de mel-",
+ylab="preço 100g de mel",xlab = "Valores observados x  Valores preditos" )
+
+hist(modelofull2$fitted.values)
+
+plot(fitted(modelofull2),resid(modelofull2))
+
+hist(resid(modelofull2),main="Histograma dos Resíduos do Modelo",
+ylab="Frequência",xlab="Resíduos")
+
+qqnorm(resid(modelofull2),main="QQplot dos Resíduos do Modelo",
+ylab="Nornal reduzida", xlab="Resíduos observados")
+
+plot(resid(modelofull2), main="Resíduos do Modelo  X  Valores Preditos",
+ylab="Resíduos",xlab="Valores preditos")
+
+### SIMULANDO A DISTRIBUIÇÃO NORMAL ###
+
+mean(resid(modelofull2))
+
+sd(resid(modelofull2))
+
+
+dist.normal = rnorm(342,2.280882e-17,0.842833)
+
+hist(dist.normal,main="Simulação de Dist.Norm. dos Resíduos",
+ylab="Frequência",xlab="Resíduos")
+
+
+
+
+\end{verbatim}
+
+\newpage
+
+
+
+
+\end{document}

@@ -1,0 +1,11 @@
+---
+title: "Curso de Pós-Graduação em Ciências Veterinárias - UFRRJ"
+subtitle: "Métodos Estatísticos"
+author: "Prof: Wagner Tassinari"
+date: wagner.tassinari@ini.fiocruz.br
+institute: "Apresentação dos Dados"
+output: binb::metropolis
+beameroption: "show notes"
+# toc: true
+---
+
