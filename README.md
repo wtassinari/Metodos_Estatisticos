@@ -2,7 +2,7 @@
 Crédito: (1T - 1P)
 Carga Horária: (15T - 45P)
 
-Professor Responsável: Wagner Tassinari
+Professor Responsável: Wagner Tassinari.
 
 ## OBJETIVOS:
 Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento e analise de
