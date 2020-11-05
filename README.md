@@ -1,19 +1,20 @@
-# IV 1441 - MÉTODOS ESTATÍSTICOS APLICADOS AS CIÊNCIAS VETERINÁRIAS
-Crédito: (1T - 1P)
-Carga Horária: (15T - 45P)
+# MÉTODOS ESTATÍSTICOS APLICADOS AS CIÊNCIAS VETERINÁRIAS
 
-Professor Responsável: Wagner Tassinari.
+
+Professor Responsável: Wagner Tassinari
 
 ## OBJETIVOS:
-Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento e analise de
-estudos experimentais e/ou observacionais a partir das limitações vigentes de amostragem e
-infra-estrutura desenvolver o julgamento crítico sobre os resultados estatísticos obtidos, em
-relação a resposta biológica esperada, para apresentar conclusões finais.
 
-## EMENTA:
-Caracterização das variáveis e suas distribuições. Inferência estatística. Analise de Variância.
-Delineamentos experimentais. Associação de variáveis. Principais testes estatísticos
-paramétricos e não paramétricos.
+Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento e analise de estudos experimentais e/ou observacionais a partir das limitações vigentes de amostragem e infra-estrutura desenvolver o julgamento crítico sobre os resultados estatísticos obtidos, em relação a resposta biológica esperada, para apresentar conclusões finais.
+
+
+## Apresentação do curso
+
+- O curso será composto de atividade **sincronas**, são atividades baseadas em momentos ao vivo on line com o professor, e **assincronas** , são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material didático sugerido, videoaulas, listas de exercícios e trabalhos em grupo.
+
+- Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica da ferramenta **R Commander**. O pacote estatístico R que pode ser encontrado no site oficial do projeto CRAN (https://cran.r-project.org/). O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados. O **R Commander**, é uma ferramenta disponibilizada pelo pacote estatístico R que têm por objetivo facilitar a vida das pessoas que não têm um conhecimento prévio na linguagem de programação R. Ele apresenta uma forma mais prática e interativa de poder fazer análises estatísticas.
+
+- A avaliação deste curso será feita através da apresentação em grupo de seminários de 15 minutos. A média final da disciplina será composta pela nota do trabalho em geral (nota do grupo) + a nota da apresentação individual de cada elemento do grupo.
 
 ## Instalando o pacote estatístico R + a interface gráfica Rcommander
 
