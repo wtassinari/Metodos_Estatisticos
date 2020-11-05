@@ -20,9 +20,9 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 - [Instalação do R e Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg)
 
-- [Apostila para o manuseio do R Commander] (https://www.dropbox.com/s/l2nognaahlded68/ApostilaGeorge2016.pdf?dl=0)
+- [Apostila para o manuseio do R Commander](https://www.dropbox.com/s/l2nognaahlded68/ApostilaGeorge2016.pdf?dl=0)
 
-- [Ebook sobre o R + R Commnader] (http://www.lampada.uerj.br/arquivosdb/_book2/rcommander.html)
+- [Ebook sobre o R + R Commnader](http://www.lampada.uerj.br/arquivosdb/_book2/rcommander.html)
 
 
 ## CONTEÚDO PROGRAMÁTICO:
