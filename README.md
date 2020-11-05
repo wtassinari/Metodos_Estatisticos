@@ -34,7 +34,7 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 ## Instalando o pacote estatístico R + a interface gráfica R Commander
 
-- [Instalação do R e Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg)
+- [Vídeo de instalação do R e Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg)
 
 - [Apostila para o manuseio do R Commander](https://www.dropbox.com/s/l2nognaahlded68/ApostilaGeorge2016.pdf?dl=0)
 
