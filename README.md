@@ -24,6 +24,8 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 - [Ebook sobre o R + R Commnader](http://www.lampada.uerj.br/arquivosdb/_book2/rcommander.html)
 
+- [Livro sobre o R](https://www.dropbox.com/s/d09venwvdf2feo0/Beginners_GuideR.pdf?dl=0)
+
 
 ## CONTEÚDO PROGRAMÁTICO:
 
