@@ -3,7 +3,7 @@
 
 Professor Responsável: Wagner Tassinari
 
-## OBJETIVOS:
+## Objetivos
 
 Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento e analise de estudos experimentais e/ou observacionais a partir das limitações vigentes de amostragem e infra-estrutura desenvolver o julgamento crítico sobre os resultados estatísticos obtidos, em relação a resposta biológica esperada, para apresentar conclusões finais.
 
