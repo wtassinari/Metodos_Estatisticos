@@ -16,9 +16,14 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 - A avaliação deste curso será feita através da apresentação em grupo de seminários de 15 minutos. A média final da disciplina será composta pela nota do trabalho em geral (nota do grupo) + a nota da apresentação individual de cada elemento do grupo.
 
-## Instalando o pacote estatístico R + a interface gráfica Rcommander
+## Instalando o pacote estatístico R + a interface gráfica R Commander
 
 - [Instalação do R e Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg)
+
+- [Apostila para o manuseio do R Commander] (https://www.dropbox.com/s/l2nognaahlded68/ApostilaGeorge2016.pdf?dl=0)
+
+- [Ebook sobre o R + R Commnader] (http://www.lampada.uerj.br/arquivosdb/_book2/rcommander.html)
+
 
 ## CONTEÚDO PROGRAMÁTICO:
 
