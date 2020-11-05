@@ -1,7 +1,8 @@
-# MÉTODOS ESTATÍSTICOS APLICADOS AS CIÊNCIAS VETERINÁRIAS
+# Métodos Estatísticos Aplicados às Ciências Veterinárias
 
 
-Professor Responsável: Wagner Tassinari
+**Prof. Wagner Tassinari**
+
 
 ## Objetivos
 
@@ -10,11 +11,26 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 ## Apresentação do curso
 
-- O curso será composto de atividade **sincronas**, são atividades baseadas em momentos ao vivo on line com o professor, e **assincronas** , são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material didático sugerido, videoaulas, listas de exercícios e trabalhos em grupo.
+- O curso será composto de atividade **síncronas**, são atividades baseadas em momentos ao vivo on line com o professor, e **assíncronas** , são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material didático sugerido, videoaulas, listas de exercícios e trabalhos em grupo.
 
 - Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica da ferramenta **R Commander**. O pacote estatístico R que pode ser encontrado no site oficial do projeto CRAN (https://cran.r-project.org/). O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados. O **R Commander**, é uma ferramenta disponibilizada pelo pacote estatístico R que têm por objetivo facilitar a vida das pessoas que não têm um conhecimento prévio na linguagem de programação R. Ele apresenta uma forma mais prática e interativa de poder fazer análises estatísticas.
 
 - A avaliação deste curso será feita através da apresentação em grupo de seminários de 15 minutos. A média final da disciplina será composta pela nota do trabalho em geral (nota do grupo) + a nota da apresentação individual de cada elemento do grupo.
+
+## Bibliografia
+
+### Básica
+
+- [Vieira, Sônia. Introdução à bioestatística. Elsevier Brasil, 1997.](https://www.dropbox.com/s/pu7zxtmgsb2i9si/Bioestatistica_-_Introducao_a_Bioestatistica_-_Sonia_Vieira_-_4_ed.pdf?dl=0)
+
+- [Morettin, Pedro Alberto, and WILTON OLIVEIRA BUSSAB. Estatística básica. Saraiva Educação SA, 2017.](https://www.dropbox.com/s/uqdsalxb9wvb730/Morettin_e_Bussab-Estatastica_Basica_6_e.pdf?dl=0)
+
+
+
+### Sugerida
+
+- 
+
 
 ## Instalando o pacote estatístico R + a interface gráfica R Commander
 
@@ -27,9 +43,9 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 - [Livro sobre o R](https://www.dropbox.com/s/d09venwvdf2feo0/Beginners_GuideR.pdf?dl=0)
 
 
-## CONTEÚDO PROGRAMÁTICO:
+## Cronograma do curso
 
-### 1. Introdução
+### Análise Exploratória de Dados
 
 Contribuição da Estatística à Experimentação
 Classificação das variáveis
@@ -45,67 +61,31 @@ Coeficiente de variação.
 | 15/01/2021 |  Sincronas  |                                                              |
 |            |             |                                                              |
 
-### 2. Distribuição normal e binomial
+### Introdução à Probabilidade
 
 Caracterização, propriedades e utilização
 Cálculo de área sob a curva normal
 Tipificação de respostas individuais
 Intervalo de confiança da média
 
-### 3. Aplicação do Intervalo de Confiança da Média
+### Introdução à Inferencia Estatística
 
 Ensaios com dados pareados
 Cálculo amostral
 
-### 4. Principais delineamentos experimentais e respectivas análises
+### Testes Paramétricos
 
 Ensaios Inteiramente ao Acaso
 Ensaios em Blocos ao Acaso
 Quadrado Latino
 Parcelas Subdivididas5. Interação entre fatores experimentais
 
-### 6. Estudos de dispersão de freqüência
+### Testes Não-Paramétricos
 
 Levantamentos
 Tabelas de contingência
 Teste de Qui-quadrado
 
-### 7. Associação entre variáveis
 
-Correlação
-Modelagem linear simples
 
-### 8. Transformação de dados
 
-### 9. Principais testes de comparação de médias
-
-t de Student
-Student-Newman-Keuls
-Tukey
-Duncan
-
-### 10. Testes não paramétricos
-
-Mann-Whitney
-Wilcoxon
-Kruskal-Wallis
-
-## REFERÊNCIAS BIBLIOGRÁFICAS:
-
-1. ARMITAGE, P. & Berry, G. Statistical Methods in Medical Rsearch. London: Blackwell
-Science ltd, 1995. 620p.
-
-2. FERREIRA P.V. Estatística Experimental Aplicada à Agronomia. EDUFAL,
-Maceió,1991
-
-3. NUNES, R.P. Métodos para a Pesquisa Agronômica. UFC, Centro de Ciências Agrárias,
-Fortaleza,1998
-
-4. SAMPAIO, I.B.M. Estatística Aplicada à Experimentação Animal. FEP-MVZ, Belo
-Horizonte, 2002. 265p
-
-5. SNEDECOR G.W & Cochran, W.G. Statistical Methods. Iowa State Univ. Press, Ames,
-1980
-
-6. STEEL, R.G.D. & Torrie, J.H. Principles and Procedures of Statistics. McGraw-Hill,
-New York,1980
