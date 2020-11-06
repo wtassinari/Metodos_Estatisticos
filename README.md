@@ -44,7 +44,7 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 - [Livro sobre o R](https://www.dropbox.com/s/d09venwvdf2feo0/Beginners_GuideR.pdf?dl=0)
 
 
-## Cronograma do curso
+# Cronograma do curso
 
 
 | Aula |                Descrição                |    Data    |
