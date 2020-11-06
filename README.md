@@ -11,7 +11,7 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 ## Apresentação do curso
 
-- O curso será composto de atividade **síncronas**, são atividades baseadas em momentos ao vivo on line com o professor, e **assíncronas** , são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material didático sugerido, videoaulas, listas de exercícios e trabalhos em grupo.
+- O curso será composto de atividade **síncronas**, são atividades baseadas em momentos ao vivo on line com o professor, e **assíncronas** , são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material didático sugerido, videoaulas, listas de exercícios e trabalhos em grupo. As aulas síncronas serão feitas via plataforma Google Meet das 9h às 10:30h.
 
 - Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica da ferramenta **R Commander**. O pacote estatístico R que pode ser encontrado no site oficial do projeto CRAN (https://cran.r-project.org/). O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados. O **R Commander**, é uma ferramenta disponibilizada pelo pacote estatístico R que têm por objetivo facilitar a vida das pessoas que não têm um conhecimento prévio na linguagem de programação R. Ele apresenta uma forma mais prática e interativa de poder fazer análises estatísticas.
 
@@ -44,6 +44,21 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 
 ## Cronograma do curso
+
+
+| Aula |                Descrição                |    Data    |
+| :--: | :-------------------------------------: | :--------: |
+|  1   |       Apresentação da dsiciplina        | 12/01/2020 |
+|  2   | Análise Exploratória de dados - parte 1 | 14/01/2020 |
+|  3   | Análise Exploratória de dados - parte 2 | 19/01/2020 |
+|  4   |  Introdução à probabilidade - parte 1   | 21/01/2020 |
+|  5   |  Introdução à probabilidade - parte 2   | 26/01/2020 |
+|  6   |    Inferência Estatística - parte 1     | 28/01/2020 |
+|  7   |    Inferência Estatístico - parte 2     | 02/02/2020 |
+|  8   |       Estatística não-paramétrica       | 04/02/2020 |
+|  9   |               Seminários                | 09/02/2020 |
+|  10  |               Seminários                | 11/02/2020 |
+
 
 ### Análise Exploratória de Dados
 
