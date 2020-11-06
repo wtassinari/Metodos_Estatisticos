@@ -106,17 +106,65 @@ Coeficiente de variação.
 
 ### **Aula 4:** Introdução à probabilidade - Parte 1 
 
+- Nessa aula serão apresentados os principais conceitos em teoria da probabilidade de forma teórica e com exercícios. 
+
+- Para esta aula síncrona, os alunos deverão ter assistido as videoaulas de probabilidade disponíveis nesta plataforma.
+Após a aula síncrona:
+
+1- Finalizar as videoaulas de R (aulas práticas 1 e 2, disponíveis na aula 3). Prazo - dia 09/09.
+
+2- Rever o material das aulas síncrona e assíncrona referente a aula 4.
+
+3- Tentar resolver os exercícios da próxima aula (aula 5).
+
+
 ### **Aula 5:** Introdução à probabilidade - Parte 2
+
+- Nessa aula serão apresentados os principais conceitos de distribuição de probabilidades discreta e contínua de forma teórica e com exercícios. 
+
+- Para esta aula, os alunos deverão ter assistido as vídeo-aulas de probabilidade disponíveis na aula 4 e ter feito a lista de exercícios 3 disponível nesta aula.
+
+- É sugerido que os alunos além de terem feito as leituras complementares da bibliografia sugerida, eles também tenham visto a aula de exercícios 5 e assistido a videaula de probabilidade do prof. Kleinbaum no youtube disponível no link citado nesta aula.
+
 
 ### **Aula 6:** Inferência Estatística - Parte 1 
 
+- Nessa aula serão apresentados os conceitos introdutórios de inferência estatística e estimação intervalar de forma teórica e com exercícios. 
+Para esta aula síncrona, os alunos deverão ter assistido as 3 videoaulas  disponíveis.
+
+- Após a aula síncrona:
+
+1- Refazer os exercícios dos slides e da aula prática usando funções de R
+
+
 ### **Aula 7:** Inferência Estatística - Parte 2
+
+- Nessa aula serão apresentados os conceitos de teste de hipóteses para 1 e 2 amostras de forma teórica e com exercícios. 
+
+- Para esta aula síncrona, os alunos deverão ter assistido as 3 videoaulas disponíveis.
+
+- Após a aula síncrona:
+
+1- Refazer os exercícios dos slides usando funções de R
+
+2- Dica: Não esqueçam de sempre que possível fazer um esboço gráfico da área a ser calculada
 
 ### **Aula 8:** Estatística não-paramétrica 
 
+- Nessa aula serão apresentados alguns conceitos mais importantes a respeito  dos testes de hipóteses para dados categóricos (ou testes de hipóteses para dados em tabelas de contingência) e dos testes não-paramétricos, com aplicações.
+
+- Para esta aula, os alunos deverão ter assistido as vídeo-aulas a respeito de estatística não-paramétrica que estão disponíveis na aula 11. 
+
+- É sugerido que os alunos além de terem feito as leituras complementares da bibliografia sugerida, eles também tenham tentando fazer o exercício que foi deixado nos slides da aula síncrona.
+
+
 ### **Aula 9:** Seminários
 
+- Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
+
 ### **Aula 10:** Seminários
+
+- Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
 
 
