@@ -44,7 +44,7 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 - [Livro sobre o R](https://www.dropbox.com/s/d09venwvdf2feo0/Beginners_GuideR.pdf?dl=0)
 
 
-# Cronograma do curso
+# Cronograma do curso:
 
 
 | Aula |                Descrição                |    Data    |
@@ -95,30 +95,30 @@ Coeficiente de variação.
 
 
 
-### Introdução à Probabilidade
+### **Aula 3:** Análise Exploratória de Dados - Parte 2
 
-Caracterização, propriedades e utilização
-Cálculo de área sob a curva normal
-Tipificação de respostas individuais
-Intervalo de confiança da média
+- Nessa aula serão apresentados conceitos sobre medidas-resumo (medidas de tendência central, posição e dispersão. O conteúdo será abordado de forma teórica, com exercícios e prática em R. 
 
-### Introdução à Inferencia Estatística
+- Para a aula síncrona, os alunos deverão ter assistido a aula assíncrona (4 videoaulas de Estatística descritiva-parte 2) disponíveis nessa seção.
 
-Ensaios com dados pareados
-Cálculo amostral
+- Após a aula síncrona, recomendamos que os alunos realizem:
 
-### Testes Paramétricos
 
-Ensaios Inteiramente ao Acaso
-Ensaios em Blocos ao Acaso
-Quadrado Latino
-Parcelas Subdivididas5. Interação entre fatores experimentais
+### **Aula 4:** Introdução à probabilidade - Parte 1 
 
-### Testes Não-Paramétricos
+### **Aula 5:** Introdução à probabilidade - Parte 2
 
-Levantamentos
-Tabelas de contingência
-Teste de Qui-quadrado
+### **Aula 6:** Inferência Estatística - Parte 1 
+
+### **Aula 7:** Inferência Estatística - Parte 2
+
+### **Aula 8:** Estatística não-paramétrica 
+
+### **Aula 9:** Seminários
+
+### **Aula 10:** Seminários
+
+
 
 
 
