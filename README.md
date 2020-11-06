@@ -22,15 +22,20 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 ### Básica
 
-- [Vieira, Sônia. Introdução à bioestatística. Elsevier Brasil, 1997.](https://www.dropbox.com/s/pu7zxtmgsb2i9si/Bioestatistica_-_Introducao_a_Bioestatistica_-_Sonia_Vieira_-_4_ed.pdf?dl=0)
+- [Vu, J; Harrington, D. Introductory Statistics for the Life and Biomedical Sciences, 1ª edição. 2020.](https://leanpub.com/biostat)
 
-- [Morettin, Pedro Alberto, and WILTON OLIVEIRA BUSSAB. Estatística básica. Saraiva Educação SA, 2017.](https://www.dropbox.com/s/uqdsalxb9wvb730/Morettin_e_Bussab-Estatastica_Basica_6_e.pdf?dl=0)
+- [Diez, DM; Barr, C D; Çetinkaya-Rundel M. OpenIntro Statistics, 3ª edição. 2015.](https://leanpub.com/openintro-statistics)
 
 
 
 ### Sugerida
 
-- 
+- Vieira, Sônia. Introdução à bioestatística. Elsevier Brasil, 1997.
+
+- Morettin, Pedro Alberto; Bussab, Wilton. Estatística básica. Saraiva Educação SA, 2017.
+
+- Petrie, Aviva, and Paul Watson. Statistics for veterinary and animal science. John Wiley & Sons, 2013.
+
 
 
 ## Instalando o pacote estatístico R + a interface gráfica R Commander
