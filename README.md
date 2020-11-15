@@ -74,14 +74,28 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 - Nessa aula síncrona será apresentado o novo formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
 
-- Para esta aula síncrona, não precisam previamente acessar videoaulas ou leitura complementar.
+- Para a aula síncrona deste dia, é sugerido de que os alunos já tenham feito a instalação do pacote estatístico R e a biblioteca Rcmd referente a interface gráfica Rcommander, como mostrado nas videoaulas e no material complementar disponíveis nessa página.
 
-- Após a aula síncrona é recomendado a instalação e configuração dos softwares R e Rstudio, como mostrado nas videoaulas ou material complementar disponíveis nessa seção.
+| Atividades  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assincrona | [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U) |
+| Assincrona | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4) |
+| Assincrona | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
+| Sincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
 
 
 ### **Aula 2:** Análise Exploratória de Dados - Parte 1
 
 - Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. O conteúdo será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+| Atividade  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
 
 - Para a aula síncrona, os alunos deverão: 
 
