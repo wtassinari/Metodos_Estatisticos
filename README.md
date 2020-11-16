@@ -88,14 +88,14 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 - Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. O conteúdo será abordado de forma assíncrona (videoaulas e lista de exercícios). 
 
-| Atividade  |       Tipo de Atividade                                             |
-| :---------: | ------------------------------------------------------------ |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
+| Atividade  |       Tipo de Atividade                                       | Link |
+| :---------: | ------------------------------------------------------------ | ----- |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
+| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 - Para a aula síncrona, os alunos deverão: 
 
