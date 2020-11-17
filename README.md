@@ -44,11 +44,19 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 ## Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
 
+- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
+
 - [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
 
 - [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4)
 
 - [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg)
+
+- [Video com a isntalação do R Commander via RStudio](https://www.youtube.com/watch?v=CBR9sz4mYWM&t=28s)
+
+- [Vídeo mostrando se faz a criação e importação de dados via R Commander](https://www.youtube.com/watch?v=BhzJMx4Ug8k)
+
+- [Vídeo mostrando se faz a manipulação de dados via R Commander](https://www.youtube.com/watch?v=0FLHJAbxzis)
 
 - [Apostila para o manuseio do R Commander](https://www.dropbox.com/s/l2nognaahlded68/ApostilaGeorge2016.pdf?dl=0)
 
