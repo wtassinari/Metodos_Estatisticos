@@ -41,6 +41,16 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 - Petrie, Aviva, and Paul Watson. Statistics for veterinary and animal science. John Wiley & Sons, 2013.
 
 
+## Bancos de dados utilizados no curso
+
+| Nome do banco  |       Breve descrição                                            |
+| :---------: | ------------------------------------------------------------ |
+| [berne.xls]() |  |
+| [bernepropriedades.xlsx]() |  |
+| Assincrona |  |
+| Sincrona | |
+
+
 
 ## Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
 
