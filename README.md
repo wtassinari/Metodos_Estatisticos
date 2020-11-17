@@ -108,7 +108,6 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 | Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 
-                                                           |
 
 - Após a aula síncrona, recomendamos que os alunos realizem a lista de exercícios como ferramenta auxiliar para o aprendizado. Será disponibilizado o gabarito após a aula.
 
