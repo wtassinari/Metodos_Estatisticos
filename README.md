@@ -90,9 +90,9 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 | Atividade  |       Tipo de Atividade                                       | Videoaula|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Slide da aula EAD 1  |  [Videoaula AED 1] (https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
-| Assincrona | Slide da aula EAD 2 |  [Videoaula AED 2] (https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
-| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |  [Videoaula AED 2 - Parte 3] (https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
+| Assincrona | Slide da aula EAD 1  |  [Videoaula AED 1](https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
+| Assincrona | Slide da aula EAD 2 |  [Videoaula AED 2](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
+| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |   |
 | Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 
@@ -121,9 +121,9 @@ Coeficiente de variação.
 
 | Atividade  |       Tipo de Atividade                                       | Videoaula|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Slide da aula AED 3 - Parte 1  |  [Videoaula AED 3 - Parte 1] (https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
-| Assincrona | Slide da aula AED 3 - Parte 2 |  [Videoaula AED 3 - Parte 2] (https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
-| Assincrona | Slide da aula AED 4 |  [Videoaula AED 4] (https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 3 - Parte 1  |  [Videoaula AED 3 - Parte 1](https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 3 - Parte 2 |  [Videoaula AED 3 - Parte 2](https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 4 |  [Videoaula AED 4](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
 | Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 
