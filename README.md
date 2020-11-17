@@ -81,7 +81,7 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 | Assincrona | [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U) |
 | Assincrona | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4) |
 | Assincrona | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
-| Sincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
+| Sincrona | [Slide da aula 1](https://www.dropbox.com/s/dx5jtz2ezkzxvdo/Apresentacao.pdf?dl=0) |
 
 
 ### **Aula 2:** Análise Exploratória de Dados (AED) - Parte 1
