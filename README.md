@@ -43,7 +43,7 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 ## Bancos de dados utilizados no curso
 
-\centering
+
 
 | Nome do banco  |       Breve descrição                                            |
 | :---------: | ------------------------------------------------------------ |
