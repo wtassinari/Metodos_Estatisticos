@@ -134,9 +134,10 @@ Após a aula síncrona:
 
 | Atividade  |       Tipo de Atividade                                       | Videoaula|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Slide da aula AED 3 - Parte 1  |  [Videoaula AED 3 - Parte 1](https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
-| Assincrona | Slide da aula AED 3 - Parte 2 |  [Videoaula AED 3 - Parte 2](https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
-| Assincrona | Slide da aula AED 4 |  [Videoaula AED 4](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
+| Assincrona | Slide da aula de Probabilidade |  [Videoaula de Probabilidade - Parte 1](https://www.dropbox.com/s/0fnylziql3fbdsr/Probabilidade1.mp4?dl=0)  |
+| Assincrona | - |  [Videoaula de Probabilidade - Parte 2](https://www.dropbox.com/s/d74ltgpmqv33uiv/Probabilidade2.mp4?dl=0)  |
+| Assincrona | - |  [Videoaula de Probabilidade - Parte 3](https://www.dropbox.com/s/alnkrxy5np2n2nn/Probabilidade3.mp4?dl=0)  |
+| Assincrona | - |  [Videoaula de Probabilidade - Parte 4](https://www.dropbox.com/s/kqa6cbrabpsv7si/Probabilidade4.mp4?dl=0)  |
 | Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 
