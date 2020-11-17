@@ -101,15 +101,6 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 - Após a aula síncrona, recomendamos que os alunos realizem a lista de exercícios como ferramenta auxiliar para o aprendizado. Será disponibilizado o gabarito após a aula.
 
 
-Contribuição da Estatística à Experimentação
-Classificação das variáveis
-Unidades experimentais
-Situações mais comuns na experimentação animal.
-Princípios básicos da experimentação
-Estatística descritiva: média e desvio padrão
-Coeficiente de variação.
-
-
 
 ### **Aula 3:** Análise Exploratória de Dados - Parte 2
 
@@ -139,6 +130,14 @@ Após a aula síncrona:
 2- Rever o material das aulas síncrona e assíncrona referente a aula 4.
 
 3- Tentar resolver os exercícios da próxima aula (aula 5).
+
+
+| Atividade  |       Tipo de Atividade                                       | Videoaula|
+| :---------: | ------------------------------------------------------------ | ----- |
+| Assincrona | Slide da aula AED 3 - Parte 1  |  [Videoaula AED 3 - Parte 1](https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 3 - Parte 2 |  [Videoaula AED 3 - Parte 2](https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 4 |  [Videoaula AED 4](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
+| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 
 ### **Aula 5:** Introdução à probabilidade - Parte 2
