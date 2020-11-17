@@ -84,26 +84,19 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 | Sincrona | Slide da aula 1 (será disponibilizada no dia da aula) |
 
 
-### **Aula 2:** Análise Exploratória de Dados - Parte 1
+### **Aula 2:** Análise Exploratória de Dados (AED) - Parte 1
 
 - Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. O conteúdo será abordado de forma assíncrona (videoaulas e lista de exercícios). 
 
 | Atividade  |       Tipo de Atividade                                       | Videoaula|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
-| Assincrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
+| Assincrona | Slide da aula EAD 1  |  [Videoaula AED 1] (https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
+| Assincrona | Slide da aula EAD 2 |  [Videoaula AED 2] (https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
+| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |  [Videoaula AED 2 - Parte 3] (https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
+| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
-- Para a aula síncrona, os alunos deverão: 
 
-|   Datas    | Atividades  |                                                              |
-| :--------: | :---------: | ------------------------------------------------------------ |
-| 15/01/2021 | Assincronas | [Fonte: Wikipédia (2020)](https://pt.wikipedia.org/wiki/Indicador_social) |
-| 15/01/2021 |  Sincronas  |                                                              |
-|            |             |                                                              |
+                                                           |
 
 - Após a aula síncrona, recomendamos que os alunos realizem a lista de exercícios como ferramenta auxiliar para o aprendizado. Será disponibilizado o gabarito após a aula.
 
@@ -125,6 +118,13 @@ Coeficiente de variação.
 - Para a aula síncrona, os alunos deverão ter assistido a aula assíncrona (4 videoaulas de Estatística descritiva-parte 2) disponíveis nessa seção.
 
 - Após a aula síncrona, recomendamos que os alunos realizem:
+
+| Atividade  |       Tipo de Atividade                                       | Videoaula|
+| :---------: | ------------------------------------------------------------ | ----- |
+| Assincrona | Slide da aula AED 3 - Parte 1  |  [Videoaula AED 3 - Parte 1] (https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 3 - Parte 2 |  [Videoaula AED 3 - Parte 2] (https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 4 |  [Videoaula AED 4] (https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
+| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 
 ### **Aula 4:** Introdução à probabilidade - Parte 1 
