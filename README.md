@@ -53,14 +53,14 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 ## Bancos de dados utilizados no curso
 
-
+Para baixar todos os bancos basta clicar [bancos.zip](https://www.dropbox.com/s/ih5ycvb0lkqo76y/bancos.zip?dl=0)
 
 | Nome do banco  |       Breve descrição                                            |
 | :---------: | ------------------------------------------------------------ |
-| [bancos.RData.xls](https://www.dropbox.com/s/ngwud1o0fw9bbsx/bancos.RData?dl=0) | São todos os bancos de dados que iremos trabalhar já no formato R  |
-| [berne.xls](https://www.dropbox.com/scl/fi/u5zgntha9w9i7bry350ra/berne.xls?dl=0&rlkey=1d4pl01i5ybiuixl7fi7k13uo) |  |
-| [bernepropriedades.xlsx](https://www.dropbox.com/scl/fi/avaaeh69347abqyikwlqr/bernepropriedades.xlsx?dl=0&rlkey=n24eghzv49ntf31u4cwbiti92) |  |
-| [colesterolcaes.xlsx](https://www.dropbox.com/scl/fi/v1fmdyymfganhb6p8t8gh/colesterolcaes.xlsx?dl=0&rlkey=2f2qhvmegafft9ojej6ookfvc) |  |
+| [bancos.RData]() | São todos os bancos de dados que iremos trabalhar já no formato R  |
+| [berne.xls]() |  |
+| [bernepropriedades.xlsx]() |  |
+| [colesterolcaes.xlsx]() |  |
 | [concordancia.xlsx]() |  |
 | [ExembloBDdiarreia.xlsx]() |  |
 | [massapassaros.xlsx]() |  |
