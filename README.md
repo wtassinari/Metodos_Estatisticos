@@ -57,10 +57,10 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 | Nome do banco  |       Breve descrição                                            |
 | :---------: | ------------------------------------------------------------ |
-| [bancos.RData.xls]() |  |
-| [berne.xls]() |  |
-| [bernepropriedades.xlsx]() |  |
-| [colesterolcaes.xlsx]() |  |
+| [bancos.RData.xls](https://www.dropbox.com/s/ngwud1o0fw9bbsx/bancos.RData?dl=0) | São todos os bancos de dados que iremos trabalhar já no formato R  |
+| [berne.xls](https://www.dropbox.com/scl/fi/u5zgntha9w9i7bry350ra/berne.xls?dl=0&rlkey=1d4pl01i5ybiuixl7fi7k13uo) |  |
+| [bernepropriedades.xlsx](https://www.dropbox.com/scl/fi/avaaeh69347abqyikwlqr/bernepropriedades.xlsx?dl=0&rlkey=n24eghzv49ntf31u4cwbiti92) |  |
+| [colesterolcaes.xlsx](https://www.dropbox.com/scl/fi/v1fmdyymfganhb6p8t8gh/colesterolcaes.xlsx?dl=0&rlkey=2f2qhvmegafft9ojej6ookfvc) |  |
 | [concordancia.xlsx]() |  |
 | [ExembloBDdiarreia.xlsx]() |  |
 | [massapassaros.xlsx]() |  |
