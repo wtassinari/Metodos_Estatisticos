@@ -22,9 +22,9 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 - A avaliação deste curso será feita através da apresentação em grupo de seminários de 15 minutos. A média final da disciplina será composta pela nota do trabalho em geral (nota do grupo) + a nota da apresentação individual de cada elemento do grupo, sendo a última tendo peso dois.
 
 
-## Bibliografia
+## Bibliografias
 
-### Básica
+### Bibliografia Básica
 
 - [Vu, J; Harrington, D. Introductory Statistics for the Life and Biomedical Sciences, 1ª edição. 2020.](https://leanpub.com/biostat)
 
@@ -32,13 +32,23 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 
 
-### Sugerida
+### Bibliografia Sugerida
 
 - Vieira, Sônia. Introdução à bioestatística. Elsevier Brasil, 1997.
 
 - Morettin, Pedro Alberto; Bussab, Wilton. Estatística básica. Saraiva Educação SA, 2017.
 
 - Petrie, Aviva, and Paul Watson. Statistics for veterinary and animal science. John Wiley & Sons, 2013.
+
+
+### Bibliografia do Pacote Estatístico R
+
+- [Apostila para o manuseio do R Commander](https://www.dropbox.com/s/l2nognaahlded68/ApostilaGeorge2016.pdf?dl=0)
+
+- [Ebook sobre o R + R Commnader](http://www.lampada.uerj.br/arquivosdb/_book2/rcommander.html)
+
+- [Livro sobre o R](https://www.dropbox.com/s/d09venwvdf2feo0/Beginners_GuideR.pdf?dl=0)
+
 
 
 ## Bancos de dados utilizados no curso
@@ -70,11 +80,6 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 - [Vídeo mostrando se faz a manipulação de dados via R Commander](https://www.youtube.com/watch?v=0FLHJAbxzis)
 
-- [Apostila para o manuseio do R Commander](https://www.dropbox.com/s/l2nognaahlded68/ApostilaGeorge2016.pdf?dl=0)
-
-- [Ebook sobre o R + R Commnader](http://www.lampada.uerj.br/arquivosdb/_book2/rcommander.html)
-
-- [Livro sobre o R](https://www.dropbox.com/s/d09venwvdf2feo0/Beginners_GuideR.pdf?dl=0)
 
 
 # Cronograma do curso:
