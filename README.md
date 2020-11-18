@@ -57,21 +57,21 @@ Para baixar todos os bancos basta clicar [bancos.zip](https://www.dropbox.com/s/
 
 | Nome do banco  |       Breve descrição                                            |
 | :---------: | ------------------------------------------------------------ |
-| [bancos.RData]() | São todos os bancos de dados que iremos trabalhar já no formato R  |
-| [berne.xls]() |  |
-| [bernepropriedades.xlsx]() |  |
-| [colesterolcaes.xlsx]() |  |
-| [concordancia.xlsx]() |  |
-| [ExembloBDdiarreia.xlsx]() |  |
-| [massapassaros.xlsx]() |  |
-| [massapassaros0.xlsx]() |  |
-| [pesocobaias.xlsx]() |  |
-| [pesocobaias0.xlsx]() |  |
-| [pesocompratos.xlsx]() |  |
-| [prevalenciadoenca.xlsx]() |  |
-| [racaoratos.xlsx]() |  |
-| [salex.xlsx]() |  |
-| [transforme_normal.xlsx]() |  |
+| bancos.RData | São todos os bancos de dados que iremos trabalhar já no formato R  |
+| berne.xls |  |
+| bernepropriedades.xlsx |  |
+| colesterolcaes.xlsx |  |
+| concordancia.xlsx |  |
+| ExembloBDdiarreia.xlsx |  |
+| massapassaros.xlsx |  |
+| massapassaros0.xlsx |  |
+| pesocobaias.xlsx |  |
+| pesocobaias0.xlsx |  |
+| pesocompratos.xlsx |  |
+| prevalenciadoenca.xlsx |  |
+| racaoratos.xlsx |  |
+| salex.xlsx |  |
+| transforme_normal.xlsx |  |
 
 
 
