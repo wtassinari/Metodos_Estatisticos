@@ -57,10 +57,22 @@ Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento 
 
 | Nome do banco  |       Breve descrição                                            |
 | :---------: | ------------------------------------------------------------ |
+| [bancos.RData.xls]() |  |
 | [berne.xls]() |  |
 | [bernepropriedades.xlsx]() |  |
-| Assincrona |  |
-| Sincrona | |
+| [colesterolcaes.xlsx]() |  |
+| [concordancia.xlsx]() |  |
+| [ExembloBDdiarreia.xlsx]() |  |
+| [massapassaros.xlsx]() |  |
+| [massapassaros0.xlsx]() |  |
+| [pesocobaias.xlsx]() |  |
+| [pesocobaias0.xlsx]() |  |
+| [pesocompratos.xlsx]() |  |
+| [prevalenciadoenca.xlsx]() |  |
+| [racaoratos.xlsx]() |  |
+| [salex.xlsx]() |  |
+| [transforme_normal.xlsx]() |  |
+
 
 
 
