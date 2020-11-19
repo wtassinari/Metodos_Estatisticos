@@ -70,7 +70,9 @@ Para baixar todos os bancos basta clicar [bancos.zip](https://www.dropbox.com/s/
 | pesocompratos.xlsx |  |
 | prevalenciadoenca.xlsx |  |
 | racaoratos.xlsx |  |
-| salex.xlsx |  |
+| salex.xlsx | Estes dados são provenientes de um surto de algum tipo de intoxicação alimentar,
+povavelmente originada pela ingestão de comidas estragadas, no dia 17 de outubro de 1992. Todas
+as variáveis são codificadas com 1= sim e 2=não (variáveis dicotômicas ou binárias). |
 | transforme_normal.xlsx |  |
 
 
