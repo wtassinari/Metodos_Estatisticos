@@ -138,7 +138,7 @@ Para baixar todos os bancos basta clicar [bancos.zip](https://www.dropbox.com/s/
 
 
 
-- Após a aula síncrona, recomendamos que os alunos realizem a lista de exercícios como ferramenta auxiliar para o aprendizado. Será disponibilizado o gabarito após a aula.
+- Após a aula síncrona, recomendamos que os alunos realizem a lista de exercícios como ferramenta auxiliar para o aprendizado. Será disponibilizado o gabarito após a aula
 
 
 
