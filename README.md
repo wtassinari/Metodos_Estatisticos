@@ -4,20 +4,17 @@
 **Prof. Wagner Tassinari**
 
 
-## Objetivos
-
-Capacitar o pesquisador na área de Ciências Veterinárias para o planejamento e analise de estudos experimentais e/ou observacionais a partir das limitações vigentes de amostragem e infra-estrutura desenvolver o julgamento crítico sobre os resultados estatísticos obtidos, em relação a resposta biológica esperada, para apresentar conclusões finais.
-
-
 ## Apresentação do curso
 
-- O curso será composto de atividade **síncronas**, são atividades baseadas em momentos ao vivo on line com o professor, e **assíncronas** , são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material didático sugerido, videoaulas, listas de exercícios e trabalhos em grupo. As aulas síncronas serão feitas via plataforma *Google Meet* das 9h às 10:30h. O link para o acesso as aulas estará disponível em nosso espaço na *Google Classroom*. 
+- Este curso têm por objetivo de principal capacitar pesquisadores nas áreas de ciências veterinárias e biológicas de maneira geral, para o planejamento e execução de analises estatísticas básicas em estudos experimentais e/ou observacionais através do julgamento crítico sobre os resultados estatísticos obtidos, em relação a resposta biológica esperada, para apresentar conclusões finais.
 
-- Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica da ferramenta **RStudio** e o **R Commander**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN (https://cran.r-project.org/), é uma linguagem de programação estatística e gráfica que vem se especializando na manipulação, análise e visualização de dados, sendo atualmente considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados. 
+- O curso será composto de atividade **síncronas**, são atividades baseadas em encontros remotos professor-alunos on line, e  das atividades **assíncronas**, são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e trabalhos em grupo. As aulas síncronas serão feitas via plataforma Google Meet das 9h às 10:30h. O link para o acesso as aulas estará disponível nessa plataforma no tópico referente a data da aula.
 
--  Mais uma vantagem de utilizar a linguagem R está no **RStudio** (https://rstudio.com/products/rstudio/), que é uma IDE, ou ambiente de desenvolvimento integrado, para o R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para desenvolvimento em R, extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
+- Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica **RStudio** e o **R Commander**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN (https://cran.r-project.org/), é uma linguagem de programação estatística e gráfica que vem se especializando na manipulação, análise e visualização de dados, sendo atualmente considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
 
-- O **R Commander**, também conhecido como uma interface *point-and-click* para o **pacote estatístico R**, é uma ferramenta disponibilizada pelo pacote estatístico R, através da *library(rcmdr)*, que têm por objetivo facilitar a vida das pessoas que não têm um conhecimento prévio na linguagem de programação R. Ele apresenta uma forma mais prática e interativa de poder fazer análises estatísticas.
+- Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** (https://rstudio.com/products/rstudio/), que é uma IDE ou ambiente de desenvolvimento integrado, para o R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataformap é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
+
+- O **R Commander**, também conhecido como uma interface *point-and-click* para o manuseio do pacote estatístico R, é uma ferramenta disponibilizada pelo pacote estatístico R, através da library(rcmdr), que têm por objetivo facilitar a vida das pessoas que não têm um conhecimento prévio na linguagem de programação R. Ela apresenta uma forma mais prática e interativa de poder fazer análises estatísticas.
 
 - A avaliação deste curso será feita através da apresentação em grupo de seminários de 15 minutos. A média final da disciplina será composta pela nota do trabalho em geral (nota do grupo) + a nota da apresentação individual de cada elemento do grupo, sendo a última tendo peso dois.
 
@@ -115,7 +112,7 @@ Para baixar todos os bancos basta clicar [bancos.zip](https://www.dropbox.com/s/
 
 - Nessa aula síncrona será apresentado o novo formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
 
-- Para a aula síncrona deste dia, é sugerido de que os alunos já tenham feito a instalação do pacote estatístico R e a biblioteca Rcmd referente a interface gráfica Rcommander, como mostrado nas videoaulas e no material complementar disponíveis nessa página.
+- Para a aula síncrona deste dia, é sugerido de que os alunos já tenham feito a instalação do pacote estatístico R da interface gráfica RStudio baixado e instalado a biblioteca Rcmd referente a interface gráfica Rcommander, como mostrado nas videoaulas e no material complementar disponíveis nessa página.
 
 | Atividades  |       Tipo de Atividade                                             |
 | :---------: | ------------------------------------------------------------ |
