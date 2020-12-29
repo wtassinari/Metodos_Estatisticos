@@ -1,7 +1,7 @@
 # Métodos Estatísticos Aplicados às Ciências Veterinárias
 
 
-**Prof. Wagner Tassinari**
+**Prof. Wagner Tassinari (DEMAT/UFRRJ)**
 
 
 ## Apresentação do curso
