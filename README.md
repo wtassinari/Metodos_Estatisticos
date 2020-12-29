@@ -56,26 +56,6 @@ Estão proibidas quaisquer outras formas de utilização, tais como copiar, edit
 
 Para baixar todos os bancos basta clicar [bancos.zip](https://www.dropbox.com/s/ih5ycvb0lkqo76y/bancos.zip?dl=0)
 
-| Nome do banco  |       Breve descrição                                            |
-| :---------: | ------------------------------------------------------------ |
-| bancos.RData | São todos os bancos de dados que iremos trabalhar já no formato R  |
-| berne.xls |  |
-| bernepropriedades.xlsx |  |
-| colesterolcaes.xlsx |  |
-| concordancia.xlsx |  |
-| ExembloBDdiarreia.xlsx |  |
-| massapassaros.xlsx |  |
-| massapassaros0.xlsx |  |
-| pesocobaias.xlsx |  |
-| pesocobaias0.xlsx |  |
-| pesocompratos.xlsx |  |
-| prevalenciadoenca.xlsx |  |
-| racaoratos.xlsx |  |
-| salex.xlsx | Estes dados são provenientes de um surto de algum tipo de intoxicação alimentar |
-| transforme_normal.xlsx |  |
-
-
-
 
 ## Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
 
