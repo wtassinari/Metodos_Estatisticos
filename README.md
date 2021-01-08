@@ -120,15 +120,15 @@ Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com
 | Assincrona | Slides da aula AED 2 |  [link](https://www.dropbox.com/s/h4jgssrfufkrklu/Aula2_IntEpi_EDA.pdf?dl=0)  |
 
 
-
+\footnotesize
 | Atividade  |       Importanto e criando bancos de dados pelo Rcommander                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
 | Assincrona | Abrindo o Rcommander a partir do Rstudio e utilizando como calculadora  |  [link](https://www.dropbox.com/s/wppqrvr898ac5qx/viodeaulaRComander1.mp4?dl=0)  |
 | Assincrona | Lendo o banco de dados birthwt a paritr da biblioteca MASS |  [link](https://www.dropbox.com/s/aqi01ndi2kxfrx3/viodeaulaRComander2.mp4?dl=0)  |
-| Assincrona | Lendo o banco de dados birthwt a paritr de um arquivo em excel  |  [link] (https://www.dropbox.com/s/cr7158jcn74sb71/viodeaulaRComander3.mp4?dl=0) |
+| Assincrona | Lendo o banco de dados birthwt a paritr de um arquivo em excel  |  [link](https://www.dropbox.com/s/cr7158jcn74sb71/viodeaulaRComander3.mp4?dl=0) |
 | Assincrona | Criando um banco de dados a partir do RCommander | [link](https://www.dropbox.com/s/3c74jtocqff3zhy/viodeaulaRComander4.mp4?dl=0)    |
 
-
+\footnotesize
 
 
 
