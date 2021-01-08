@@ -133,16 +133,15 @@ Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com
 
 - Nessa aula serão apresentados conceitos sobre medidas-resumo (medidas de tendência central, posição e dispersão. O conteúdo será abordado de forma teórica, com exercícios e prática em R. 
 
-- Para a aula síncrona, os alunos deverão ter assistido a aula assíncrona (4 videoaulas de Estatística descritiva-parte 2) disponíveis nessa seção.
-
-- Após a aula síncrona, recomendamos que os alunos realizem:
 
 | Atividade  |       Tipo de Atividade                                       | Videoaula|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Slide da aula AED 3 - Parte 1  |  [Videoaula AED 3 - Parte 1](https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
-| Assincrona | Slide da aula AED 3 - Parte 2 |  [Videoaula AED 3 - Parte 2](https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
-| Assincrona | Slide da aula AED 4 |  [Videoaula AED 4](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
-| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
+| Assincrona | Videoaula AED 3 - Parte 1  |  [Videoaula AED 3 - Parte 1](https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
+| Assincrona | Videoaula AED 3 - Parte 2 |  [Videoaula AED 3 - Parte 2](https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
+| Assíncrona | Slides da aula 3 - Parte 1 |    |
+| Assíncrona | Slides da aula 3 - Parte 2 |    |
+| Assincrona | Videoaula AED 4 |  [Videoaula AED 4](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
+| Assíncrona | Slides da aula 4  |    |
 
 
 ### **Aula 4:** Introdução à probabilidade - Parte 1 
