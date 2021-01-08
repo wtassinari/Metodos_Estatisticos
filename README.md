@@ -138,10 +138,10 @@ Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com
 | :---------: | ------------------------------------------------------------ | ----- |
 | Assincrona | Videoaula AED 3 - Parte 1  |  [Videoaula AED 3 - Parte 1](https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
 | Assincrona | Videoaula AED 3 - Parte 2 |  [Videoaula AED 3 - Parte 2](https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
-| Assíncrona | Slides da aula 3 - Parte 1 |    |
-| Assíncrona | Slides da aula 3 - Parte 2 |    |
+| Assíncrona | Slides da aula 3 - Parte 1 | [link](https://www.dropbox.com/s/s51hsz7u4rrjrp0/Aula3_parte1_IntEpi_EDA.pdf?dl=0)   |
+| Assíncrona | Slides da aula 3 - Parte 2 | [link](https://www.dropbox.com/s/3m58ytifnom8yuo/Aula3_parte2_IntEpi_EDA.pdf?dl=0)   |
 | Assincrona | Videoaula AED 4 |  [Videoaula AED 4](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
-| Assíncrona | Slides da aula 4  |    |
+| Assíncrona | Slides da aula 4  | [link](https://www.dropbox.com/s/4jqs5cpsnc37upr/Aula4_IntEpi_EDA.pdf?dl=0)  |
 
 
 ### **Aula 4:** Introdução à probabilidade - Parte 1 
