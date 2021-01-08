@@ -110,7 +110,7 @@ Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com
 
 - Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. O conteúdo será abordado de forma assíncrona (videoaulas e lista de exercícios). 
 
-- É sugerido que os alunos tentem fazer os exercícios propostos nos slides das aulas como ferramenta auxiliar para o aprendizado. Será disponibilizado o gabarito após a aula
+- É sugerido que os alunos tentem fazer os exercícios propostos nos slides das aulas e a lista de exercícios como ferramenta auxiliar para o aprendizado. 
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
@@ -118,6 +118,7 @@ Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com
 | Assincrona | Slides da aula AED 1  |  [link](https://www.dropbox.com/s/41uyl6nn0s89h27/Aula1_IntEpi_EDA.pdf?dl=0) |
 | Assincrona | Videoaula AED 2 |  [link](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
 | Assincrona | Slides da aula AED 2 |  [link](https://www.dropbox.com/s/h4jgssrfufkrklu/Aula2_IntEpi_EDA.pdf?dl=0)  |
+| Assincrona | Lista de exercícios 1 |  [link](https://www.dropbox.com/s/xvssztikg51yqv4/Lista01_2020.pdf?dl=0)  |
 
 - Essas atividades listadas abaixo, são atividades voltadas para a importação e criação de bancos de dados através da interface Rcommander
 
@@ -127,6 +128,7 @@ Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com
 | Assincrona | Lendo o banco de dados birthwt a paritr da biblioteca MASS  |  [link](https://www.dropbox.com/s/aqi01ndi2kxfrx3/viodeaulaRComander2.mp4?dl=0) |
 | Assincrona | Lendo o banco de dados birthwt a paritr de um arquivo em excel  |  [link](https://www.dropbox.com/s/cr7158jcn74sb71/viodeaulaRComander3.mp4?dl=0)  |
 | Assincrona | Criando um banco de dados a partir do RCommander  |  [link](https://www.dropbox.com/s/3c74jtocqff3zhy/viodeaulaRComander4.mp4?dl=0)  |
+
 
 
 ### **Aula 3:** Análise Exploratória de Dados - Parte 2
