@@ -110,16 +110,28 @@ Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com
 
 - Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. O conteúdo será abordado de forma assíncrona (videoaulas e lista de exercícios). 
 
+- É sugerido que os alunos tentem fazer os exercícios propostos nos slides das aulas como ferramenta auxiliar para o aprendizado. Será disponibilizado o gabarito após a aula
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | ----- |
+| Assincrona | Videoaula AED 1  |  [link](https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
+| Assincrona | Slides da aula AED 1  |  [link](https://www.dropbox.com/s/41uyl6nn0s89h27/Aula1_IntEpi_EDA.pdf?dl=0) |
+| Assincrona | Videoaula AED 2 |  [link](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 2 |  [link](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
+| Assincrona | Slide da aula AED 2 |  [link](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
+
+
+| Assincrona | Slide da aula 2 |    |
+
+
 | Atividade  |       Tipo de Atividade                                       | Videoaula|
 | :---------: | ------------------------------------------------------------ | ----- |
 | Assincrona | Slide da aula EAD 1  |  [Videoaula AED 1](https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
 | Assincrona | Slide da aula EAD 2 |  [Videoaula AED 2](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
-| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |   |
-| Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
+| Assincrona | Slide da aula 1  |   |
+| Assincrona | Slide da aula 2 |    |
 
 
-
-- Após a aula síncrona, recomendamos que os alunos realizem a lista de exercícios como ferramenta auxiliar para o aprendizado. Será disponibilizado o gabarito após a aula
 
 
 
