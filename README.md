@@ -119,6 +119,7 @@ Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com
 | Assincrona | Videoaula AED 2 |  [link](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
 | Assincrona | Slides da aula AED 2 |  [link](https://www.dropbox.com/s/h4jgssrfufkrklu/Aula2_IntEpi_EDA.pdf?dl=0)  |
 
+- Essas atividades listadas abaixo, são atividades voltadas para a importação e criação de bancos de dados através da interface Rcommander
 
 | Atividade  |       Importando e criando banco de dados pelo Rcommander     | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
