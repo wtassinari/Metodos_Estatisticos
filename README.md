@@ -54,7 +54,7 @@
 
 ## Bancos de dados utilizados no curso
 
-Para baixar todos os bancos basta clicar em [bancos.zip](https://www.dropbox.com/s/ih5ycvb0lkqo76y/bancos.zip?dl=0)
+Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://www.dropbox.com/sh/as3fa5g4a7qgcex/AAAXZmXfb9peLacGjDVaqHnva?dl=0)
 
 
 ## Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
