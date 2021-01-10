@@ -122,12 +122,12 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 - Essas atividades listadas abaixo, são atividades voltadas para a importação e criação de bancos de dados através da interface Rcommander
 
-| Videoaulas Rcommander  |       Importando e criando banco de dados pelo Rcommander     | Links|
+| Vídeos Rcommander  |       Importando e criando banco de dados pelo Rcommander     | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Videoaula 1 | Abrindo o Rcommander a partir do Rstudio e utilizando como calculadora  |  [link](https://www.dropbox.com/s/wppqrvr898ac5qx/viodeaulaRComander1.mp4?dl=0)  |
-| Videoaula 2| Lendo o banco de dados birthwt a paritr da biblioteca MASS  |  [link](https://www.dropbox.com/s/aqi01ndi2kxfrx3/viodeaulaRComander2.mp4?dl=0) |
-| Videoaula 3 | Lendo o banco de dados birthwt a paritr de um arquivo em excel  |  [link](https://www.dropbox.com/s/cr7158jcn74sb71/viodeaulaRComander3.mp4?dl=0)  |
-| Videoaula 4 | Criando um banco de dados a partir do RCommander  |  [link](https://www.dropbox.com/s/3c74jtocqff3zhy/viodeaulaRComander4.mp4?dl=0)  |
+| Vídeo 1 | Abrindo o Rcommander a partir do Rstudio e utilizando como calculadora  |  [link](https://www.dropbox.com/s/wppqrvr898ac5qx/viodeaulaRComander1.mp4?dl=0)  |
+| Vídeo 2| Lendo o banco de dados birthwt a paritr da biblioteca MASS  |  [link](https://www.dropbox.com/s/aqi01ndi2kxfrx3/viodeaulaRComander2.mp4?dl=0) |
+| Vídeo 3 | Lendo o banco de dados birthwt a paritr de um arquivo em excel  |  [link](https://www.dropbox.com/s/cr7158jcn74sb71/viodeaulaRComander3.mp4?dl=0)  |
+| Vídeo 4 | Criando um banco de dados a partir do RCommander  |  [link](https://www.dropbox.com/s/3c74jtocqff3zhy/viodeaulaRComander4.mp4?dl=0)  |
 
 
 
