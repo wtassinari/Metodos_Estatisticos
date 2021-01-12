@@ -146,6 +146,9 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assíncrona | Slides da aula 3 - Parte 2 | [link](https://www.dropbox.com/s/3m58ytifnom8yuo/Aula3_parte2_IntEpi_EDA.pdf?dl=0)   |
 | Assincrona | Videoaula AED 4 |  [link](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
 | Assíncrona | Slides da aula 4  | [link](https://www.dropbox.com/s/4jqs5cpsnc37upr/Aula4_IntEpi_EDA.pdf?dl=0)  |
+| Síncrona | Planilha com exercícios |  [link](https://www.dropbox.com/scl/fi/cb3no1nu46spcokjb3prw/Exercicio_aula_3.xlsx?dl=0&rlkey=bx3b2sz0oygqhbzvzpq02sa72)  |
+| Síncrona | Slides de estatísticas descritivas pelo Rcommander |  [link](https://www.dropbox.com/scl/fi/cb3no1nu46spcokjb3prw/Exercicio_aula_3.xlsx?dl=0&rlkey=bx3b2sz0oygqhbzvzpq02sa72)  |
+
 
 
 ### **Aula 4:** Introdução à probabilidade - Parte 1 
