@@ -118,7 +118,9 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assincrona | Slides da aula AED 1  |  [link](https://www.dropbox.com/s/41uyl6nn0s89h27/Aula1_IntEpi_EDA.pdf?dl=0) |
 | Assincrona | Videoaula AED 2 |  [link](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
 | Assincrona | Slides da aula AED 2 |  [link](https://www.dropbox.com/s/h4jgssrfufkrklu/Aula2_IntEpi_EDA.pdf?dl=0)  |
-| Assincrona | Lista de exercícios 1 |  [link](https://www.dropbox.com/s/xvssztikg51yqv4/Lista01_2020.pdf?dl=0)  |
+| Assincrona | Lista de exercícios |  [link](https://www.dropbox.com/s/xvssztikg51yqv4/Lista01_2020.pdf?dl=0)  |
+| Síncrona | Planilha com exercícios |  [link](https://www.dropbox.com/scl/fi/6ooq1h2k1k4ttmq082ixh/Exercicio_aula_2.xlsx?dl=0&rlkey=eg8sixxoakm7spd4xskfdxqqx)  |
+| Síncrona | Slides gráficos Rcommander |  [link](https://www.dropbox.com/s/1ord3mdx1ju7mmp/Aula-2_sincrona.pdf?dl=0)  |
 
 - Essas atividades listadas abaixo, são atividades voltadas para a importação e criação de bancos de dados através da interface Rcommander
 
