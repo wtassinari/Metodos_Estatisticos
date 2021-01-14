@@ -218,9 +218,13 @@ Para esta aula síncrona, os alunos deverão ter assistido as 3 videoaulas  disp
 
 - Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
+-  Roteiro dos Seminários[Link](https://www.dropbox.com/s/vsijmb8lzhxlame/Avaliacao_pratica.pdf?dl=0)
+
 ### **Aula 10:** Seminários
 
 - Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
+
+-  Roteiro dos Seminários[Link](https://www.dropbox.com/s/vsijmb8lzhxlame/Avaliacao_pratica.pdf?dl=0)
 
 
 
