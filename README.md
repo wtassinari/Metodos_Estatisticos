@@ -158,19 +158,14 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 - Para esta aula síncrona, os alunos deverão ter assistido as videoaulas de probabilidade disponíveis nesta plataforma.
 Após a aula síncrona:
 
-1- Finalizar as videoaulas de R (aulas práticas 1 e 2, disponíveis na aula 3). Prazo - dia 09/09.
 
-2- Rever o material das aulas síncrona e assíncrona referente a aula 4.
-
-3- Tentar resolver os exercícios da próxima aula (aula 5).
-
-
-| Atividade  |       Tipo de Atividade                                       | Videoaula|
+| Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Slide da aula de Probabilidade |  [Videoaula de Probabilidade - Parte 1](https://www.dropbox.com/s/0fnylziql3fbdsr/Probabilidade1.mp4?dl=0)  |
-| Assincrona | - |  [Videoaula de Probabilidade - Parte 2](https://www.dropbox.com/s/d74ltgpmqv33uiv/Probabilidade2.mp4?dl=0)  |
-| Assincrona | - |  [Videoaula de Probabilidade - Parte 3](https://www.dropbox.com/s/alnkrxy5np2n2nn/Probabilidade3.mp4?dl=0)  |
-| Assincrona | - |  [Videoaula de Probabilidade - Parte 4](https://www.dropbox.com/s/kqa6cbrabpsv7si/Probabilidade4.mp4?dl=0)  |
+| Assincrona | Videoaula de Probabilidade - Parte 1 |  [link](https://www.dropbox.com/s/0fnylziql3fbdsr/Probabilidade1.mp4?dl=0)  |
+| Assincrona | Videoaula de Probabilidade - Parte 2 |  [link](https://www.dropbox.com/s/d74ltgpmqv33uiv/Probabilidade2.mp4?dl=0)  |
+| Assincrona | Videoaula de Probabilidade - Parte 3 |  [link](https://www.dropbox.com/s/alnkrxy5np2n2nn/Probabilidade3.mp4?dl=0)  |
+| Assincrona | Videoaula de Probabilidade - Parte 4 |  [link](https://www.dropbox.com/s/kqa6cbrabpsv7si/Probabilidade4.mp4?dl=0)  |
+| Síncrona | Slide da aula de Probabilidade |  [link]()  |
 | Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 
