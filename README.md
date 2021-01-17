@@ -166,7 +166,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assincrona | Videoaula de Probabilidade - Parte 2 |  [link](https://www.dropbox.com/s/d74ltgpmqv33uiv/Probabilidade2.mp4?dl=0)  |
 | Assincrona | Videoaula de Probabilidade - Parte 3 |  [link](https://www.dropbox.com/s/alnkrxy5np2n2nn/Probabilidade3.mp4?dl=0)  |
 | Assincrona | Videoaula de Probabilidade - Parte 4 |  [link](https://www.dropbox.com/s/kqa6cbrabpsv7si/Probabilidade4.mp4?dl=0)  |
-| Síncrona | Slide da aula de Probabilidade |  [link](https://www.dropbox.com/s/o23o3jfsokwxh55/Aula4_Probabilidade.pdf?dl=0)  |
+| Assíncrona | Slide da aula de Probabilidade |  [link](https://www.dropbox.com/s/o23o3jfsokwxh55/Aula4_Probabilidade.pdf?dl=0)  |
 | Síncrona | Slide da aula 1 (será disponibilizada no dia da aula) |    |
 
 
