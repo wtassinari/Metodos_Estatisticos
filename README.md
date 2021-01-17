@@ -153,10 +153,11 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 ### **Aula 4:** Introdução à probabilidade - Parte 1 
 
-- Nessa aula serão apresentados os principais conceitos em teoria da probabilidade de forma teórica e com exercícios. 
+- Nessa aula serão apresentados os principais conceitos em teoria da probabilidade de forma teórica e com exercícios. Será enfatisado o cálculo das medidas de acurácia para testes diagnósticos baseado nos conceitos da teoria de probabilidade.
 
-- Para esta aula síncrona, os alunos deverão ter assistido as videoaulas de probabilidade disponíveis nesta plataforma.
-Após a aula síncrona:
+- Para esta aula síncrona, os alunos deverão ter assistido as videoaulas de probabilidade disponíveis neste tópico.
+
+- Para o cálculo dessas medidas no Rcommander, iremos utilizar o plugin **RcmdrPlugin.EZR**. 
 
 
 | Atividade  |       Tipo de Atividade                                       | Links|
