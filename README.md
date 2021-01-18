@@ -80,16 +80,16 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Aula |                Descrição                |    Data    |
 | :--: | :-------------------------------------: | :--------: |
-|  1   |       Apresentação da disciplina        | 12/01/2020 |
-|  2   | Análise Exploratória de dados - Parte 1 | 14/01/2020 |
-|  3   | Análise Exploratória de dados - Parte 2 | 19/01/2020 |
-|  4   |  Introdução à probabilidade - Parte 1   | 21/01/2020 |
-|  5   |  Introdução à probabilidade - Parte 2   | 26/01/2020 |
-|  6   |    Inferência Estatística - Parte 1     | 28/01/2020 |
-|  7   |    Inferência Estatístico - Parte 2     | 02/02/2020 |
-|  8   |       Estatística não-paramétrica       | 04/02/2020 |
-|  9   |               Seminários - Primeiro dia                | 09/02/2020 |
-|  10  |               Seminários - Segundo dia              | 11/02/2020 |
+|  1   |       Apresentação da disciplina        | 12/01/2021 |
+|  2   | Análise Exploratória de dados - Parte 1 | 14/01/2021 |
+|  3   | Análise Exploratória de dados - Parte 2 | 19/01/2021 |
+|  4   |  Introdução à probabilidade - Parte 1   | 21/01/2021 |
+|  5   |  Introdução à probabilidade - Parte 2   | 26/01/2021 |
+|  6   |    Inferência Estatística - Parte 1     | 28/01/2021 |
+|  7   |    Inferência Estatístico - Parte 2     | 02/02/2021 |
+|  8   |       Estatística não-paramétrica       | 04/02/2021 |
+|  9   |               Seminários - Primeiro dia                | 09/02/2021 |
+|  10  |               Seminários - Segundo dia              | 11/02/2021 |
 
 
 ### **Aula 1:** Apresentação da disciplina
