@@ -80,7 +80,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Aula |                Descrição                |    Data    |
 | :--: | :-------------------------------------: | :--------: |
-|  1   |       Apresentação da dsiciplina        | 12/01/2020 |
+|  1   |       Apresentação da disciplina        | 12/01/2020 |
 |  2   | Análise Exploratória de dados - Parte 1 | 14/01/2020 |
 |  3   | Análise Exploratória de dados - Parte 2 | 19/01/2020 |
 |  4   |  Introdução à probabilidade - Parte 1   | 21/01/2020 |
