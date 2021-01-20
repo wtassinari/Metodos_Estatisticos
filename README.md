@@ -172,11 +172,19 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 ### **Aula 5:** Introdução à probabilidade - Parte 2
 
-- Nessa aula serão apresentados os principais conceitos de distribuição de probabilidades discreta e contínua de forma teórica e com exercícios. 
+- Nessa aula serão apresentados os principais conceitos de distribuição de probabilidades discreta e contínua de forma teórica e com exemplos. 
 
-- Para esta aula, os alunos deverão ter assistido as vídeo-aulas de probabilidade disponíveis na aula 4 e ter feito a lista de exercícios 3 disponível nesta aula.
+- Para esta aula, os alunos deverão ter assistido as vídeoaulas de probabilidade disponíveis.
 
-- É sugerido que os alunos além de terem feito as leituras complementares da bibliografia sugerida, eles também tenham visto a aula de exercícios 5 e assistido a videaula de probabilidade do prof. Kleinbaum no youtube disponível no link citado nesta aula.
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | ----- |
+| Assincrona | Videoaula de Dist. de Probabilidades - Parte 1 |  [link](https://www.dropbox.com/s/8inansmn6ev8pm1/Videoaula_distproba1.mp4?dl=0)  |
+| Assincrona | Videoaula de Dist. de Probabilidades - Parte 2 |  [link](https://www.dropbox.com/s/qxfzdhflcu8ezf1/Videoaula_distproba2.mp4?dl=0)  |
+| Assincrona | Videoaula de Dist. de Probabilidades - Parte 3 |  [link](https://www.dropbox.com/s/vfiskh6bebkykv1/Videoaula_distproba3.mp4?dl=0)  |
+| Assincrona | Videoaula de Dist. de Probabilidades - Parte 4 |  [link](https://www.dropbox.com/s/rolfgkifzl6jesd/Videoaula_distproba4.mp4?dl=0)  |
+| Assíncrona | Slide da aula de Dist. de Probabilidades |  [link](https://www.dropbox.com/s/x7rr6kw87ik27yy/Aula5_DistProb.pdf?dl=0)  |
+| Síncrona | Slides com exercicíos da aula 5 |  [link]()  |
 
 
 ### **Aula 6:** Inferência Estatística - Parte 1 
