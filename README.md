@@ -172,7 +172,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 ### **Aula 5:** Introdução à probabilidade - Parte 2
 
-- Nessa aula serão apresentados os principais conceitos de distribuição de probabilidades discreta e contínua de forma teórica e com exemplos. 
+- Nessa aula serão apresentados os conceitos das mais usuais distribuições de probabilidades para variáveis aleatórias discretas (Dist. de Bernoulli, Binomial e Poisson) e contínuas (Dist. Normal) de forma teórica e com exemplos. 
 
 - Para esta aula, os alunos deverão ter assistido as vídeoaulas de probabilidade disponíveis.
 
