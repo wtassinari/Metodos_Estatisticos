@@ -196,13 +196,13 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
 |  -          | **Intervalo de Confiança** |    |
-| Assincrona | Videoaula de Dist. de Probabilidades - Parte 1 |  [link](https://www.dropbox.com/s/8inansmn6ev8pm1/Videoaula_distproba1.mp4?dl=0)  |
-| Assincrona | Videoaula de Dist. de Probabilidades - Parte 2 |  [link](https://www.dropbox.com/s/qxfzdhflcu8ezf1/Videoaula_distproba2.mp4?dl=0)  |
-| Assincrona | Videoaula de Dist. de Probabilidades - Parte 3 |  [link](https://www.dropbox.com/s/vfiskh6bebkykv1/Videoaula_distproba3.mp4?dl=0)  |
-| Assincrona | Videoaula de Dist. de Probabilidades - Parte 4 |  [link](https://www.dropbox.com/s/rolfgkifzl6jesd/Videoaula_distproba4.mp4?dl=0)  |
-| Assíncrona | Slide da aula de Dist. de Probabilidades |  [link](https://www.dropbox.com/s/x7rr6kw87ik27yy/Aula5_DistProb.pdf?dl=0)  |
+| Assincrona | Videoaula de Inferência estatística (IC 1/4) - Parte 1 |  [link](https://www.dropbox.com/s/ywbo685g0z3wqew/Videoaula_inferencia_IC1_parte1.mp4?dl=0)  |
+| Assincrona | Videoaula de Inferência estatística (IC 2/4) - Parte 1  |  [link](https://www.dropbox.com/s/ipx8xtd2gs1qsff/Videoaula_inferencia_IC2_parte1.mp4?dl=0)  |
+| Assincrona | Videoaula de Inferência estatística (IC 3/4) - Parte 1  |  [link](https://www.dropbox.com/s/5sym62wiwrlw5n2/Videoaula_inferencia_IC3_parte1.mp4?dl=0)  |
+| Assincrona | Videoaula de Inferência estatística (IC 4/4) - Parte 1  |  [link](https://www.dropbox.com/s/a0ddrqgojvg6zku/Videoaula_inferencia_IC4_parte1.mp4?dl=0)  |
+| Assíncrona | Slides da aula de Inferência estatística (IC) - Parte 1  |  [link](https://www.dropbox.com/s/0hwcl9ts53qujpb/Aula6_Infer_1_IC.pdf?dl=0)  |
 |  -          | **Testes de Hipóteses - Uma Amostra** |    |
-| Síncrona | Slides com exercicíos da aula 5 |  [link](https://www.dropbox.com/s/5mdi7q9yz8ottf7/Aula5_sincrona.pdf?dl=0)  |
+| Síncrona | Slides da aula de Inferência estatística (TH) - Parte 1 |  [link]()  |
 
 
 
