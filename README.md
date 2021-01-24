@@ -184,7 +184,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assincrona | Videoaula de Dist. de Probabilidades - Parte 3 |  [link](https://www.dropbox.com/s/vfiskh6bebkykv1/Videoaula_distproba3.mp4?dl=0)  |
 | Assincrona | Videoaula de Dist. de Probabilidades - Parte 4 |  [link](https://www.dropbox.com/s/rolfgkifzl6jesd/Videoaula_distproba4.mp4?dl=0)  |
 | Assíncrona | Slide da aula de Dist. de Probabilidades |  [link](https://www.dropbox.com/s/x7rr6kw87ik27yy/Aula5_DistProb.pdf?dl=0)  |
-| Síncrona | Slides com exercicíos da aula 5 |  [link]()  |
+| Síncrona | Slides com exercicíos da aula 5 |  [link](https://www.dropbox.com/s/5mdi7q9yz8ottf7/Aula5_sincrona.pdf?dl=0)  |
 
 
 ### **Aula 6:** Inferência Estatística - Parte 1 
