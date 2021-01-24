@@ -189,12 +189,21 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 ### **Aula 6:** Inferência Estatística - Parte 1 
 
-- Nessa aula serão apresentados os conceitos introdutórios de inferência estatística e estimação intervalar de forma teórica e com exercícios. 
-Para esta aula síncrona, os alunos deverão ter assistido as 3 videoaulas  disponíveis.
+- Nessa aula serão apresentados os conceitos introdutórios de inferência estatística, será falado sobre estimação pontual e intervalar e também serão aboradados alguns tesdtes de hipóteses para uma amostra.  
 
-- Após a aula síncrona:
+- Para esta aula síncrona, os alunos deverão ter assistido as todas as videoaulas disponíveis neste tópico.
 
-1- Refazer os exercícios dos slides e da aula prática usando funções de R
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | ----- |
+|  -          | **Intervalo de Confiança** |    |
+| Assincrona | Videoaula de Dist. de Probabilidades - Parte 1 |  [link](https://www.dropbox.com/s/8inansmn6ev8pm1/Videoaula_distproba1.mp4?dl=0)  |
+| Assincrona | Videoaula de Dist. de Probabilidades - Parte 2 |  [link](https://www.dropbox.com/s/qxfzdhflcu8ezf1/Videoaula_distproba2.mp4?dl=0)  |
+| Assincrona | Videoaula de Dist. de Probabilidades - Parte 3 |  [link](https://www.dropbox.com/s/vfiskh6bebkykv1/Videoaula_distproba3.mp4?dl=0)  |
+| Assincrona | Videoaula de Dist. de Probabilidades - Parte 4 |  [link](https://www.dropbox.com/s/rolfgkifzl6jesd/Videoaula_distproba4.mp4?dl=0)  |
+| Assíncrona | Slide da aula de Dist. de Probabilidades |  [link](https://www.dropbox.com/s/x7rr6kw87ik27yy/Aula5_DistProb.pdf?dl=0)  |
+|  -          | **Testes de Hipóteses - Uma Amostra** |    |
+| Síncrona | Slides com exercicíos da aula 5 |  [link](https://www.dropbox.com/s/5mdi7q9yz8ottf7/Aula5_sincrona.pdf?dl=0)  |
+
 
 
 ### **Aula 7:** Inferência Estatística - Parte 2
