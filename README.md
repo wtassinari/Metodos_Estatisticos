@@ -162,10 +162,10 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Videoaula de Probabilidade - Parte 1 |  [link](https://www.dropbox.com/s/0fnylziql3fbdsr/Probabilidade1.mp4?dl=0)  |
-| Assincrona | Videoaula de Probabilidade - Parte 2 |  [link](https://www.dropbox.com/s/d74ltgpmqv33uiv/Probabilidade2.mp4?dl=0)  |
-| Assincrona | Videoaula de Probabilidade - Parte 3 |  [link](https://www.dropbox.com/s/alnkrxy5np2n2nn/Probabilidade3.mp4?dl=0)  |
-| Assincrona | Videoaula de Probabilidade - Parte 4 |  [link](https://www.dropbox.com/s/kqa6cbrabpsv7si/Probabilidade4.mp4?dl=0)  |
+| Assíncrona | Videoaula de Probabilidade - Parte 1 |  [link](https://www.dropbox.com/s/0fnylziql3fbdsr/Probabilidade1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Probabilidade - Parte 2 |  [link](https://www.dropbox.com/s/d74ltgpmqv33uiv/Probabilidade2.mp4?dl=0)  |
+| Assíncrona | Videoaula de Probabilidade - Parte 3 |  [link](https://www.dropbox.com/s/alnkrxy5np2n2nn/Probabilidade3.mp4?dl=0)  |
+| Assíncrona | Videoaula de Probabilidade - Parte 4 |  [link](https://www.dropbox.com/s/kqa6cbrabpsv7si/Probabilidade4.mp4?dl=0)  |
 | Assíncrona | Slide da aula de Probabilidade |  [link](https://www.dropbox.com/s/o23o3jfsokwxh55/Aula4_Probabilidade.pdf?dl=0)  |
 | Síncrona | Slides com exercicíos da aula 4 |  [link](https://www.dropbox.com/s/udnbk5zjep6eqvm/Aula4_sincrona.pdf?dl=0)  |
 
@@ -179,7 +179,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Videoaula de Dist. de Probabilidades - Parte 1 |  [link](https://www.dropbox.com/s/8inansmn6ev8pm1/Videoaula_distproba1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Dist. de Probabilidades - Parte 1 |  [link](https://www.dropbox.com/s/8inansmn6ev8pm1/Videoaula_distproba1.mp4?dl=0)  |
 | Assincrona | Videoaula de Dist. de Probabilidades - Parte 2 |  [link](https://www.dropbox.com/s/qxfzdhflcu8ezf1/Videoaula_distproba2.mp4?dl=0)  |
 | Assincrona | Videoaula de Dist. de Probabilidades - Parte 3 |  [link](https://www.dropbox.com/s/vfiskh6bebkykv1/Videoaula_distproba3.mp4?dl=0)  |
 | Assincrona | Videoaula de Dist. de Probabilidades - Parte 4 |  [link](https://www.dropbox.com/s/rolfgkifzl6jesd/Videoaula_distproba4.mp4?dl=0)  |
@@ -202,7 +202,10 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assincrona | Videoaula de Inferência estatística (IC 4/4) - Parte 1  |  [link](https://www.dropbox.com/s/a0ddrqgojvg6zku/Videoaula_inferencia_IC4_parte1.mp4?dl=0)  |
 | Assíncrona | Slides da aula de Inferência estatística (IC) - Parte 1  |  [link](https://www.dropbox.com/s/0hwcl9ts53qujpb/Aula6_Infer_1_IC.pdf?dl=0)  |
 |  -          | **Testes de Hipóteses - Uma Amostra** |    |
-| Síncrona | Slides da aula de Inferência estatística (TH) - Parte 1 |  [link]()  |
+| Assincrona | Videoaula de Inferência estatística (TH 1/3) - Parte 1 |  [link](https://www.dropbox.com/s/eap4ypd1qalwk2w/Videoaula_inferencia_TH1_parte1.mp4?dl=0)  |
+| Assincrona | Videoaula de Inferência estatística (TH 2/3) - Parte 1  |  [link](https://www.dropbox.com/s/wmktru84oavcg3s/Videoaula_inferencia_TH2_parte1.mp4?dl=0)  |
+| Assincrona | Videoaula de Inferência estatística (TH 3/3) - Parte 1  |  [link](https://www.dropbox.com/s/q38m1t2un518uko/Videoaula_inferencia_TH3_parte1.mp4?dl=0)  |
+| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 |  [link](https://www.dropbox.com/s/9g2hsh7p8ofvjb1/Aula6_Infer_1_TH.pdf?dl=0)  |
 
 
 
