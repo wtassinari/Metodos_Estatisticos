@@ -215,14 +215,18 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 - Para esta aula síncrona, os alunos deverão ter assistido as todas as videoaulas disponíveis neste tópico.
 
+- Início da aula: 10hs
+
 
 ### **Aula 8:** Estatística não-paramétrica 
 
 - Nessa aula serão apresentados alguns conceitos mais importantes a respeito  dos testes de hipóteses para dados categóricos (ou testes de hipóteses para dados em tabelas de contingência) e dos testes não-paramétricos, com aplicações.
 
-- Para esta aula, os alunos deverão ter assistido as vídeo-aulas a respeito de estatística não-paramétrica que estão disponíveis na aula 11. 
+- Para esta aula, não haverá atividade assíncrona, somente atividade síncrona com a teoria e exemplo de aplicações através do Rcommander.
 
-- É sugerido que os alunos além de terem feito as leituras complementares da bibliografia sugerida, eles também tenham tentando fazer o exercício que foi deixado nos slides da aula síncrona.
+- A profa. Adriana Oliveira (DEMAT/UFRRJ) quem irá ministrar essa aula.
+
+- Neste dia a aula começará às **9hs** e está prevista para terminar às 11hs.
 
 
 ### **Aula 9:** Seminários
@@ -231,11 +235,15 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 -  [Roteiro dos Seminários](https://www.dropbox.com/s/vsijmb8lzhxlame/Avaliacao_pratica.pdf?dl=0)
 
+- Início dos seminários: 10hs
+
 ### **Aula 10:** Seminários
 
 - Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
 -  [Roteiro dos Seminários](https://www.dropbox.com/s/vsijmb8lzhxlame/Avaliacao_pratica.pdf?dl=0)
+
+- Início dos seminários: 10hs
 
 
 
