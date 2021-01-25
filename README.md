@@ -100,10 +100,10 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Atividades  |       Tipo de Atividade                                             |
 | :---------: | ------------------------------------------------------------ |
-| Assincrona | [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U) |
-| Assincrona | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4) |
-| Assincrona | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
-| Sincrona | [Slide da aula 1](https://www.dropbox.com/s/dx5jtz2ezkzxvdo/Apresentacao.pdf?dl=0) |
+| Assíncrona | [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U) |
+| Assíncrona | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4) |
+| Assíncrona | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
+| Síncrona | [Slide da aula 1](https://www.dropbox.com/s/dx5jtz2ezkzxvdo/Apresentacao.pdf?dl=0) |
 
 
 ### **Aula 2:** Análise Exploratória de Dados (AED) - Parte 1
@@ -114,11 +114,11 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Videoaula AED 1  |  [link](https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
-| Assincrona | Slides da aula AED 1  |  [link](https://www.dropbox.com/s/41uyl6nn0s89h27/Aula1_IntEpi_EDA.pdf?dl=0) |
-| Assincrona | Videoaula AED 2 |  [link](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
-| Assincrona | Slides da aula AED 2 |  [link](https://www.dropbox.com/s/h4jgssrfufkrklu/Aula2_IntEpi_EDA.pdf?dl=0)  |
-| Assincrona | Lista de exercícios |  [link](https://www.dropbox.com/s/xvssztikg51yqv4/Lista01_2020.pdf?dl=0)  |
+| Assíncrona | Videoaula AED 1  |  [link](https://www.dropbox.com/s/3ix7wggll8pdk7e/AED1.mp4?dl=0)  |
+| Assíncrona | Slides da aula AED 1  |  [link](https://www.dropbox.com/s/41uyl6nn0s89h27/Aula1_IntEpi_EDA.pdf?dl=0) |
+| Assíncrona | Videoaula AED 2 |  [link](https://www.dropbox.com/s/34sg6gzc28bj7lu/AED2.mp4?dl=0)  |
+| Assíncrona | Slides da aula AED 2 |  [link](https://www.dropbox.com/s/h4jgssrfufkrklu/Aula2_IntEpi_EDA.pdf?dl=0)  |
+| Assíncrona | Lista de exercícios |  [link](https://www.dropbox.com/s/xvssztikg51yqv4/Lista01_2020.pdf?dl=0)  |
 | Síncrona | Planilha com exercícios |  [link](https://www.dropbox.com/scl/fi/6ooq1h2k1k4ttmq082ixh/Exercicio_aula_2.xlsx?dl=0&rlkey=eg8sixxoakm7spd4xskfdxqqx)  |
 | Síncrona | Slides elaboração de tabelas e gráficos pelo Rcommander |  [link](https://www.dropbox.com/s/1ord3mdx1ju7mmp/Aula-2_sincrona.pdf?dl=0)  |
 
@@ -140,11 +140,11 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
-| Assincrona | Videoaula AED 3 - Parte 1  |  [link](https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
-| Assincrona | Videoaula AED 3 - Parte 2 |  [link](https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
+| Assíncrona | Videoaula AED 3 - Parte 1  |  [link](https://www.dropbox.com/s/bahzsbtaacbrm7f/AED3_1.mp4?dl=0)  |
+| Assíncrona | Videoaula AED 3 - Parte 2 |  [link](https://www.dropbox.com/s/9qlv2ppadc532gm/AED3_2.mp4?dl=0)  |
 | Assíncrona | Slides da aula 3 - Parte 1 | [link](https://www.dropbox.com/s/s51hsz7u4rrjrp0/Aula3_parte1_IntEpi_EDA.pdf?dl=0)   |
 | Assíncrona | Slides da aula 3 - Parte 2 | [link](https://www.dropbox.com/s/3m58ytifnom8yuo/Aula3_parte2_IntEpi_EDA.pdf?dl=0)   |
-| Assincrona | Videoaula AED 4 |  [link](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
+| Assíncrona | Videoaula AED 4 |  [link](https://www.dropbox.com/s/46ygc2zqnkwdpsm/AED4.mp4?dl=0)  |
 | Assíncrona | Slides da aula 4  | [link](https://www.dropbox.com/s/4jqs5cpsnc37upr/Aula4_IntEpi_EDA.pdf?dl=0)  |
 | Síncrona | Planilha com exercícios |  [link](https://www.dropbox.com/scl/fi/cb3no1nu46spcokjb3prw/Exercicio_aula_3.xlsx?dl=0&rlkey=bx3b2sz0oygqhbzvzpq02sa72)  |
 | Síncrona | Slides de estatísticas descritivas pelo Rcommander |  [link](https://www.dropbox.com/s/mibjopyot9ftye4/Aula-3_sincrona.pdf?dl=0)  |
@@ -180,9 +180,9 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
 | Assíncrona | Videoaula de Dist. de Probabilidades - Parte 1 |  [link](https://www.dropbox.com/s/8inansmn6ev8pm1/Videoaula_distproba1.mp4?dl=0)  |
-| Assincrona | Videoaula de Dist. de Probabilidades - Parte 2 |  [link](https://www.dropbox.com/s/qxfzdhflcu8ezf1/Videoaula_distproba2.mp4?dl=0)  |
-| Assincrona | Videoaula de Dist. de Probabilidades - Parte 3 |  [link](https://www.dropbox.com/s/vfiskh6bebkykv1/Videoaula_distproba3.mp4?dl=0)  |
-| Assincrona | Videoaula de Dist. de Probabilidades - Parte 4 |  [link](https://www.dropbox.com/s/rolfgkifzl6jesd/Videoaula_distproba4.mp4?dl=0)  |
+| Assíncrona | Videoaula de Dist. de Probabilidades - Parte 2 |  [link](https://www.dropbox.com/s/qxfzdhflcu8ezf1/Videoaula_distproba2.mp4?dl=0)  |
+| Assíncrona | Videoaula de Dist. de Probabilidades - Parte 3 |  [link](https://www.dropbox.com/s/vfiskh6bebkykv1/Videoaula_distproba3.mp4?dl=0)  |
+| Assíncrona | Videoaula de Dist. de Probabilidades - Parte 4 |  [link](https://www.dropbox.com/s/rolfgkifzl6jesd/Videoaula_distproba4.mp4?dl=0)  |
 | Assíncrona | Slide da aula de Dist. de Probabilidades |  [link](https://www.dropbox.com/s/x7rr6kw87ik27yy/Aula5_DistProb.pdf?dl=0)  |
 | Síncrona | Slides com exercicíos da aula 5 |  [link](https://www.dropbox.com/s/5mdi7q9yz8ottf7/Aula5_sincrona.pdf?dl=0)  |
 
@@ -196,30 +196,25 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | ----- |
 |  -          | **Intervalo de Confiança** |    |
-| Assincrona | Videoaula de Inferência estatística (IC 1/4) - Parte 1 |  [link](https://www.dropbox.com/s/ywbo685g0z3wqew/Videoaula_inferencia_IC1_parte1.mp4?dl=0)  |
-| Assincrona | Videoaula de Inferência estatística (IC 2/4) - Parte 1  |  [link](https://www.dropbox.com/s/ipx8xtd2gs1qsff/Videoaula_inferencia_IC2_parte1.mp4?dl=0)  |
-| Assincrona | Videoaula de Inferência estatística (IC 3/4) - Parte 1  |  [link](https://www.dropbox.com/s/5sym62wiwrlw5n2/Videoaula_inferencia_IC3_parte1.mp4?dl=0)  |
-| Assincrona | Videoaula de Inferência estatística (IC 4/4) - Parte 1  |  [link](https://www.dropbox.com/s/a0ddrqgojvg6zku/Videoaula_inferencia_IC4_parte1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Inferência estatística (IC 1/4) - Parte 1 |  [link](https://www.dropbox.com/s/ywbo685g0z3wqew/Videoaula_inferencia_IC1_parte1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Inferência estatística (IC 2/4) - Parte 1  |  [link](https://www.dropbox.com/s/ipx8xtd2gs1qsff/Videoaula_inferencia_IC2_parte1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Inferência estatística (IC 3/4) - Parte 1  |  [link](https://www.dropbox.com/s/5sym62wiwrlw5n2/Videoaula_inferencia_IC3_parte1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Inferência estatística (IC 4/4) - Parte 1  |  [link](https://www.dropbox.com/s/a0ddrqgojvg6zku/Videoaula_inferencia_IC4_parte1.mp4?dl=0)  |
 | Assíncrona | Slides da aula de Inferência estatística (IC) - Parte 1  |  [link](https://www.dropbox.com/s/0hwcl9ts53qujpb/Aula6_Infer_1_IC.pdf?dl=0)  |
 |  -          | **Testes de Hipóteses - Uma Amostra** |    |
-| Assincrona | Videoaula de Inferência estatística (TH 1/3) - Parte 1 |  [link](https://www.dropbox.com/s/eap4ypd1qalwk2w/Videoaula_inferencia_TH1_parte1.mp4?dl=0)  |
-| Assincrona | Videoaula de Inferência estatística (TH 2/3) - Parte 1  |  [link](https://www.dropbox.com/s/wmktru84oavcg3s/Videoaula_inferencia_TH2_parte1.mp4?dl=0)  |
-| Assincrona | Videoaula de Inferência estatística (TH 3/3) - Parte 1  |  [link](https://www.dropbox.com/s/q38m1t2un518uko/Videoaula_inferencia_TH3_parte1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Inferência estatística (TH 1/3) - Parte 1 |  [link](https://www.dropbox.com/s/eap4ypd1qalwk2w/Videoaula_inferencia_TH1_parte1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Inferência estatística (TH 2/3) - Parte 1  |  [link](https://www.dropbox.com/s/wmktru84oavcg3s/Videoaula_inferencia_TH2_parte1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Inferência estatística (TH 3/3) - Parte 1  |  [link](https://www.dropbox.com/s/q38m1t2un518uko/Videoaula_inferencia_TH3_parte1.mp4?dl=0)  |
 | Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 |  [link](https://www.dropbox.com/s/9g2hsh7p8ofvjb1/Aula6_Infer_1_TH.pdf?dl=0)  |
-
+| Síncrona | Slides com exercicíos da aula 6 |  [link]()  |
 
 
 ### **Aula 7:** Inferência Estatística - Parte 2
 
-- Nessa aula serão apresentados os conceitos de teste de hipóteses para 1 e 2 amostras de forma teórica e com exercícios. 
+- Nessa aula serão apresentados os conceitos de teste de hipóteses para 2 amostras de forma teórica e com exercícios. 
 
-- Para esta aula síncrona, os alunos deverão ter assistido as 3 videoaulas disponíveis.
+- Para esta aula síncrona, os alunos deverão ter assistido as todas as videoaulas disponíveis neste tópico.
 
-- Após a aula síncrona:
-
-1- Refazer os exercícios dos slides usando funções de R
-
-2- Dica: Não esqueçam de sempre que possível fazer um esboço gráfico da área a ser calculada
 
 ### **Aula 8:** Estatística não-paramétrica 
 
