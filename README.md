@@ -220,7 +220,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 ### **Aula 8:** Estatística não-paramétrica 
 
-- Nessa aula serão apresentados alguns conceitos mais importantes a respeito  dos testes de hipóteses para dados categóricos (ou testes de hipóteses para dados em tabelas de contingência) e dos testes não-paramétricos, com aplicações.
+- Nessa aula serão apresentados alguns conceitos mais importantes a respeito  dos testes de hipóteses para dados categóricos (ou testes de hipóteses para dados em tabelas de contingência) e dos testes não-paramétricos nas variáveis quantitativas, com aplicações.
 
 - Para esta aula, não haverá atividade assíncrona, somente atividade síncrona com a teoria e exemplo de aplicações através do Rcommander.
 
