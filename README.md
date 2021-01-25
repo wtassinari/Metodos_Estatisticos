@@ -189,7 +189,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 ### **Aula 6:** Inferência Estatística - Parte 1 
 
-- Nessa aula serão apresentados os conceitos introdutórios de inferência estatística, será falado sobre estimação pontual e intervalar e também serão aboradados alguns tesdtes de hipóteses para uma amostra.  
+- Nessa aula serão apresentados os conceitos introdutórios de inferência estatística, será falado sobre estimação pontual e intervalar e também serão abordados alguns testes de hipóteses para uma amostra.  
 
 - Para esta aula síncrona, os alunos deverão ter assistido as todas as videoaulas disponíveis neste tópico.
 
