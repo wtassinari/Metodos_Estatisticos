@@ -201,7 +201,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assíncrona | Videoaula de Inferência estatística (IC 3/4) - Parte 1  |  [link](https://www.dropbox.com/s/5sym62wiwrlw5n2/Videoaula_inferencia_IC3_parte1.mp4?dl=0)  |
 | Assíncrona | Videoaula de Inferência estatística (IC 4/4) - Parte 1  |  [link](https://www.dropbox.com/s/a0ddrqgojvg6zku/Videoaula_inferencia_IC4_parte1.mp4?dl=0)  |
 | Assíncrona | Slides da aula de Inferência estatística (IC) - Parte 1  |  [link](https://www.dropbox.com/s/0hwcl9ts53qujpb/Aula6_Infer_1_IC.pdf?dl=0)  |
-|  -          | **Testes de Hipóteses - Uma Amostra** |    |
+|  -          | **Testes de Hipóteses - Uma amostra** |    |
 | Assíncrona | Videoaula de Inferência estatística (TH 1/3) - Parte 1 |  [link](https://www.dropbox.com/s/eap4ypd1qalwk2w/Videoaula_inferencia_TH1_parte1.mp4?dl=0)  |
 | Assíncrona | Videoaula de Inferência estatística (TH 2/3) - Parte 1  |  [link](https://www.dropbox.com/s/wmktru84oavcg3s/Videoaula_inferencia_TH2_parte1.mp4?dl=0)  |
 | Assíncrona | Videoaula de Inferência estatística (TH 3/3) - Parte 1  |  [link](https://www.dropbox.com/s/q38m1t2un518uko/Videoaula_inferencia_TH3_parte1.mp4?dl=0)  |
@@ -216,6 +216,19 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 - Para esta aula síncrona, os alunos deverão ter assistido as todas as videoaulas disponíveis neste tópico.
 
 - Início da aula: 10hs
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | ----- |
+|  -          | **Testes de Hipóteses - Duas Amostras** |    |
+| Assíncrona | Videoaula de Inferência estatística (TH 1/3) - Parte 2 |  [link]()  |
+| Assíncrona | Videoaula de Inferência estatística (TH 2/3) - Parte 2  |  [link]()  |
+| Assíncrona | Videoaula de Inferência estatística (TH 3/3) - Parte 2  |  [link]()  |
+| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 |  [link]()  |
+|  -          | **Testes de Hipóteses - Mais de duas amostras** |    |
+| Assíncrona | Videoaula de Inferência estatística (TH) - Parte 2 |  [link]()  |
+| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 2 |  [link]()  |
+| Síncrona | Slides com exercicíos da aula 7 |  [link]()  |
+
 
 
 ### **Aula 8:** Estatística não-paramétrica 
