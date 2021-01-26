@@ -3,7 +3,7 @@
 
 **Prof. Wagner Tassinari (DEMAT/UFRRJ)**
 
-*wtassinari@gmail.com*
+*[wtassinari@gmail.com](wtassinari@gmail.com)*
 
 
 ## Apresentação do curso
