@@ -206,7 +206,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assíncrona | Videoaula de Inferência estatística (TH 2/3) - Parte 1  |  [link](https://www.dropbox.com/s/wmktru84oavcg3s/Videoaula_inferencia_TH2_parte1.mp4?dl=0)  |
 | Assíncrona | Videoaula de Inferência estatística (TH 3/3) - Parte 1  |  [link](https://www.dropbox.com/s/q38m1t2un518uko/Videoaula_inferencia_TH3_parte1.mp4?dl=0)  |
 | Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 |  [link](https://www.dropbox.com/s/9g2hsh7p8ofvjb1/Aula6_Infer_1_TH.pdf?dl=0)  |
-| Síncrona | Slides com exercicíos da aula 6 |  [link]()  |
+| Síncrona | Slides com exercicíos da aula 6 |  [link](https://www.dropbox.com/s/nl7qx57ec0sgulk/Aula6_sincrona.pdf?dl=0)  |
 
 
 ### **Aula 7:** Inferência Estatística - Parte 2
