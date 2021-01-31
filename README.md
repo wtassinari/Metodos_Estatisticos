@@ -288,6 +288,9 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 
 
+### Pesquisa de avaliação da disciplina de Métodos Estatísticos
+
+- Prezados alunos, gostaríamos de pedir que preenchessem a pesquisa anônima sobre a disciplina. Todo retorno quanto ao curso é importante para nós. Procuraremos incorporar as críticas e sugestões nos próximos cursos. Agradecemos a participação e disponibilidade.[link](https://docs.google.com/forms/d/e/1FAIpQLSdFL7SjHg9upsJbRfIGbt2mj0HyvUXld9zBYK3pgPTTB4nSmg/viewform?usp=sf_link)
 
 
 
