@@ -251,6 +251,20 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 - Início dos seminários: 10hs
 
+- Trabalhos a serem apresentados neste dia:
+
+| Grupo |                      Membros                       |
+| :---: | :------------------------------------------------: |
+|   1   |                   Ernani Flávio                    |
+|   2   |          Pamela Bissoli + Haika Victória           |
+|   3   | Rayssa Vicente + Wladymir Mendes + Elisabeth Alves |
+|   4   |          Alvaro Alberto + Bianca Affonso           |
+|   5   |           Luciana Santos + Roberta Bruna           |
+|       |                                                    |
+|       |                                                    |
+|       |                                                    |
+
+
 ### **Aula 10:** Seminários
 
 - Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
@@ -258,6 +272,19 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 -  [Roteiro dos Seminários](https://www.dropbox.com/s/vsijmb8lzhxlame/Avaliacao_pratica.pdf?dl=0)
 
 - Início dos seminários: 10hs
+
+- Trabalhos a serem apresentados neste dia:
+
+| Grupo |               Membros               |
+| :---: | :---------------------------------: |
+|   1   | Francisco Rômulo + Thamires Rezende |
+|   2   |  Letícia Patrão + Francesca Lemos   |
+|   3   |          Natânia do Carmo           |
+|   4   |            Ana Caroline             |
+|       |                                     |
+|       |                                     |
+|       |                                     |
+|       |                                     |
 
 
 
