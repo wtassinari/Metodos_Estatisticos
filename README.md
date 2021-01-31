@@ -224,11 +224,11 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assíncrona | Videoaula de Inferência estatística (TH 2/4) - Parte 2  |  [link](https://www.dropbox.com/s/o66lcq5riyth1dq/aula9_2.mp4?dl=0)  |
 | Assíncrona | Videoaula de Inferência estatística (TH 3/4) - Parte 2  |  [link](https://www.dropbox.com/s/iy3cxfslxpjjyxx/aula9_3.mp4?dl=0)  |
 | Assíncrona | Videoaula de Inferência estatística (TH 4/4) - Parte 2  |  [link](https://www.dropbox.com/s/xbrm19p2ymag9j9/aula9_4.mp4?dl=0)  |
-| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 |  [link](https://www.dropbox.com/s/cikimbt2123baw7/Aula7_Infer_2_TH.pdf?dl=0)  |
+| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 2 |  [link](https://www.dropbox.com/s/cikimbt2123baw7/Aula7_Infer_2_TH.pdf?dl=0)  |
 |  -          | **Testes de Hipóteses - Mais de duas amostras (ANOVA)** |    |
-| Assíncrona | Videoaula de Inferência estatística (ANOVA) - Parte 2 |  [link]()  |
-| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 2 |  [link]()  |
-| Síncrona | Slides com exercicíos da aula 7 |  [link]()  |
+| Assíncrona | Videoaula de Inferência estatística (ANOVA) - Parte 3 |  [link](https://www.dropbox.com/s/8zwvppw3uit5amb/Videoaula_inferencia_TH_parte3.mp4?dl=0)  |
+| Assíncrona | Slides da aula de Inferência estatística (ANOVA) - Parte 3 |  [link](https://www.dropbox.com/s/i4wzjmecte05reo/Aula7_Infer_3_TH.pdf?dl=0)  |
+| Síncrona | Slides com exercicíos da aula 7 |  [link](https://www.dropbox.com/s/4t9jfd6zrx1j5as/Aula7_sincrona.pdf?dl=0)  |
 
 
 
