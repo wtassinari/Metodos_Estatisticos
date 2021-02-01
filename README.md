@@ -281,7 +281,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 |   2   |  Letícia Patrão + Francesca Lemos   |
 |   3   |          Natânia do Carmo           |
 |   4   |            Ana Caroline             |
-|       |                                     |
+|   5   |      Heitor Dias                    |
 |       |                                     |
 |       |                                     |
 |       |                                     |
