@@ -260,7 +260,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 |   3   | Rayssa Vicente + Wladymir Mendes + Elisabeth Alves |
 |   4   |          Alvaro Alberto + Bianca Affonso           |
 |   5   |           Luciana Santos + Roberta Bruna           |
-|       |                                                    |
+|   6   |          Adriana + Nayara + Isabele                                          |
 |       |                                                    |
 |       |                                                    |
 
