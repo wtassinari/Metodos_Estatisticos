@@ -242,6 +242,10 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 - Neste dia a aula começará às **9hs** e está prevista para terminar às 11hs.
 
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | ----- |
+| Síncrona | Slides da aula de Estatística não-paramétrica  |  [link](https://www.dropbox.com/s/f72s5099coefzhi/Aula-8_Estat%C3%ADstica-N%C3%A3o-Param%C3%A9trica.pdf?dl=0)  |
+
 
 ### **Aula 9:** Seminários
 
