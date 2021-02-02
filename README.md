@@ -202,7 +202,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 | Assíncrona | Videoaula de Inferência estatística (IC 4/4) - Parte 1  |  [link](https://www.dropbox.com/s/a0ddrqgojvg6zku/Videoaula_inferencia_IC4_parte1.mp4?dl=0)  |
 | Assíncrona | Slides da aula de Inferência estatística (IC) - Parte 1  |  [link](https://www.dropbox.com/s/0hwcl9ts53qujpb/Aula6_Infer_1_IC.pdf?dl=0)  |
 |  -          | **Testes de Hipóteses - Uma amostra** |    |
-| Assíncrona | Videoaula de Inferência estatística (TH 1/3) - Parte 1 |  [link](https://www.dropbox.com/s/eap4ypd1qalwk2w/Videoaula_inferencia_TH1_parte1.mp4?dl=0)  |
+| Assíncrona | Videoaula de Inferência estatística (TH 1/3) - Parte 1 |  [link](httDaniel Hainfellnerps://www.dropbox.com/s/eap4ypd1qalwk2w/Videoaula_inferencia_TH1_parte1.mp4?dl=0)  |
 | Assíncrona | Videoaula de Inferência estatística (TH 2/3) - Parte 1  |  [link](https://www.dropbox.com/s/wmktru84oavcg3s/Videoaula_inferencia_TH2_parte1.mp4?dl=0)  |
 | Assíncrona | Videoaula de Inferência estatística (TH 3/3) - Parte 1  |  [link](https://www.dropbox.com/s/q38m1t2un518uko/Videoaula_inferencia_TH3_parte1.mp4?dl=0)  |
 | Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 |  [link](https://www.dropbox.com/s/9g2hsh7p8ofvjb1/Aula6_Infer_1_TH.pdf?dl=0)  |
@@ -282,7 +282,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 |   3   |          Natânia do Carmo           |
 |   4   |            Ana Caroline             |
 |   5   |      Heitor Dias                    |
-|       |                                     |
+|   6   |     Daniel Hainfellner              |
 |       |                                     |
 |       |                                     |
 
