@@ -283,7 +283,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 |   4   |            Ana Caroline             |
 |   5   |      Heitor Dias                    |
 |   6   |     Daniel Hainfellner              |
-|       |                                     |
+|    7   |     Lucas Lopes                                |
 |       |                                     |
 
 
