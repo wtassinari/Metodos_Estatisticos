@@ -278,20 +278,23 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 -  [Roteiro dos Seminários](https://www.dropbox.com/s/vsijmb8lzhxlame/Avaliacao_pratica.pdf?dl=0)
 
-- Início dos seminários: 10hs
+- Início dos seminários: 9hs
 
 - Trabalhos a serem apresentados neste dia:
 
 | Grupo |               Membros               |
 | :---: | :---------------------------------: |
-|   1   | Francisco Rômulo + Thamires Rezende |
-|   2   |  Letícia Patrão + Francesca Lemos   |
-|   3   |          Natânia do Carmo           |
-|   4   |            Ana Caroline             |
-|   5   |      Heitor Dias                    |
-|   6   |     Daniel Hainfellner              |
-|    7   |     Lucas Lopes                                |
-|   8   |        Léo Lopes                             |
+|   1   |           Luciana Santos + Roberta Bruna           |
+|   2   | Francisco Rômulo + Thamires Rezende |
+|   3   |  Letícia Patrão + Francesca Lemos   |
+|   4   |          Natânia do Carmo           |
+|  5   |            Ana Caroline             |
+|   6   |      Heitor Dias                    |
+|   7   |     Daniel Hainfellner              |
+|    8   |     Lucas Lopes                                |
+|  9   |        Léo Lopes                             |
+|   10  |          Adriana + Nayara + Isabele                                          |
+|       |                                                    
 
 
 
