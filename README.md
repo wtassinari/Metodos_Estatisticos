@@ -262,12 +262,12 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Grupo |                      Membros                       |
 | :---: | :------------------------------------------------: |
-|   1   |                   Ernani Flávio                    |
-|   2   |          Pamela Bissoli + Haika Victória           |
-|   3   | Rayssa Vicente + Wladymir Mendes + Elisabeth Alves |
-|   4   |          Alvaro Alberto + Bianca Affonso           |
-|   5   |           Luciana Santos + Roberta Bruna           |
-|   6   |          Adriana + Nayara + Isabele                                          |
+|   1   |                                 |
+|   2   |                  |
+|   3   | |
+|   4   |                     |
+|   5   |                     |
+|   6   |                                                   |
 |       |                                                    |
 |       |                                                    |
 
@@ -284,17 +284,14 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://ww
 
 | Grupo |               Membros               |
 | :---: | :---------------------------------: |
-|   1   |           Luciana Santos + Roberta Bruna           |
-|   2   | Francisco Rômulo + Thamires Rezende |
-|   3   |  Letícia Patrão + Francesca Lemos   |
-|   4   |          Natânia do Carmo           |
-|  5   |            Ana Caroline             |
-|   6   |      Heitor Dias                    |
-|   7   |     Daniel Hainfellner              |
-|    8   |     Lucas Lopes                                |
-|  9   |        Léo Lopes                             |
-|   10  |          Adriana + Nayara + Isabele                                          |
-|       |                                                    
+|   1   |                |
+|   2   |  |
+|   3   |     |
+|   4   |                    |
+|  5   |                        |
+|   6   |                         |
+
+                                                  
 
 
 
