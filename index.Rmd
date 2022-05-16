@@ -229,7 +229,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 |  Síncrona  | Slides com exercicíos da aula 5                | [link](https://drive.google.com/file/d/1YFJ9MqDPr8lzYhRMe1Ul777rbkw7Aqim/view?usp=sharing)       |
 
 
-# **Aula 5:** Inferência Estatística - Parte 1
+# **Aula 4:** Inferência Estatística - Parte 1
 
 -   Nessa aula serão apresentados os conceitos introdutórios de inferência estatística, será falado sobre estimação pontual e intervalar e também serão abordados alguns testes de hipóteses para uma amostra.
 
@@ -250,7 +250,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 | [link](https://www.dropbox.com/s/9g2hsh7p8ofvjb1/Aula6_Infer_1_TH.pdf?dl=0)                |
 |  Síncrona  | Slides com exercicíos da aula 6                         | [link](https://www.dropbox.com/s/nl7qx57ec0sgulk/Aula6_sincrona.pdf?dl=0)                  |
 
-# **Aula 6:** Inferência Estatística - Parte 2
+# **Aula 5:** Inferência Estatística - Parte 2
 
 -   Nessa aula serão apresentados os conceitos de teste de hipóteses para 2 amostras de forma teórica e com exercícios.
 
@@ -271,7 +271,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Assíncrona | Slides da aula de Inferência estatística (ANOVA) - Parte 3 | [link](https://www.dropbox.com/s/i4wzjmecte05reo/Aula7_Infer_3_TH.pdf?dl=0)               |
 |  Síncrona  | Slides com exercicíos da aula 7                            | [link](https://www.dropbox.com/s/4t9jfd6zrx1j5as/Aula7_sincrona.pdf?dl=0)                 |
 
-# **Aula 7:** Estatística não-paramétrica
+# **Aula 6:** Estatística não-paramétrica
 
 -   Nessa aula serão apresentados alguns conceitos mais importantes a respeito dos testes de hipóteses para dados categóricos (ou testes de hipóteses para dados em tabelas de contingência) e dos testes não-paramétricos nas variáveis quantitativas, com aplicações.
 
@@ -285,28 +285,12 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 |:----------:|-------------------------------------------------|------------|
 | Síncrona  | Slides da aula de Estatística não-paramétrica | [link](https://www.dropbox.com/s/f72s5099coefzhi/Aula-8_Estat%C3%ADstica-N%C3%A3o-Param%C3%A9trica.pdf?dl=0) |
 
+# **Aula 7:** Aula de Dúvidas
+
+-   Aula destinada a saner as dúvidas dos alunos a respeito do conteúdo do curso e a preparação do seminário.
+
+
 # **Aula 8:** Seminários
-
--   Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
-
--   [Roteiro dos Seminários](https://www.dropbox.com/s/vsijmb8lzhxlame/Avaliacao_pratica.pdf?dl=0)
-
--   Início dos seminários: 10hs
-
--   Trabalhos a serem apresentados neste dia:
-
-| Grupo | Membros |
-|:-----:|:-------:|
-|   1   |         |
-|   2   |         |
-|   3   |         |
-|   4   |         |
-|   5   |         |
-|   6   |         |
-|       |         |
-|       |         |
-
-# **Aula 10:** Seminários
 
 -   Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
