@@ -287,7 +287,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 # **Aula 7:** Aula de Dúvidas
 
--   Aula destinada a saner as dúvidas dos alunos a respeito do conteúdo do curso e a preparação do seminário.
+-   Aula destinada a sanar as dúvidas dos alunos a respeito do conteúdo do curso e a preparação do seminário.
 
 
 # **Aula 8:** Seminários
