@@ -238,17 +238,17 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Atividade  | Tipo de Atividade                                       | Links                                                                                      |
 |:----------:|-------------------------------------------------|------------|
 |     \-     | **Intervalo de Confiança**                              |                                                                                            |
-| Assíncrona | Videoaula de Inferência estatística (IC 1/4) - Parte 1  | [link](https://www.dropbox.com/s/ywbo685g0z3wqew/Videoaula_inferencia_IC1_parte1.mp4?dl=0) |
-| Assíncrona | Videoaula de Inferência estatística (IC 2/4) - Parte 1  | [link](https://www.dropbox.com/s/ipx8xtd2gs1qsff/Videoaula_inferencia_IC2_parte1.mp4?dl=0) |
-| Assíncrona | Videoaula de Inferência estatística (IC 3/4) - Parte 1  | [link](https://www.dropbox.com/s/5sym62wiwrlw5n2/Videoaula_inferencia_IC3_parte1.mp4?dl=0) |
-| Assíncrona | Videoaula de Inferência estatística (IC 4/4) - Parte 1  | [link](https://www.dropbox.com/s/a0ddrqgojvg6zku/Videoaula_inferencia_IC4_parte1.mp4?dl=0) |
-| Assíncrona | Slides da aula de Inferência estatística (IC) - Parte 1 | [link](https://www.dropbox.com/s/0hwcl9ts53qujpb/Aula6_Infer_1_IC.pdf?dl=0)                |
+| Assíncrona | Videoaula de Inferência estatística (IC 1/4) - Parte 1  | [link](https://drive.google.com/file/d/15W2ZOV_gNuJpIGVZU5h62wQ8INPG9WxJ/view?usp=sharing) |
+| Assíncrona | Videoaula de Inferência estatística (IC 2/4) - Parte 1  | [link](https://drive.google.com/file/d/1d4sccAJJJr-_rONscENDyCvhjWtskhV9/view?usp=sharing) |
+| Assíncrona | Videoaula de Inferência estatística (IC 3/4) - Parte 1  | [link](https://drive.google.com/file/d/1yiBC_WDYMd1_YVJQmW5MLJpAH7eRUgus/view?usp=sharing) |
+| Assíncrona | Videoaula de Inferência estatística (IC 4/4) - Parte 1  | [link](https://drive.google.com/file/d/1eoc5nz0Ph-sd6ww5cwh_1ict_wscpcLR/view?usp=sharing) |
+| Assíncrona | Slides da aula de Inferência estatística (IC) - Parte 1 | [link](https://drive.google.com/file/d/1AD18pBqhP2wcE7cN0nbKboZgHRWmL_aG/view?usp=sharing)                |
 |     \-     | **Testes de Hipóteses - Uma amostra**                   |                                                                                            |
-| Assíncrona | Videoaula de Inferência estatística (TH 1/3) - Parte 1  | [link](https://www.dropbox.com/s/eap4ypd1qalwk2w/Videoaula_inferencia_TH1_parte1.mp4?dl=0) |
-| Assíncrona | Videoaula de Inferência estatística (TH 2/3) - Parte 1  | [link](https://www.dropbox.com/s/wmktru84oavcg3s/Videoaula_inferencia_TH2_parte1.mp4?dl=0) |
-| Assíncrona | Videoaula de Inferência estatística (TH 3/3) - Parte 1  | [link](https://www.dropbox.com/s/q38m1t2un518uko/Videoaula_inferencia_TH3_parte1.mp4?dl=0) |
-| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 | [link](https://www.dropbox.com/s/9g2hsh7p8ofvjb1/Aula6_Infer_1_TH.pdf?dl=0)                |
-|  Síncrona  | Slides com exercicíos da aula 6                         | [link](https://www.dropbox.com/s/nl7qx57ec0sgulk/Aula6_sincrona.pdf?dl=0)                  |
+| Assíncrona | Videoaula de Inferência estatística (TH 1/3) - Parte 1  | [link](https://drive.google.com/file/d/14CsG1Ph32FTn98vOlBmsW6F7y37OPVSl/view?usp=sharing) |
+| Assíncrona | Videoaula de Inferência estatística (TH 2/3) - Parte 1  | [link](https://drive.google.com/file/d/1ZqUYB059BNBtDxU92FuCWNeKXgEA8g-W/view?usp=sharing) |
+| Assíncrona | Videoaula de Inferência estatística (TH 3/3) - Parte 1  | [link](https://drive.google.com/file/d/1xy4o7ju4WQ3qXwnzkjEeSmVmntZmIL5I/view?usp=sharing) |
+| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 1 | [link](https://drive.google.com/file/d/1jJHX2Am0OdHYDiQpcLqsZTAr9JzokL9J/view?usp=sharing)                |
+|  Síncrona  | Slides com exercicíos da aula 4                         | [link](https://drive.google.com/file/d/1aQFTZp-47AlCgylCVkCaYWwf8e1_lD6h/view?usp=sharing)                  |
 
 # **Aula 5:** Inferência Estatística - Parte 2
 
@@ -261,15 +261,15 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Atividade  | Tipo de Atividade                                          | Links                                                                                     |
 |:----------:|-------------------------------------------------|------------|
 |     \-     | **Testes de Hipóteses - Duas Amostras**                    |                                                                                           |
-| Assíncrona | Videoaula de Inferência estatística (TH 1/4) - Parte 2     | [link](https://www.dropbox.com/s/5lz9eelt8zfbb6t/aula9_1.mp4?dl=0)                        |
-| Assíncrona | Videoaula de Inferência estatística (TH 2/4) - Parte 2     | [link](https://www.dropbox.com/s/o66lcq5riyth1dq/aula9_2.mp4?dl=0)                        |
-| Assíncrona | Videoaula de Inferência estatística (TH 3/4) - Parte 2     | [link](https://www.dropbox.com/s/iy3cxfslxpjjyxx/aula9_3.mp4?dl=0)                        |
-| Assíncrona | Videoaula de Inferência estatística (TH 4/4) - Parte 2     | [link](https://www.dropbox.com/s/xbrm19p2ymag9j9/aula9_4.mp4?dl=0)                        |
-| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 2    | [link](https://www.dropbox.com/s/cikimbt2123baw7/Aula7_Infer_2_TH.pdf?dl=0)               |
+| Assíncrona | Videoaula de Inferência estatística (TH 1/4) - Parte 2     | [link](https://drive.google.com/file/d/1_9161VXItYu9jNBQ7Qoo7wWSWpDBPq6E/view?usp=sharing)                        |
+| Assíncrona | Videoaula de Inferência estatística (TH 2/4) - Parte 2     | [link](https://drive.google.com/file/d/1I3c8ZrFCD256hQ-xn_yqHUhfolN8hxED/view?usp=sharing)                        |
+| Assíncrona | Videoaula de Inferência estatística (TH 3/4) - Parte 2     | [link](https://drive.google.com/file/d/1GIATvWWyt4eSmyPRw1RUkK1h_9VGci0j/view?usp=sharing)                        |
+| Assíncrona | Videoaula de Inferência estatística (TH 4/4) - Parte 2     | [link](https://drive.google.com/file/d/1PpeiWqJzrbFwyzdD9ifFKXHBtaayq865/view?usp=sharing)                        |
+| Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 2    | [link](https://drive.google.com/file/d/1UQlltUwywvhNOdXbBF-6pXOTTy1qC-49/view?usp=sharing)               |
 |     \-     | **Testes de Hipóteses - Mais de duas amostras (ANOVA)**    |                                                                                           |
-| Assíncrona | Videoaula de Inferência estatística (ANOVA) - Parte 3      | [link](https://www.dropbox.com/s/8zwvppw3uit5amb/Videoaula_inferencia_TH_parte3.mp4?dl=0) |
-| Assíncrona | Slides da aula de Inferência estatística (ANOVA) - Parte 3 | [link](https://www.dropbox.com/s/i4wzjmecte05reo/Aula7_Infer_3_TH.pdf?dl=0)               |
-|  Síncrona  | Slides com exercicíos da aula 7                            | [link](https://www.dropbox.com/s/4t9jfd6zrx1j5as/Aula7_sincrona.pdf?dl=0)                 |
+| Assíncrona | Videoaula de Inferência estatística (ANOVA) - Parte 3      | [link](https://drive.google.com/file/d/1pXqk3SSQI9Vt0H2oXcP1gJV03Lq4m5fN/view?usp=sharing) |
+| Assíncrona | Slides da aula de Inferência estatística (ANOVA) - Parte 3 | [link](https://drive.google.com/file/d/1I_vBzt-wfpMcQ9eujAitdEoA6x48_wZH/view?usp=sharing)               |
+|  Síncrona  | Slides com exercicíos da aula 7                            | [link](https://drive.google.com/file/d/1UvwFhUbHD2XfdWlX32Xuhnmzk-Fos8lW/view?usp=sharing)                 |
 
 # **Aula 6:** Estatística não-paramétrica
 
@@ -277,13 +277,9 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 -   Para esta aula, não haverá atividade assíncrona, somente atividade síncrona com a teoria e exemplo de aplicações através do Rcommander.
 
--   A profa. Adriana Oliveira (DEMAT/UFRRJ) quem irá ministrar essa aula.
-
--   Neste dia a aula começará às **9hs** e está prevista para terminar às 11hs.
-
 | Atividade | Tipo de Atividade                             | Links                                                                                                        |
 |:----------:|-------------------------------------------------|------------|
-| Síncrona  | Slides da aula de Estatística não-paramétrica | [link](https://www.dropbox.com/s/f72s5099coefzhi/Aula-8_Estat%C3%ADstica-N%C3%A3o-Param%C3%A9trica.pdf?dl=0) |
+| Síncrona  | Slides da aula de Estatística não-paramétrica | [link](https://drive.google.com/file/d/1AX_xmgdFz80WY87Dby-796-eTkMt7Vj6/view?usp=sharing) |
 
 # **Aula 7:** Aula de Dúvidas
 
@@ -294,7 +290,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 -   Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
--   [Roteiro dos Seminários](https://www.dropbox.com/s/vsijmb8lzhxlame/Avaliacao_pratica.pdf?dl=0)
+-   Roteiro dos Seminários [Em breve !!!!]()
 
 -   Início dos seminários: 9hs
 
