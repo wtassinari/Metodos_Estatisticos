@@ -166,6 +166,18 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Assíncrona | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
 |  Síncrona  | [Slide da aula 1](https://drive.google.com/file/d/1ccMOeQd_sdl-XR4i3UkKNB4YmyIagtVf/view?usp=sharing)                           |
 
+- Abaixo estão alguns vídeos mostrando um pouco dos principais recursos para o manuseio do RCommander. 
+
+- **OBS:** Estas video aulas serão importantes para que vocês sejam capazes de acompanhar a parte prática da **Aula 2**.
+
+| Vídeos Rcommander | Importando e criando banco de dados pelo Rcommander                    | Links                                                                          |
+|:----------:|-------------------------------------------------|------------|
+|      Vídeo 1      | Abrindo o Rcommander a partir do Rstudio e utilizando                  | [link](https://drive.google.com/file/d/1uyZruwEvKoxTF5gkg3SUyAhPlmBfplul/view?usp=sharing) |
+|      Vídeo 2      | Lendo o banco de dados *birthwt* a paritr da biblioteca MASS             | [link](https://drive.google.com/file/d/10A_kGK0h1_TdZA7IK8PO2BZXZp0BtFQ0/view?usp=sharing) |
+|      Vídeo 3      | Lendo o banco de dados *birthwt* a paritr de um arquivo em excel         | [link](https://drive.google.com/file/d/1LuHVvj4OaJ7zWmPyfSi89cTDrYIEtjr9/view?usp=sharing) |
+|      Vídeo 4      | Criando um banco de dados do zero a partir do RCommander                       | [link](https://drive.google.com/file/d/1rvoFG5OccJPZLAKVpOjBnd__v0ehMFla/view?usp=sharing) |
+
+
 <!-- # **Aula 2:** Análise Exploratória de Dados (AED) - Parte 1 -->
 
 <!-- -   Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. O conteúdo será abordado de forma assíncrona (videoaulas e lista de exercícios). -->
@@ -195,12 +207,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 <!-- -   Essas atividades listadas abaixo, são atividades voltadas para a importação e criação de bancos de dados através da interface Rcommander -->
 
-<!-- | Vídeos Rcommander | Importando e criando banco de dados pelo Rcommander                    | Links                                                                          | -->
-<!-- |:----------:|-------------------------------------------------|------------| -->
-<!-- |      Vídeo 1      | Abrindo o Rcommander a partir do Rstudio e utilizando                  | [link](https://drive.google.com/file/d/1uyZruwEvKoxTF5gkg3SUyAhPlmBfplul/view?usp=sharing) | -->
-<!-- |      Vídeo 2      | Lendo o banco de dados birthwt a paritr da biblioteca MASS             | [link](https://drive.google.com/file/d/10A_kGK0h1_TdZA7IK8PO2BZXZp0BtFQ0/view?usp=sharing) | -->
-<!-- |      Vídeo 3      | Lendo o banco de dados birthwt a paritr de um arquivo em excel         | [link](https://drive.google.com/file/d/1LuHVvj4OaJ7zWmPyfSi89cTDrYIEtjr9/view?usp=sharing) | -->
-<!-- |      Vídeo 4      | Criando um banco de dados a partir do RCommander                       | [link](https://drive.google.com/file/d/1rvoFG5OccJPZLAKVpOjBnd__v0ehMFla/view?usp=sharing) | -->
+
 
 
 <!-- # **Aula 3:**  Introdução à probabilidade e as Principais Dist. Probabilidade -->
