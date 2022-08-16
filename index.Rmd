@@ -170,7 +170,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 - **OBS:** Estas video aulas serão importantes para que vocês sejam capazes de acompanhar a parte prática da **Aula 2**.
 
-| Vídeos Rcommander | Importando e criando banco de dados pelo Rcommander                    | Links                                                                          |
+| Videoaulas | Importando e criando banco de dados pelo Rcommander                    | Links                                                                          |
 |:----------:|-------------------------------------------------|------------|
 |      Vídeo 1      | Abrindo o Rcommander a partir do Rstudio e utilizando                  | [link](https://drive.google.com/file/d/1uyZruwEvKoxTF5gkg3SUyAhPlmBfplul/view?usp=sharing) |
 |      Vídeo 2      | Lendo o banco de dados *birthwt* a paritr da biblioteca MASS             | [link](https://drive.google.com/file/d/10A_kGK0h1_TdZA7IK8PO2BZXZp0BtFQ0/view?usp=sharing) |
