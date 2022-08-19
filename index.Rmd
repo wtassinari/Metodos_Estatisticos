@@ -76,23 +76,23 @@ O curso será ministrado pelos professores:
 
 [**Profa. Adriana Oliveira (DEMAT/UFRRJ) (DEMAT/UFRRJ)**](https://institucional.ufrrj.br/ruralpesquisa/adriana-oliveira-andrade/)
 
-email: [andrade.ufrrj\@gmail.com](andrade.ufrrj@gmail.com)
+email: [*andrade.ufrrj\@gmail.com*](andrade.ufrrj@gmail.com)
 
 [**Prof. Wagner Tassinari (DEMAT/UFRRJ)**](https://institucional.ufrrj.br/ruralpesquisa/wagner-de-souza-tassinari/)
 
 email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
--   Este curso têm por objetivo de principal capacitar pesquisadores nas áreas de ciências veterinárias e biológicas de maneira geral, para o planejamento e execução de analises estatísticas básicas em estudos experimentais e/ou observacionais através do julgamento crítico sobre os resultados estatísticos obtidos, em relação a resposta biológica esperada, para apresentar conclusões finais.
+-   Este curso têm por objetivo de principal capacitar pesquisadores nas áreas de ciências veterinárias e biológicas de maneira geral, para o planejamento e execução de análises estatísticas básicas em estudos experimentais e/ou observacionais através do julgamento crítico sobre os resultados estatísticos obtidos, em relação à resposta biológica esperada para apresentar conclusões finais.
 
--   O curso será composto de atividade **síncronas**, são atividades baseadas em encontros remotos professor-alunos on line, e das atividades **assíncronas**, são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e trabalhos em grupo. As aulas síncronas serão feitas via plataforma Google Meet todas à terças e quintas das 9h às 10:30h, durante o período do curso. O link para o acesso as aulas estará disponível ni sistema SIGAA - UFRRJ no tópico referente a data da aula.
+-   O curso será composto de atividades **síncronas**, encontros remotos professor-alunos on line, e atividades **assíncronas**, atividades que poderão ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e trabalhos em grupo. As aulas síncronas serão feitas via plataforma Google Meet às sextas a partir das 9h, durante o todo o período do curso. O link para o acesso as aulas estará disponível no sistema SIGAA - UFRRJ no tópico referente a data da aula.
 
 -   Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica **RStudio** e o **R Commander**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN (<https://cran.r-project.org/>), é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
 
 -   Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** (<https://rstudio.com/products/rstudio/>), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
 
--   O **R Commander**, também conhecido como uma interface *point-and-click* para o manuseio do pacote estatístico R, é uma ferramenta disponibilizada pelo pacote estatístico R, através da *library(rcmdr)*, que têm por objetivo facilitar a vida das pessoas que não têm um conhecimento prévio na linguagem de programação R. Ela apresenta uma forma mais prática e interativa de poder fazer análises estatísticas.
+-   O **R Commander**, também conhecido como uma interface *point-and-click* para o manuseio do pacote estatístico R, é uma ferramenta disponibilizada pelo pacote estatístico R, através da *library(Rcmdr)*, que têm por objetivo facilitar a vida das pessoas que não têm um conhecimento prévio na linguagem de programação R. Ela apresenta uma forma mais prática e interativa de poder fazer análises estatísticas.
 
--   A avaliação deste curso será feita através da apresentação em grupo de seminários de 15 minutos. A média final da disciplina será composta pela nota do trabalho em geral (nota do grupo) + a nota da apresentação individual de cada elemento do grupo, sendo a última tendo peso dois.
+-   A avaliação deste curso será feita através da apresentação em grupo de seminários de 15 minutos. A média final da disciplina será composta pela nota do trabalho em geral (nota do grupo) + a nota da apresentação individual de cada elemento do grupo + listas de exercício.
 
 - `r colFmt("IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.**", 'red')`
 
@@ -157,7 +157,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 -   Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
 
--   Para a aula síncrona deste dia, é sugerido de que os alunos já tenham feito a instalação do pacote estatístico R da interface gráfica RStudio baixado e instalado a biblioteca Rcmd referente a interface gráfica Rcommander, como mostrado nas videoaulas e no material complementar disponíveis nessa página.
+-   Para a aula síncrona deste dia, é sugerido de que os alunos já tenham feito a instalação do pacote estatístico R da interface gráfica RStudio baixado e instalado a biblioteca Rcmdr referente a interface gráfica Rcommander, como mostrado nas videoaulas e no material complementar disponíveis nessa página.
 
 | Atividades | Tipo de Atividade                                                                                            |
 |:-------------:|--------------------------------------------------------|
@@ -165,6 +165,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Assíncrona | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4)          |
 | Assíncrona | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
 |  Síncrona  | [Slide da aula 1](https://drive.google.com/file/d/1ccMOeQd_sdl-XR4i3UkKNB4YmyIagtVf/view?usp=sharing)                           |
+|  Síncrona  | [Prática banco horse.xlsx](aula1/banco_cavalos.html)                           |
 
 - Abaixo estão alguns vídeos mostrando um pouco dos principais recursos para o manuseio do RCommander. 
 
