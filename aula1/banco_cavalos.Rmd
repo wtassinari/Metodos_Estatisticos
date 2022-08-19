@@ -1,0 +1,135 @@
+---
+title: "Pós-graduação em Ciências Veterinárias (IV/UFRRJ)"
+subtitle: "Banco de dados sobre cólica de cavalo"
+author: |
+  | Profa. Adriana Andrade (DEMAT/ICE/UFRRJ)
+  |
+  | Prof. Wagner Tassinari (DEMAT/ICE/UFRRJ)
+  |
+date: "2022"
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
+    highlight: github
+    toc: true
+---
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri("logorural.jpg"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:20%; right:0%; padding:10px; height:100px;out.width=80%')
+
+```
+
+```{r setup, include=FALSE}
+library(knitr)
+
+## Global options
+options(max.print="75")
+knitr::opts_chunk$set(echo=FALSE,
+               cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE,
+               cache.lazy=FALSE)
+knitr::opts_knit$set(width=75)
+
+```
+
+```{r klippy}
+# Insert copy to clipboard buttons in HTML documents
+# remotes::install_github("rlesur/klippy")
+klippy::klippy(
+  lang = c("r", "markdown"),
+  all_precode = FALSE,
+  position = c("top", "right"),
+  color = "navyblue",
+  tooltip_message = "copiar código",
+  tooltip_success = "copiado!"
+)
+
+```
+
+```{css echo=FALSE}
+/* Define a margin before h2 element */
+h2  {
+  margin-top: 4em;
+}
+
+/* Define a margin after every first p elements */
+p:first-of-type {
+  margin-bottom: 2em;
+}
+```
+
+```{r}
+## Color Format
+colFmt <- function(x,color) {
+  
+  outputFormat <- knitr::opts_knit$get("rmarkdown.pandoc.to")
+  
+  if(outputFormat == 'latex') {
+    ret <- paste("\\textcolor{",color,"}{",x,"}",sep="")
+  } else if(outputFormat == 'html') {
+    ret <- paste("<font color='",color,"'>",x,"</font>",sep="")
+  } else {
+    ret <- x
+  }
+
+  return(ret)
+}
+
+```
+
+------------------------------------------------------------------------
+
+# Base de dados
+
+
+```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="90%", comment=NA}
+
+library(GSE)
+data(horse)
+
+# Retirando os missings
+horse <- horse[-c(5,8)]
+horse <- na.omit(horse)
+
+
+library(xlsx)
+write.xlsx2(horse, "/home/tassinari/Google Drive/UFRRJ/Métodos Estatísticos 2022/Aula_1_Apresentacao/horse.xlsx", na = "", row.names=F)
+
+```
+
+
+[horse.xlsx](https://drive.google.com/file/d/14r88XnOVayqlUVMv1gQ2ljj1JKpwQl8H/view?usp=sharing)
+
+------------------------------------------------------------------------
+
+# Descrição
+
+Esta é uma versão modificada do conjunto de dados original, retirado do [repositório UCI](https://archive.ics.uci.edu/ml/datasets/Horse+Colic). Este conjunto de dados é sobre um conjunto de parâmetros de cavalo, onde o objetivo era de investigar se a lesão do cavalo foi cirúrgica ou não.
+
+------------------------------------------------------------------------
+
+# Dicionário de Variáveis
+
+Esta versão do banco de dados contém 235 observações, 5 variáveis quantitativas e 1 categórica. A primeira variável é um id numérico.
+
+| **Nome da Variável**            | **Descrição**                                                    |
+| :-------------------------- | :----------------------------------------------------------- |
+| **Hospital_Number**             | *numeric id, i.e. the case number assigned to the horse (may not be unique if the horse is treated > 1 time)* |
+| **Rectal_temperature**          | *rectal temperature in degree celcius*                       |
+| **Pulse**                       | *the heart rate in beats per minute; normal rate is 30-40 for adults* |
+| **Respiratory_rate**           | *respiratory rate; normal rate is 8 to 10*                   |
+| **Packed_cell_volume**          | *the number of red cells by volume in the blood; normal range is 30 to 50* |
+| **Total_protein**               | *normal values lie in the 6-7.5 (gms/dL) range*              |
+| **surgical_leison**            | *was the problem (lesion) surgical?; 1 = yes, 2 = no*        |
+
+------------------------------------------------------------------------
+
+# Referência
+
+Frank, A. & Asuncion, A. (2010). UCI Machine Learning Repository [<http://archive.ics.uci.edu/ml>]. Irvine, CA: University of California, School of Information and Computer Science.
