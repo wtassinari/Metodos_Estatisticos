@@ -1,17 +1,5 @@
 # Métodos Estatísticos Aplicados às Ciências Veterinárias
 
-**Profa. Adriana Oliveira (DEMAT/UFRRJ)**
-
-*[andrade.ufrrj@gmail.com ](andrade.ufrrj@gmail.com )*
-
-**Prof. Wagner Tassinari (DEMAT/UFRRJ)**
-
-*[wtassinari@gmail.com](wtassinari@gmail.com)*
-
-Esta página representa o repositório do conteúdo da disciplina de Métodos Estatísticos Aplicados as Ciências Veterinárias - 2022 (PPGCV/IV/UFRRJ)
-
-# Apresentação do curso
-
 O curso será ministrado pelos professores:
 
 [**Profa. Adriana Oliveira (DEMAT/UFRRJ) (DEMAT/UFRRJ)**](https://institucional.ufrrj.br/ruralpesquisa/adriana-oliveira-andrade/)
@@ -21,6 +9,10 @@ email: [*andrade.ufrrj\@gmail.com*](andrade.ufrrj@gmail.com)
 [**Prof. Wagner Tassinari (DEMAT/UFRRJ)**](https://institucional.ufrrj.br/ruralpesquisa/wagner-de-souza-tassinari/)
 
 email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
+
+## Apresentação do curso
+
+- Esta página representa o repositório do conteúdo da disciplina de Métodos Estatísticos Aplicados as Ciências Veterinárias - 2022 (PPGCV/IV/UFRRJ)
 
 -   Este curso têm por objetivo de principal capacitar pesquisadores nas áreas de ciências veterinárias e biológicas de maneira geral, para o planejamento e execução de análises estatísticas básicas em estudos experimentais e/ou observacionais através do julgamento crítico sobre os resultados estatísticos obtidos, em relação à resposta biológica esperada para apresentar conclusões finais.
 
@@ -36,15 +28,15 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 - `r colFmt("IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.**", 'red')`
 
-# Bibliografias
+## Bibliografias
 
-## Bibliografia Básica
+### Bibliografia Básica
 
 -   [Vu, J; Harrington, D. Introductory Statistics for the Life and Biomedical Sciences, 1ª edição. 2020.](https://leanpub.com/biostat)
 
 -   [Diez, DM; Barr, C D; Çetinkaya-Rundel M. OpenIntro Statistics, 3ª edição. 2015.](https://leanpub.com/openintro-statistics)
 
-## Bibliografia Sugerida
+### Bibliografia Sugerida
 
 -   Vieira, Sônia. Introdução à bioestatística. Elsevier Brasil, 1997.
 
@@ -52,7 +44,7 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 -   Petrie, Aviva, and Paul Watson. Statistics for veterinary and animal science. John Wiley & Sons, 2013.
 
-## Bibliografia do Pacote Estatístico R
+### Bibliografia do Pacote Estatístico R
 
 -   [Apostila para o manuseio do R Commander](https://drive.google.com/file/d/1iF8kata9BZnWSUm_MXzG-WtviuCceFAr/view?usp=sharing)
 
@@ -60,11 +52,11 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 -   [Livro sobre o R](https://drive.google.com/file/d/1DPT0XWZH6LbQpxZnviV57eXfCoFvTB_0/view?usp=sharing)
 
-# Bancos de dados utilizados no curso
+## Bancos de dados utilizados no curso
 
 Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://drive.google.com/file/d/1kD2tYYujTvNQcq6tEo-NZ-nr384PZTjs/view?usp=sharing)
 
-# Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
+## Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
 
 -   [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
 
@@ -80,7 +72,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 -   [Vídeo mostrando se faz a manipulação de dados via R Commander](https://www.youtube.com/watch?v=0FLHJAbxzis)
 
-# Cronograma do curso:
+## Cronograma do curso:
 
 | Aula |                              Descrição                               |    Data    |
 |:-----------:|:--------------------------------------------:|:-----------:|
@@ -93,7 +85,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 |  7   |                           Aula de dúvidas                            | 07/10/2022 |
 |  8   |                     Apresentação dos Semináriso                      | 14/10/2021 |
 
-# **Aula 1:** Apresentação da disciplina + Ambiente R + RComander 
+## **Aula 1:** Apresentação da disciplina + Ambiente R + RComander 
 
 -   Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
 
