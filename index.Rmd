@@ -84,7 +84,7 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 -   Este curso têm por objetivo de principal capacitar pesquisadores nas áreas de ciências veterinárias e biológicas de maneira geral, para o planejamento e execução de análises estatísticas básicas em estudos experimentais e/ou observacionais através do julgamento crítico sobre os resultados estatísticos obtidos, em relação à resposta biológica esperada para apresentar conclusões finais.
 
--   O curso será composto de atividades **síncronas**, encontros remotos professor-alunos on line, e atividades **assíncronas**, atividades que poderão ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e trabalhos em grupo. As aulas síncronas serão feitas via plataforma Google Meet às sextas a partir das 9h, durante o todo o período do curso. O link para o acesso as aulas estará disponível no sistema SIGAA - UFRRJ no tópico referente a data da aula.
+-   O curso será composto encontros presenciais todas as sextas-feiras, e atividades complementares que poderão ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e trabalhos em grupo. 
 
 -   Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica **RStudio** e o **R Commander**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN (<https://cran.r-project.org/>), é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
 
@@ -122,7 +122,7 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 # Bancos de dados utilizados no curso
 
-Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://drive.google.com/file/d/1kD2tYYujTvNQcq6tEo-NZ-nr384PZTjs/view?usp=sharing)
+Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://drive.google.com/file/d/1otFFEHhZu5r0Ax-dyapHbUHHzPe2btxs/view?usp=sharing)
 
 # Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
 
@@ -155,17 +155,17 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 # **Aula 1:** Apresentação da disciplina + Ambiente R + RComander 
 
--   Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
+-   Nessa aula será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
 
--   Para a aula síncrona deste dia, é sugerido de que os alunos já tenham feito a instalação do pacote estatístico R da interface gráfica RStudio baixado e instalado a biblioteca Rcmdr referente a interface gráfica Rcommander, como mostrado nas videoaulas e no material complementar disponíveis nessa página.
+-   Para a aula, é sugerido de que os alunos já tenham feito a instalação do pacote estatístico R da interface gráfica RStudio baixado e instalado a biblioteca Rcmdr referente a interface gráfica Rcommander, como mostrado nas videoaulas e no material complementar disponíveis nessa página.
 
 | Atividades | Tipo de Atividade                                                                                            |
 |:-------------:|--------------------------------------------------------|
-| Assíncrona | [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)                      |
-| Assíncrona | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4)          |
-| Assíncrona | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
-|  Síncrona  | [Slide da aula 1](https://drive.google.com/file/d/1ccMOeQd_sdl-XR4i3UkKNB4YmyIagtVf/view?usp=sharing)                           |
-|  Síncrona  | [Prática banco horse.xlsx](aula1/banco_cavalos.html)                           |
+| Vídeo | [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)                      |
+| Vídeo | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4)          |
+| Vídeo | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
+|  Slides  | [Slide da aula 1](https://drive.google.com/file/d/1ccMOeQd_sdl-XR4i3UkKNB4YmyIagtVf/view?usp=sharing)                           |
+|  Prática no Rcommander  | [Prática banco horse.xlsx](aula1/banco_cavalos.html)                           |
 
 - Abaixo estão alguns vídeos mostrando um pouco dos principais recursos para o manuseio do RCommander. 
 
@@ -179,35 +179,25 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 |      Vídeo 4      | Criando um banco de dados do zero a partir do RCommander                       | [link](https://drive.google.com/file/d/1rvoFG5OccJPZLAKVpOjBnd__v0ehMFla/view?usp=sharing) |
 
 
-<!-- # **Aula 2:** Análise Exploratória de Dados (AED) - Parte 1 -->
+# **Aula 2:** Análise Exploratória de Dados (AED) - Parte 1
 
-<!-- -   Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. O conteúdo será abordado de forma assíncrona (videoaulas e lista de exercícios). -->
+-   Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. 
 
-<!-- -   É sugerido que os alunos tentem fazer os exercícios propostos nos slides das aulas e a lista de exercícios como ferramenta auxiliar para o aprendizado. -->
+-   É sugerido que os alunos assistam as videoaulas e tentem fazer a lista de exercícios como ferramenta auxiliar para o aprendizado.
 
-<!-- | Atividade  | Tipo de Atividade                                       | Links                                                                                                                   | -->
-<!-- |:----------:|-------------------------------------------------|------------| -->
-<!-- |     \-     | **Análise Exploratória de Dados - Parte 1**                              |                                                                                            | -->
-<!-- | Assíncrona | Videoaula AED 1                                         | [link](https://drive.google.com/file/d/1SsqETtd1e28TdrOFe7odbt1v57oKrvjR/view?usp=sharing)                                           | -->
-<!-- | Assíncrona | Slides da aula AED 1                                    | [link](https://drive.google.com/file/d/1E7HsyweOfQvrna3GKi0BjQIXl2c5sQE6/view?usp=sharing)                                             | -->
-<!-- | Assíncrona | Videoaula AED 2                                         | [link](https://drive.google.com/file/d/1Mf7uan8dHOoT0ML7riXYxJaz33HUxgAp/view?usp=sharing)                                             | -->
-<!-- | Assíncrona | Slides da aula AED 2                                    | [link](https://drive.google.com/file/d/1QGKGNsKcJ-vrn1J4q6hlm8wQg_-D-Xuf/view?usp=sharing)                                             | -->
-<!-- | Assíncrona | Lista de exercícios                                     | [link](https://drive.google.com/file/d/1hktK-oCweqoyQu06lPNL7Nwvb-ZVOXlF/view?usp=sharing)                                                 | -->
-<!-- |  Síncrona  | Planilha com exercícios                                 | [link](https://docs.google.com/spreadsheets/d/1GAhRuHw68xxJT5My0MiIz9lSeDBgFz40/edit?usp=sharing&ouid=101273607189955142071&rtpof=true&sd=true) | -->
-<!-- |  Síncrona  | Slides elaboração de tabelas e gráficos pelo Rcommander | [link](https://drive.google.com/file/d/1ICt_uCDEmHfYNN19_BVuaqsSzEz_5oj4/view?usp=sharing)                                              | -->
-<!-- |     \-     | **Análise Exploratória de Dados - Parte 2**                              |                                                                                            | -->
-<!-- | Assíncrona | Videoaula AED 3 - Parte 1                          | [link](https://drive.google.com/file/d/1Nmk3xMRktp_isee80wdbPe6e3GR6HoC5/view?usp=sharing)                                                       | -->
-<!-- | Assíncrona | Slides da aula 3 - Parte 1                         | [link](https://drive.google.com/file/d/1piTM8IBOYcy-eGfB4Tal7gK1Daiz2R_3/view?usp=sharing)                                      | -->
-<!-- | Assíncrona | Videoaula AED 3 - Parte 2                          | [link](https://drive.google.com/file/d/1IGV2_IvWjCmilY1pS7d74ahgcXJ0Ar1b/view?usp=sharing)                                                       | -->
-<!-- | Assíncrona | Slides da aula 3 - Parte 2                         | [link](https://drive.google.com/file/d/104PLNVDfxNyss7BuETFsyc384HZYmptS/view?usp=sharing)                                      | -->
-<!-- | Assíncrona | Videoaula AED 4                                    | [link](https://drive.google.com/file/d/1EzWbfoFBrO8MCzFQj3QS-77OChfMEBXQ/view?usp=sharing)                                                      | -->
-<!-- | Assíncrona | Slides da aula 4                                   | [link](https://drive.google.com/file/d/1q4Lp3onhmQuwnJkDfsGphjqLdmXwm8pD/view?usp=sharing)                                             | -->
-<!-- |  Síncrona  | Planilha com exercícios                            | [link](https://docs.google.com/spreadsheets/d/1YB3rKnxRu2e1MEz3l4zHO9gx4GYi-2pY/edit?usp=sharing&ouid=101273607189955142071&rtpof=true&sd=true) | -->
-<!-- |  Síncrona  | Slides de estatísticas descritivas pelo Rcommander | [link](https://drive.google.com/file/d/1nSu1OrRE7Xei7T-NHxELxFJOJ48vZyVY/view?usp=sharing)                                              | -->
-
-
-<!-- -   Essas atividades listadas abaixo, são atividades voltadas para a importação e criação de bancos de dados através da interface Rcommander -->
-
+| Atividade  | Tipo de Atividade                                       | Links                                                                                                                   |
+|:----------:|-------------------------------------------------|------------|
+| Videoaula | Videoaula AED 1                                         | [link](https://drive.google.com/file/d/1oNTmsdCzr6L7e3mUVWpA1nuDpDonqeBC/view?usp=sharing)                                           |
+| Slides | Slides da aula AED 1                                    | [link](https://drive.google.com/file/d/17S8kucQZvP73An12EUUXXOT8_KJgXGSw/view?usp=sharing)                                             |
+| Videoaula | Videoaula AED 2                                         | [link](https://drive.google.com/file/d/1xDtWkIIHUDG7pMIqxMcPaWY5Q-IkjLZm/view?usp=sharing)                                             |
+| Slides | Slides da aula AED 2                                    | [link](https://drive.google.com/file/d/10DmdlubTclgUCS8GZmql_PMdV35IS_Fr/view?usp=sharing)                                             |
+| Videoaula | Videoaula AED 3 - Parte 1                          | [link](https://drive.google.com/file/d/1e-RHLXm5ogHLg6E752FFK1StFdyJTF50/view?usp=sharing)                                                       |
+| Slides | Slides da aula 3 - Parte 1                         | [link](https://drive.google.com/file/d/1Uz7nrWbA--qtrFrSA-KET6Zu0igwaVsC/view?usp=sharing)                                      |
+| Videoaula | Videoaula AED 3 - Parte 2                          | [link](https://drive.google.com/file/d/17A9cCeRGfUKSdl0a4zueco7LNziyNAmq/view?usp=sharing)                                                       |
+| Slides | Slides da aula 3 - Parte 2                         | [link](https://drive.google.com/file/d/1EPeoBDwDk6rbAiosCXun7FugMCk4qNfA/view?usp=sharing)                                      |
+| Videoaula | Videoaula AED 4                                    | [link](https://drive.google.com/file/d/1yrBvOZKc5tup6sAiK8sxxLHqeglmyuta/view?usp=sharing)                                                      |
+| Slides | Slides da aula 4                                   | [link](https://drive.google.com/file/d/12RPx_rqkh6jNoTTWmAL8i69Xd8OEw4Pi/view?usp=sharing)                                             |
+| Exercícios | Lista de exercícios 1                              | [link](https://drive.google.com/file/d/1tKBLp-Y5KxQgNnnORsN8oC08nDgqWJr9/view?usp=sharing)    |
 
 
 
