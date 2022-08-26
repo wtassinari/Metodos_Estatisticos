@@ -179,7 +179,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 |      Vídeo 4      | Criando um banco de dados do zero a partir do RCommander                       | [link](https://drive.google.com/file/d/1rvoFG5OccJPZLAKVpOjBnd__v0ehMFla/view?usp=sharing) |
 
 
-# **Aula 2:** Análise Exploratória de Dados (AED) - Parte 1
+# **Aula 2:** Análise Exploratória de Dados (AED) 
 
 -   Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. 
 
