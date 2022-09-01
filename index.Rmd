@@ -192,40 +192,44 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Videoaula | Videoaula AED 2                                         | [link](https://drive.google.com/file/d/1xDtWkIIHUDG7pMIqxMcPaWY5Q-IkjLZm/view?usp=sharing)                                             |
 | Slides | Slides da aula AED 2                                    | [link](https://drive.google.com/file/d/10DmdlubTclgUCS8GZmql_PMdV35IS_Fr/view?usp=sharing)                                             |
 | Videoaula | Videoaula AED 3 - Parte 1                          | [link](https://drive.google.com/file/d/1e-RHLXm5ogHLg6E752FFK1StFdyJTF50/view?usp=sharing)                                                       |
-| Slides | Slides da aula 3 - Parte 1                         | [link](https://drive.google.com/file/d/1Uz7nrWbA--qtrFrSA-KET6Zu0igwaVsC/view?usp=sharing)                                      |
+| Slides | Slides da aula AED 3 - Parte 1                         | [link](https://drive.google.com/file/d/1Uz7nrWbA--qtrFrSA-KET6Zu0igwaVsC/view?usp=sharing)                                      |
 | Videoaula | Videoaula AED 3 - Parte 2                          | [link](https://drive.google.com/file/d/17A9cCeRGfUKSdl0a4zueco7LNziyNAmq/view?usp=sharing)                                                       |
-| Slides | Slides da aula 3 - Parte 2                         | [link](https://drive.google.com/file/d/1EPeoBDwDk6rbAiosCXun7FugMCk4qNfA/view?usp=sharing)                                      |
+| Slides | Slides da aula AED 3 - Parte 2                         | [link](https://drive.google.com/file/d/1EPeoBDwDk6rbAiosCXun7FugMCk4qNfA/view?usp=sharing)                                      |
 | Videoaula | Videoaula AED 4                                    | [link](https://drive.google.com/file/d/1yrBvOZKc5tup6sAiK8sxxLHqeglmyuta/view?usp=sharing)                                                      |
-| Slides | Slides da aula 4                                   | [link](https://drive.google.com/file/d/12RPx_rqkh6jNoTTWmAL8i69Xd8OEw4Pi/view?usp=sharing)                                             |
+| Slides | Slides da aula AED 4                                   | [link](https://drive.google.com/file/d/12RPx_rqkh6jNoTTWmAL8i69Xd8OEw4Pi/view?usp=sharing)                                             |
+| Slides | Slides da aula prática AED - Parte 1                                   | [link](https://drive.google.com/file/d/1aemda830w-YdlSMNhqub3OMlRnlLA-bz/view?usp=sharing)                                             |
+| Slides | Slides da aula prática AED - Parte 2                                   | [link](https://drive.google.com/file/d/1uvln8dHQCUSKQkdEYBiSpkUeZg9mktLC/view?usp=sharing)                                             |
 | Exercícios | Lista de exercícios 1                              | [link](https://drive.google.com/file/d/1tKBLp-Y5KxQgNnnORsN8oC08nDgqWJr9/view?usp=sharing)    |
 
 
 
-<!-- # **Aula 3:**  Introdução à probabilidade e as Principais Dist. Probabilidade -->
+# **Aula 3:**  Introdução à probabilidade e as Principais Dist. Probabilidade
 
-<!-- -   Nessa aula serão apresentados os principais conceitos em teoria da probabilidade e as mais usuais distribuições de probabilidades para variáveis aleatórias discretas (Dist. de Bernoulli, Binomial e Poisson) e contínuas (Dist. Normal) de forma teórica e com exercícios. Será enfatisado o cálculo das medidas de acurácia para testes diagnósticos baseado nos conceitos da teoria de probabilidade. -->
+-   Nessa aula serão apresentados os principais conceitos em teoria da probabilidade e as mais usuais distribuições de probabilidades para variáveis aleatórias discretas (Dist. de Bernoulli, Binomial e Poisson) e contínuas (Dist. Normal) de forma teórica e com exercícios. Será enfatisado o cálculo das medidas de acurácia para testes diagnósticos baseado nos conceitos da teoria de probabilidade.
 
-<!-- -   Para esta aula síncrona, os alunos deverão ter assistido as videoaulas de probabilidade disponíveis neste tópico. -->
+-   Para esta aula síncrona, os alunos deverão ter assistido as videoaulas de probabilidade disponíveis neste tópico.
 
-<!-- -   Para o cálculo dessas medidas no Rcommander, iremos utilizar o plugin **RcmdrPlugin.EZR**. -->
+-   Para o cálculo dessas medidas no Rcommander, iremos utilizar o plugin **RcmdrPlugin.EZR**.
 
-<!-- | Atividade  | Tipo de Atividade a respeito de Probabilidade                  | Links                                                                          | -->
-<!-- |:----------:|-------------------------------------------------|------------| -->
-<!-- |     \-     | **Probabilidade**                              |                                                                                            | -->
-<!-- | Assíncrona | Videoaula de Probabilidade - Parte 1 | [link](https://drive.google.com/file/d/1NvCnXYg6GC64p0JNXj-Zv90qB0QcEt-D/view?usp=sharing)      | -->
-<!-- | Assíncrona | Videoaula de Probabilidade - Parte 2 | [link](https://drive.google.com/file/d/1JQdL_GCfEPeEib6xvcbaKp6QBZ2JG_Q6/view?usp=sharing)      | -->
-<!-- | Assíncrona | Videoaula de Probabilidade - Parte 3 | [link](https://drive.google.com/file/d/1Ei8DjTP2VpWUgQ-deryTSgKeWl-xdk6D/view?usp=sharing)      | -->
-<!-- | Assíncrona | Videoaula de Probabilidade - Parte 4 | [link](https://drive.google.com/file/d/1eDgggtQl9j7ASu0NE9LM8Dbf5EppkeaF/view?usp=sharing)      | -->
-<!-- | Assíncrona | Slide da aula de Probabilidade       | [link](https://drive.google.com/file/d/1rHsifAsZLt8dUe8Ruagmc48u8nKrdJ64/view?usp=sharing) | -->
-<!-- |  Síncrona  | Slides com exercicíos da aula 4      | [link]()      | -->
+| Atividade  | Tipo de Atividade a respeito de Probabilidade                  | Links                                                                          |
+|:----------:|-------------------------------------------------|------------|
+|     \-     | **Probabilidade**                              |                                                                                      |
+| Videoaula | Videoaula de Probabilidade - Parte 1 | [link](https://drive.google.com/file/d/1NvCnXYg6GC64p0JNXj-Zv90qB0QcEt-D/view?usp=sharing)      |
+| Videoaula | Videoaula de Probabilidade - Parte 2 | [link](https://drive.google.com/file/d/1JQdL_GCfEPeEib6xvcbaKp6QBZ2JG_Q6/view?usp=sharing)      |
+| Videoaula | Videoaula de Probabilidade - Parte 3 | [link](https://drive.google.com/file/d/1Ei8DjTP2VpWUgQ-deryTSgKeWl-xdk6D/view?usp=sharing)      |
+| Videoaula | Videoaula de Probabilidade - Parte 4 | [link](https://drive.google.com/file/d/1eDgggtQl9j7ASu0NE9LM8Dbf5EppkeaF/view?usp=sharing)      |
+| Slides | Slides da aula de Probabilidade       | [link](https://drive.google.com/file/d/1rHsifAsZLt8dUe8Ruagmc48u8nKrdJ64/view?usp=sharing) |
+| Slides  | Slides da aula prática de Probabilidade | [link](https://drive.google.com/file/d/1Ex0WdReWbSIqXoz-10f7cXR-se9vSbpl/view?usp=sharing)      |
+|     \-     | **Distribuiçẽs de Probabilidade**    |                                                                                        |
+| Videoaula | Videoaula de Dist. de Probabilidades - Parte 1 | [link](https://drive.google.com/file/d/1TzFDV-8wTYFHVH5Z7rbyfaXvaPjWkTqu/view?usp=sharing) |
+| Videoaula | Videoaula de Dist. de Probabilidades - Parte 2 | [link](https://drive.google.com/file/d/1cSTxw2GjXhMD77mjuMwv5WlB0hTsldg9/view?usp=sharing) |
+| Videoaula | Videoaula de Dist. de Probabilidades - Parte 3 | [link](https://drive.google.com/file/d/1vUki6TX9Nz_sx7icjHYQ5e_TtDK6NohC/view?usp=sharing) |
+| Videoaula | Videoaula de Dist. de Probabilidades - Parte 4 | [link](https://drive.google.com/file/d/1SVg88_gYi3YndpEGAUVDM7i1cB34OMbX/view?usp=sharing) |
+| Slides | Slide da aula de Dist. de Probabilidades       | [link](https://drive.google.com/file/d/1RXvHffEodiHIgRb79yDfm3jSzvgaAVGp/view?usp=sharing)       |
+|  Slides  | Slides da aula prática de Dist. de Probabilidades | [link](https://drive.google.com/file/d/1fO2iNUaooS1IOyzUFQF5zuprcb8_f5aJ/view?usp=sharing)       |
+| Exercícios | Lista de exercícios 2                              | [link](https://drive.google.com/file/d/1kZUE7MROmCwTOPkkErsQuUa-UmvLi_tV/view?usp=sharing)    |
 
-<!-- |     \-     | **Distribuiçẽs de Probabilidade**                              |                                                                                        | -->
-<!-- | Assíncrona | Videoaula de Dist. de Probabilidades - Parte 1 | [link](https://drive.google.com/file/d/1TzFDV-8wTYFHVH5Z7rbyfaXvaPjWkTqu/view?usp=sharing) | -->
-<!-- | Assíncrona | Videoaula de Dist. de Probabilidades - Parte 2 | [link](https://drive.google.com/file/d/1cSTxw2GjXhMD77mjuMwv5WlB0hTsldg9/view?usp=sharing) | -->
-<!-- | Assíncrona | Videoaula de Dist. de Probabilidades - Parte 3 | [link](https://drive.google.com/file/d/1vUki6TX9Nz_sx7icjHYQ5e_TtDK6NohC/view?usp=sharing) | -->
-<!-- | Assíncrona | Videoaula de Dist. de Probabilidades - Parte 4 | [link](https://drive.google.com/file/d/1SVg88_gYi3YndpEGAUVDM7i1cB34OMbX/view?usp=sharing) | -->
-<!-- | Assíncrona | Slide da aula de Dist. de Probabilidades       | [link](https://drive.google.com/file/d/1RXvHffEodiHIgRb79yDfm3jSzvgaAVGp/view?usp=sharing)       | -->
-<!-- |  Síncrona  | Slides com exercicíos da aula 5                | [link]()       | -->
+**Obs:** Se optarmos em não utilizar o pacote estatístico R e/ou Rcommander para a resolução dos exercícios, relacionados a distribuição normal de probabilidades, iremos precisar do auxílio tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
 
 
 <!-- # **Aula 4:** Inferência Estatística - Parte 1 -->
