@@ -208,7 +208,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 -   Para esta aula, os alunos deverão ter assistido as videoaulas de probabilidade disponíveis neste tópico.
 
--   Para o cálculo dessas medidas no Rcommander, iremos utilizar o plugin **RcmdrPlugin.EZR**.
+-   Para o cálculo dessas medidas no Rcommander, iremos utilizar o plugin do RCommander chamado **RcmdrPlugin.EZR**. Segue um vídeo para auxiliar na instalação no R ([link](https://www.youtube.com/watch?v=rcZzfqkEQT8)).
 
 | Atividade  | Tipo de Atividade a respeito de Probabilidade                  | Links                                                                          |
 |:----------:|-------------------------------------------------|------------|
@@ -290,13 +290,13 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 <!-- -   Aula destinada a sanar as dúvidas dos alunos a respeito do conteúdo do curso e a preparação do seminário. -->
 
 
-<!-- # **Aula 8:** Seminários -->
+# **Aula 8:** Apresentação dos Seminários
 
-<!-- -   Os seminários serão destinados a apresentação dos trabalhos pelos alunos. -->
+-   Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
-<!-- -   Roteiro dos Seminários [Em breve !!!!]() -->
+-   Roteiro dos Seminários [Em breve !!!!]()
 
-<!-- -   Início dos seminários: 9hs -->
+-   Início dos seminários: 9hs
 
 <!-- -   Trabalhos a serem apresentados neste dia: -->
 
