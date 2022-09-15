@@ -254,26 +254,23 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Exercícios | Lista de exercícios 3                              | [link](https://drive.google.com/file/d/1L_3dfKi8FAX3RoNO8UfGeDqpKwqAzncN/view?usp=sharing)    |
 
 
-<!-- # **Aula 5:** Inferência Estatística - Parte 2 -->
+# **Aula 5:** Inferência Estatística - Parte 2
 
-<!-- -   Nessa aula serão apresentados os conceitos de teste de hipóteses para 2 amostras de forma teórica e com exercícios. -->
+-   Nessa aula serão apresentados os conceitos de teste de hipóteses para 2 amostras e para 2 ou mais amostras de forma teórica e com exercícios.
 
-<!-- -   Para esta aula síncrona, os alunos deverão ter assistido as todas as videoaulas disponíveis neste tópico. -->
+-   Para esta aula, os alunos deverão ter assistido as todas as videoaulas disponíveis neste tópico.
 
-<!-- -   Início da aula: 10hs -->
 
-<!-- | Atividade  | Tipo de Atividade                                          | Links                                                                                     | -->
-<!-- |:----------:|-------------------------------------------------|------------| -->
-<!-- |     \-     | **Testes de Hipóteses - Duas Amostras**                    |                                                                                           | -->
-<!-- | Assíncrona | Videoaula de Inferência estatística (TH 1/4) - Parte 2     | [link](https://drive.google.com/file/d/1_9161VXItYu9jNBQ7Qoo7wWSWpDBPq6E/view?usp=sharing)                        | -->
-<!-- | Assíncrona | Videoaula de Inferência estatística (TH 2/4) - Parte 2     | [link](https://drive.google.com/file/d/1I3c8ZrFCD256hQ-xn_yqHUhfolN8hxED/view?usp=sharing)                        | -->
-<!-- | Assíncrona | Videoaula de Inferência estatística (TH 3/4) - Parte 2     | [link](https://drive.google.com/file/d/1GIATvWWyt4eSmyPRw1RUkK1h_9VGci0j/view?usp=sharing)                        | -->
-<!-- | Assíncrona | Videoaula de Inferência estatística (TH 4/4) - Parte 2     | [link](https://drive.google.com/file/d/1PpeiWqJzrbFwyzdD9ifFKXHBtaayq865/view?usp=sharing)                        | -->
-<!-- | Assíncrona | Slides da aula de Inferência estatística (TH) - Parte 2    | [link](https://drive.google.com/file/d/1UQlltUwywvhNOdXbBF-6pXOTTy1qC-49/view?usp=sharing)               | -->
-<!-- |     \-     | **Testes de Hipóteses - Mais de duas amostras (ANOVA)**    |                                                                                           | -->
-<!-- | Assíncrona | Videoaula de Inferência estatística (ANOVA) - Parte 3      | [link](https://drive.google.com/file/d/1pXqk3SSQI9Vt0H2oXcP1gJV03Lq4m5fN/view?usp=sharing) | -->
-<!-- | Assíncrona | Slides da aula de Inferência estatística (ANOVA) - Parte 3 | [link](https://drive.google.com/file/d/1I_vBzt-wfpMcQ9eujAitdEoA6x48_wZH/view?usp=sharing)               | -->
-<!-- |  Síncrona  | Slides com exercicíos da aula 7                            | [link](https://drive.google.com/file/d/1UvwFhUbHD2XfdWlX32Xuhnmzk-Fos8lW/view?usp=sharing)                 | -->
+| Atividade  | Tipo de Atividade                                          | Links                                                                                     |
+|:----------:|-------------------------------------------------|------------|
+|     \-     | **Testes de Hipóteses - Duas Amostras ou mais**                    |                                                                                           |
+| Videoaula | Videoaula de Inferência estatística (1/3) - Parte 2     | [link](https://drive.google.com/file/d/17oQ71A2IxodrrpbgCJATEN8hp8OoxYDS/view?usp=sharing)                        |
+| Slides | Slides da aula de Inferência estatística (1/3) - Parte 2    | [link](https://drive.google.com/file/d/1xcMcd8cdOg4dUfhkPfWO2iG4ZCgVwXmt/view?usp=sharing)               |
+| Videoaula | Videoaula de Inferência estatística (2/3) - Parte 2     | [link](https://drive.google.com/file/d/1yjmB6cP3NMZqvfYAECW1E_cnieK2FWpd/view?usp=sharing)                        |
+| Slides | Slides da aula de Inferência estatística (2/3) - Parte 2    | [link](https://drive.google.com/file/d/1520Y2FmcNe7xtYRZlmHHfM1CuCw2j7Wx/view?usp=sharing)               |
+| Videoaula | Videoaula de Inferência estatística (3/3) - Parte 2     | [link](https://drive.google.com/file/d/1DTsvdBHVAubnlrhhbWgiNh0IrYKHnNvj/view?usp=sharing)                        |
+| Slides | Slides da aula de Inferência estatística (3/3) - Parte 2    | [link](https://drive.google.com/file/d/1NGaS4ytseMpZsJaih8PJlg0y-gzWW8Rn/view?usp=sharing)               |
+|  Exercícios  | Slides da aula prática de Inferência estatística - Parte 2    | [Em breve !!!]()                 |
 
 <!-- # **Aula 6:** Estatística não-paramétrica -->
 
