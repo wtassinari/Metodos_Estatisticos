@@ -151,9 +151,9 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 |  5   |                   Inferência Estatística - Parte 2                   | 23/09/2022 |
 |  6   |                     Estatística não-paramétrica                      | 30/09/2022 |
 |  7   |                           Aula de dúvidas                            | 07/10/2022 |
-|  8   |                     Apresentação dos Semináriso                      | 14/10/2021 |
+|  8   |                     Apresentação dos Seminários                      | 14/10/2021 |
 
-# **Aula 1:** Apresentação da disciplina + Ambiente R + RComander 
+# **Aula 1:** Apresentação da disciplina + Ambiente R + RCommander 
 
 -   Nessa aula será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
 
@@ -294,7 +294,7 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 
 -   Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
--   Roteiro dos Seminários [Em breve !!!!]()
+-   Roteiro dos Seminários ([link](https://drive.google.com/file/d/1PBMkjZOZ__XEEGI9WLgWnuGVIl9_go-C/view?usp=sharing))
 
 -   Início dos seminários: 9hs
 
