@@ -252,7 +252,9 @@ Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://dr
 | Videoaula | Videoaula de Inferência estatística (TH 2/3) - Parte 1  | [link](https://drive.google.com/file/d/1ZqUYB059BNBtDxU92FuCWNeKXgEA8g-W/view?usp=sharing) |
 | Videoaula | Videoaula de Inferência estatística (TH 3/3) - Parte 1  | [link](https://drive.google.com/file/d/1xy4o7ju4WQ3qXwnzkjEeSmVmntZmIL5I/view?usp=sharing) |
 | Slides | Slides da aula de Inferência estatística (TH) - Parte 1 | [link](https://drive.google.com/file/d/1jJHX2Am0OdHYDiQpcLqsZTAr9JzokL9J/view?usp=sharing)                |
-|  Slides  | Slides da aula prática de Inferência Estatística (IC \& TH) - Parte 1 | [link](https://drive.google.com/file/d/16ERrxhwpRTU4WyL5Qp8P2N15E4wgcUX1/view?usp=sharing) |           | Exercícios | Lista de exercícios 3                              | [link](https://drive.google.com/file/d/1L_3dfKi8FAX3RoNO8UfGeDqpKwqAzncN/view?usp=sharing)    |
+|  Slides  | Slides da aula prática de Inferência Estatística (IC \& TH) - Parte 1 | [link](https://drive.google.com/file/d/16ERrxhwpRTU4WyL5Qp8P2N15E4wgcUX1/view?usp=sharing) |           | 
+|  Exercícios  | Lista de exercícios 3 | [link](https://drive.google.com/file/d/1L_3dfKi8FAX3RoNO8UfGeDqpKwqAzncN/view?usp=sharing) |           | 
+
 
 
 # **Aula 5:** Inferência Estatística - Parte 2
