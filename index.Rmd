@@ -272,7 +272,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Slides | Slides da aula de Inferência estatística (2/3) - Parte 2    | [link](https://drive.google.com/file/d/1520Y2FmcNe7xtYRZlmHHfM1CuCw2j7Wx/view?usp=sharing)               |
 | Videoaula | Videoaula de Inferência estatística (3/3) - Parte 2     | [link](https://drive.google.com/file/d/1DTsvdBHVAubnlrhhbWgiNh0IrYKHnNvj/view?usp=sharing)                        |
 | Slides | Slides da aula de Inferência estatística (3/3) - Parte 2    | [link](https://drive.google.com/file/d/1NGaS4ytseMpZsJaih8PJlg0y-gzWW8Rn/view?usp=sharing)               |
-|  Exercícios  | Slides da aula prática de Inferência Estatística - Parte 2    | [link](https://drive.google.com/file/d/1vXZ2ZLNKfW-rmAJlBLS2EDG1Z34MBo9x/view?usp=sharing)                 |
+| Slides   | Slides da aula prática de Inferência Estatística - Parte 2    | [link](https://drive.google.com/file/d/1vXZ2ZLNKfW-rmAJlBLS2EDG1Z34MBo9x/view?usp=sharing)                 |
 | Exercícios | Lista de exercícios 4                              | [link](https://drive.google.com/file/d/197SRUQTxG3BXtH8Sb4iBeHHEXMxzBB6L/view?usp=sharing)    |
 |  Dados | Dados para a elaboração da lista de exercícios 4  | [link](https://drive.google.com/file/d/1bW5LY-gptmWRIVmbj4nmJo8XAlG_wwxm/view?usp=sharing) |  
 
