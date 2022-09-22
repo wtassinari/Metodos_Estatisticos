@@ -122,7 +122,7 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 # Bancos de dados utilizados no curso
 
-Para baixar todos os **bancos de dados** basta clicar em [bancos.zip](https://drive.google.com/file/d/1otFFEHhZu5r0Ax-dyapHbUHHzPe2btxs/view?usp=sharing)
+Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://drive.google.com/file/d/1MqkHMBmshu4MIT4P6CdpvhyT6slfzcTp/view?usp=sharing)
 
 # Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
 
