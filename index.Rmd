@@ -122,7 +122,7 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 # Bancos de dados utilizados no curso
 
-Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://drive.google.com/file/d/1MqkHMBmshu4MIT4P6CdpvhyT6slfzcTp/view?usp=sharing)
+Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://drive.google.com/file/d/1otFFEHhZu5r0Ax-dyapHbUHHzPe2btxs/view?usp=sharing)
 
 # Instalando o pacote estatístico R + pacote RStudio + a interface gráfica R Commander
 
@@ -276,19 +276,20 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Exercícios | Lista de exercícios 4                              | [link](https://drive.google.com/file/d/197SRUQTxG3BXtH8Sb4iBeHHEXMxzBB6L/view?usp=sharing)    |
 |  Dados | Dados para a elaboração da lista de exercícios 4  | [link](https://drive.google.com/file/d/1bW5LY-gptmWRIVmbj4nmJo8XAlG_wwxm/view?usp=sharing) |  
 
-<!-- # **Aula 6:** Estatística não-paramétrica -->
+# **Aula 6:** Estatística não-paramétrica
 
-<!-- -   Nessa aula serão apresentados alguns conceitos mais importantes a respeito dos testes de hipóteses para dados categóricos (ou testes de hipóteses para dados em tabelas de contingência) e dos testes não-paramétricos nas variáveis quantitativas, com aplicações. -->
+-   Nessa aula serão apresentados alguns conceitos mais importantes a respeito dos testes de hipóteses para dados categóricos (ou testes de hipóteses para dados em tabelas de contingência) e dos testes não-paramétricos nas variáveis quantitativas, com aplicações.
 
-<!-- -   Para esta aula, não haverá atividade assíncrona, somente atividade síncrona com a teoria e exemplo de aplicações através do Rcommander. -->
+-   Para esta aula, não haverá atividade assíncrona, somente atividade síncrona com a teoria e exemplo de aplicações através do Rcommander.
 
-<!-- | Atividade | Tipo de Atividade                             | Links                                                                                                        | -->
-<!-- |:----------:|-------------------------------------------------|------------| -->
-<!-- | Síncrona  | Slides da aula de Estatística não-paramétrica | [link](https://drive.google.com/file/d/1AX_xmgdFz80WY87Dby-796-eTkMt7Vj6/view?usp=sharing) | -->
+| Atividade | Tipo de Atividade                             | Links                                                                                                        |
+|:----------:|-------------------------------------------------|------------|
+| Slides  | Slides da aula de Estatística não-paramétrica - Parte 1| [link](https://drive.google.com/file/d/1FS135P5zrlKHGBrELJHEZIO1rlmGwmUp/view?usp=sharing) |
+| Slides  | Slides da aula de Estatística não-paramétrica - Parte 2| [link](https://drive.google.com/file/d/1IvkSzZggl4dxLW2d-YoKKzLZITpMG6UB/view?usp=sharing) |
 
-<!-- # **Aula 7:** Aula de Dúvidas -->
+# **Aula 7:** Aula de Dúvidas
 
-<!-- -   Aula destinada a sanar as dúvidas dos alunos a respeito do conteúdo do curso e a preparação do seminário. -->
+-   Aula destinada a sanar as dúvidas dos alunos a respeito do conteúdo do curso e a preparação do seminário.
 
 
 # **Aula 8:** Apresentação dos Seminários
