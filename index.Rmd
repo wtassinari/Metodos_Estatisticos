@@ -254,6 +254,8 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Slides | Slides da aula de Inferência estatística (TH) - Parte 1 | [link](https://drive.google.com/file/d/1jJHX2Am0OdHYDiQpcLqsZTAr9JzokL9J/view?usp=sharing)                |
 |  Slides  | Slides da aula prática de Inferência Estatística (IC \& TH) - Parte 1 | [link](https://drive.google.com/file/d/16ERrxhwpRTU4WyL5Qp8P2N15E4wgcUX1/view?usp=sharing) |           
 | Exercícios | Lista de exercícios 3                              | [link](https://drive.google.com/file/d/1L_3dfKi8FAX3RoNO8UfGeDqpKwqAzncN/view?usp=sharing)    |
+| Gabarito | Gabarito da lista de exercícios 3                              | [link](https://drive.google.com/file/d/12hCVnb1JQtIjcDmBBF1pg-Tczw8qZhm2/view?usp=sharing)    |
+
 
 
 # **Aula 5:** Inferência Estatística - Parte 2
@@ -275,6 +277,8 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Slides   | Slides da aula prática de Inferência Estatística - Parte 2    | [link](https://drive.google.com/file/d/1vXZ2ZLNKfW-rmAJlBLS2EDG1Z34MBo9x/view?usp=sharing)                 |
 | Exercícios | Lista de exercícios 4                              | [link](https://drive.google.com/file/d/197SRUQTxG3BXtH8Sb4iBeHHEXMxzBB6L/view?usp=sharing)    |
 |  Dados | Dados para a elaboração da lista de exercícios 4  | [link](https://drive.google.com/file/d/1bW5LY-gptmWRIVmbj4nmJo8XAlG_wwxm/view?usp=sharing) |  
+| Gabarito | Gabarito da lista de exercícios 4                              | [link](https://drive.google.com/file/d/1H5-_P5xRiIgfchvakKx1BxLJiUf26xXG/view?usp=sharing)    |
+
 
 # **Aula 6:** Estatística não-paramétrica
 
