@@ -6,7 +6,7 @@ author: |
   |
   | Prof. Wagner Tassinari (DEMAT/UFRRJ)
   |
-date: "2022"
+date: "2023"
 output:
   rmdformats::downcute:
     self_contained: true
@@ -63,7 +63,7 @@ colFmt <- function(x,color) {
 
 ```
 
-```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="90%", comment=NA}
+```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="100%", comment=NA}
 knitr::include_graphics('figure/ufrrj.jpeg')
 #knitr::include_graphics('figure/Capivaras.png')
 ```
@@ -144,14 +144,14 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 
 | Aula |                              Descrição                               |    Data    |
 |:-----------:|:--------------------------------------------:|:-----------:|
-|  1   |            Apresentação da disciplina + Ambiente R + RComander       | 26/08/2022 |
-|  2   |               Análise Exploratória de dados                          | 02/09/2022 |
-|  3   |    Introdução à probabilidade e as principais dist. probabilidade    | 09/09/2022 |
-|  4   |                   Inferência Estatística - Parte 1                   | 16/09/2022 |
-|  5   |                   Inferência Estatística - Parte 2                   | 23/09/2022 |
-|  6   |                     Estatística não-paramétrica                      | 30/09/2022 |
-|  7   |                           Aula de dúvidas                            | 07/10/2022 |
-|  8   |                     Apresentação dos Seminários                      | 14/10/2021 |
+|  1   |            Apresentação da disciplina + Ambiente R + RComander       | 15/09/2023 |
+|  2   |               Análise Exploratória de dados                          | 22/09/2023 |
+|  3   |    Introdução à probabilidade e as principais dist. probabilidade    | 29/09/2023 |
+|  4   |                   Inferência Estatística - Parte 1                   | 06/10/2023 |
+|  5   |                   Inferência Estatística - Parte 2                   | 20/10/2023 |
+|  6   |                     Estatística não-paramétrica                      | 27/10/2023 |
+|  7   |                           Aula de dúvidas                            | 10/11/2023 |
+|  8   |                     Apresentação dos Seminários                      | 17/11/2023 |
 
 # **Aula 1:** Apresentação da disciplina + Ambiente R + RCommander 
 
