@@ -68,7 +68,7 @@ knitr::include_graphics('figure/ufrrj.jpeg')
 #knitr::include_graphics('figure/Capivaras.png')
 ```
 
-Esta página representa o repositório do conteúdo da disciplina de Métodos Estatísticos Aplicados as Ciências Veterinárias - 2022 (PPGCV/IV/UFRRJ)
+Esta página representa o repositório do conteúdo da disciplina de Métodos Estatísticos Aplicados as Ciências Veterinárias (PPGCV/IV/UFRRJ)
 
 # Apresentação do curso
 
