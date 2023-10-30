@@ -199,7 +199,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Slides | Slides da aula AED 4                                   | [link](https://drive.google.com/file/d/12RPx_rqkh6jNoTTWmAL8i69Xd8OEw4Pi/view?usp=sharing)                                             |
 | Slides | Slides da aula prática AED                                   | [link](https://drive.google.com/file/d/1Ie4YHdiHTuEUsWq0ZK4AcjbpqPUzw5zQ/view?usp=sharing)                                             |
 | Exercícios | Lista de exercícios 1                              | [link](https://drive.google.com/file/d/1tKBLp-Y5KxQgNnnORsN8oC08nDgqWJr9/view?usp=sharing)    |
-| Gabarito | Gabarito da lista de exercícios 1                              | [link](https://drive.google.com/file/d/1aMKhb_tPfKreYsIQLZ6OD1qsFYFVh7Lt/view?usp=sharing)    |
+<!-- | Gabarito | Gabarito da lista de exercícios 1                              | [link](https://drive.google.com/file/d/1aMKhb_tPfKreYsIQLZ6OD1qsFYFVh7Lt/view?usp=sharing)    | -->
 
 
 # **Aula 3:**  Introdução à probabilidade e as Principais Dist. Probabilidade
@@ -227,7 +227,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Slides | Slide da aula de Dist. de Probabilidades       | [link](https://drive.google.com/file/d/1RXvHffEodiHIgRb79yDfm3jSzvgaAVGp/view?usp=sharing)       |
 |  Slides  | Slides da aula prática de Dist. de Probabilidades | [link](https://drive.google.com/file/d/1fO2iNUaooS1IOyzUFQF5zuprcb8_f5aJ/view?usp=sharing)       |
 | Exercícios | Lista de exercícios 2                              | [link](https://drive.google.com/file/d/1kZUE7MROmCwTOPkkErsQuUa-UmvLi_tV/view?usp=sharing)    |
-| Gabarito | Gabarito da lista de exercícios 2                              | [link](https://drive.google.com/file/d/1S0rRHutt6RD1KpeZr1V9aA4T4-WwjhO6/view?usp=sharing)    |
+<!-- | Gabarito | Gabarito da lista de exercícios 2                              | [link](https://drive.google.com/file/d/1S0rRHutt6RD1KpeZr1V9aA4T4-WwjhO6/view?usp=sharing)    | -->
 
 
 **Obs:** Se optarmos em não utilizar o pacote estatístico R e/ou Rcommander para a resolução dos exercícios, relacionados a distribuição normal de probabilidades, iremos precisar do auxílio tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
@@ -254,7 +254,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Slides | Slides da aula de Inferência estatística (TH) - Parte 1 | [link](https://drive.google.com/file/d/1jJHX2Am0OdHYDiQpcLqsZTAr9JzokL9J/view?usp=sharing)                |
 |  Slides  | Slides da aula prática de Inferência Estatística (IC \& TH) - Parte 1 | [link](https://drive.google.com/file/d/16ERrxhwpRTU4WyL5Qp8P2N15E4wgcUX1/view?usp=sharing) |           
 | Exercícios | Lista de exercícios 3                              | [link](https://drive.google.com/file/d/1L_3dfKi8FAX3RoNO8UfGeDqpKwqAzncN/view?usp=sharing)    |
-| Gabarito | Gabarito da lista de exercícios 3                              | [link](https://drive.google.com/file/d/12hCVnb1JQtIjcDmBBF1pg-Tczw8qZhm2/view?usp=sharing)    |
+<!-- | Gabarito | Gabarito da lista de exercícios 3                              | [link](https://drive.google.com/file/d/12hCVnb1JQtIjcDmBBF1pg-Tczw8qZhm2/view?usp=sharing)    | -->
 
 
 
@@ -277,7 +277,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Slides   | Slides da aula prática de Inferência Estatística - Parte 2    | [link](https://drive.google.com/file/d/1vXZ2ZLNKfW-rmAJlBLS2EDG1Z34MBo9x/view?usp=sharing)                 |
 | Exercícios | Lista de exercícios 4                              | [link](https://drive.google.com/file/d/197SRUQTxG3BXtH8Sb4iBeHHEXMxzBB6L/view?usp=sharing)    |
 |  Dados | Dados para a elaboração da lista de exercícios 4  | [link](https://drive.google.com/file/d/1bW5LY-gptmWRIVmbj4nmJo8XAlG_wwxm/view?usp=sharing) |  
-| Gabarito | Gabarito da lista de exercícios 4                              | [link](https://drive.google.com/file/d/1H5-_P5xRiIgfchvakKx1BxLJiUf26xXG/view?usp=sharing)    |
+<!-- | Gabarito | Gabarito da lista de exercícios 4                              | [link](https://drive.google.com/file/d/1H5-_P5xRiIgfchvakKx1BxLJiUf26xXG/view?usp=sharing)    | -->
 
 
 # **Aula 6:** Estatística não-paramétrica
