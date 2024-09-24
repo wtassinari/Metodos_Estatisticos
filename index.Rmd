@@ -6,7 +6,7 @@ author: |
   |
   | Prof. Wagner Tassinari (DEMAT/UFRRJ)
   |
-date: "2023"
+date: "2024"
 output:
   rmdformats::downcute:
     self_contained: true
@@ -92,7 +92,7 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 -   O **R Commander**, também conhecido como uma interface *point-and-click* para o manuseio do pacote estatístico R, é uma ferramenta disponibilizada pelo pacote estatístico R, através da *library(Rcmdr)*, que têm por objetivo facilitar a vida das pessoas que não têm um conhecimento prévio na linguagem de programação R. Ela apresenta uma forma mais prática e interativa de poder fazer análises estatísticas.
 
--   A avaliação deste curso será feita através da apresentação em grupo de seminários de 15 minutos. A média final da disciplina será composta pela nota do trabalho em geral (nota do grupo) + a nota da apresentação individual de cada elemento do grupo + listas de exercício.
+-   A avaliação deste curso será feita através da apresentação de seminários com duração de 15 minutos. A média final da disciplina será composta pela nota da apresentação do seminário + relatório do seminário + listas de exercício.
 
 - `r colFmt("IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.**", 'red')`
 
@@ -144,14 +144,14 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 
 | Aula |                              Descrição                               |    Data    |
 |:-----------:|:--------------------------------------------:|:-----------:|
-|  1   |            Apresentação da disciplina + Ambiente R + RComander       | 15/09/2023 |
-|  2   |               Análise Exploratória de dados                          | 22/09/2023 |
-|  3   |    Introdução à probabilidade e as principais dist. probabilidade    | 29/09/2023 |
-|  4   |                   Inferência Estatística - Parte 1                   | 06/10/2023 |
-|  5   |                   Inferência Estatística - Parte 2                   | 20/10/2023 |
-|  6   |                     Estatística não-paramétrica                      | 27/10/2023 |
-|  7   |                           Aula de dúvidas                            | 10/11/2023 |
-|  8   |                     Apresentação dos Seminários                      | 17/11/2023 |
+|  1   |            Apresentação da disciplina + Ambiente R + RComander       | 04/10/2024 |
+|  2   |               Análise Exploratória de dados                          | 11/10/2024 |
+|  3   |    Introdução à probabilidade e as principais dist. probabilidade    | 18/10/2024 |
+|  4   |                   Inferência Estatística - Parte 1                   | 25/10/2024 |
+|  5   |                   Inferência Estatística - Parte 2                   | 01/11/2024 |
+|  6   |                     Estatística não-paramétrica                      | 08/11/2024 |
+|  7   |                           Aula de dúvidas                            | 22/11/2024 |
+|  8   |                     Apresentação dos Seminários                      | 29/11/2024 |
 
 # **Aula 1:** Apresentação da disciplina + Ambiente R + RCommander 
 
@@ -181,7 +181,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 
 # **Aula 2:** Análise Exploratória de Dados (AED) 
 
--   Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. 
+-   Nessa aula serão apresentados conceitos sobre construção de tabelas e gráficos de acordo com o contexto do problema e tipos de variáveis envolvidas. Iremos trabalhar também com as medidas de tendência central, posição e dispersão. Por fim, iremos aboradar a análise bidimensional
 
 -   É sugerido que os alunos assistam as videoaulas e tentem fazer a lista de exercícios como ferramenta auxiliar para o aprendizado.
 
@@ -300,13 +300,13 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 
 -   Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
--   Roteiro dos Seminários ([link](https://drive.google.com/file/d/1Iqg47hnpksnxv5Iv0cE_k9I__w4CHhWj/view?usp=sharing))
+<!-- -   Roteiro dos Seminários ([link](https://drive.google.com/file/d/1Iqg47hnpksnxv5Iv0cE_k9I__w4CHhWj/view?usp=sharing)) -->
 
 -   Início dos seminários: 9hs
 
 # **Lista de Exercícios Final**
 
--  Lista de Exercícios ([link](https://drive.google.com/file/d/1Ag-toxWjfOmpp2AsBbWPJlS81gvlFXuF/view?usp=sharing))
+<!-- -  Lista de Exercícios ([link](https://drive.google.com/file/d/1Ag-toxWjfOmpp2AsBbWPJlS81gvlFXuF/view?usp=sharing)) -->
 
 
 <!-- -   Trabalhos a serem apresentados neste dia: -->
