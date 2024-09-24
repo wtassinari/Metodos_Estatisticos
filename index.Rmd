@@ -116,6 +116,11 @@ email: [*tassinari\@ufrrj.br*](tassinari@ufrrj.br)
 
 -   [Apostila para o manuseio do R Commander](https://drive.google.com/file/d/1iF8kata9BZnWSUm_MXzG-WtviuCceFAr/view?usp=sharing)
 
+
+-   [Apostila Introdução ao R Commander + Material](https://github.com/feliperafaelrm/Rcmdr)
+
+
+
 -   [Ebook sobre o R + R Commnader](http://www.lampada.uerj.br/arquivosdb/_book2/rcommander.html)
 
 -   [Livro sobre o R](https://drive.google.com/file/d/1DPT0XWZH6LbQpxZnviV57eXfCoFvTB_0/view?usp=sharing)
