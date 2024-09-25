@@ -6,7 +6,7 @@ author: |
   |
   | Prof. Wagner Tassinari (DEMAT/ICE/UFRRJ)
   |
-date: "2022"
+date: "2024"
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -99,7 +99,7 @@ horse <- na.omit(horse)
 
 
 library(xlsx)
-write.xlsx2(horse, "/home/tassinari/Google Drive/UFRRJ/Métodos Estatísticos 2022/Aula_1_Apresentacao/horse.xlsx", na = "", row.names=F)
+write.xlsx2(horse, "horse.xlsx", na = "", row.names=F)
 
 ```
 
@@ -110,7 +110,9 @@ write.xlsx2(horse, "/home/tassinari/Google Drive/UFRRJ/Métodos Estatísticos 20
 
 # Descrição
 
-Esta é uma versão modificada do conjunto de dados original, retirado do [repositório UCI](https://archive.ics.uci.edu/ml/datasets/Horse+Colic). Este conjunto de dados é sobre um conjunto de parâmetros de cavalo, onde o objetivo era de investigar se a lesão do cavalo foi cirúrgica ou não.
+- Esta é uma versão modificada do conjunto de dados original, retirado do [repositório UCI](https://archive.ics.uci.edu/ml/datasets/Horse+Colic). 
+
+- O objetivo deste conjunto de dados é a investigação dos parâmetros de cavalos em relação ao ao tipo de lesão (se foi cirúrgica  não), ou seja, comparar tais parâmentros entre ambos os grupos de animais por tipos de lesões. 
 
 ------------------------------------------------------------------------
 
