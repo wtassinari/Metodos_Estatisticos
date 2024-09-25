@@ -170,7 +170,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Vídeo | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4)          |
 | Vídeo | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
 |  Slides  | [Slide da aula 1](https://drive.google.com/file/d/1ccMOeQd_sdl-XR4i3UkKNB4YmyIagtVf/view?usp=sharing)                           |
-|  Prática no Rcommander  | [Prática banco de dados "horse"](https://drive.google.com/file/d/1x-UORHulOGTZerKX-67r3at2y8W-9ytw/view?usp=drive_link)                           |
+|  Prática no Rcommander  | [Prática banco de dados "horse"](aula1/banco_cavalos.html)                           |
 
 - Abaixo estão alguns vídeos mostrando um pouco dos principais recursos para o manuseio do RCommander. 
 
