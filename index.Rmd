@@ -1,10 +1,6 @@
 ---
-title: |
-  Curso de Pós-Graduação em Ciências Veterinárias (IV/UFRRJ)  
+title: "Disciplina de Métodos Estatísticos"
   
-  Curso de Pós-Graduação em Medicina Veterinária (IV/UFRRJ)
-        
-subtitle: "Métodos Estatísticos Aplicados às Ciências Veterinárias"
 author: |
   | Profa. Adriana Oliveira (DEMAT/UFRRJ)
   |
@@ -71,6 +67,17 @@ colFmt <- function(x,color) {
 knitr::include_graphics('figure/ufrrj.jpeg')
 #knitr::include_graphics('figure/Capivaras.png')
 ```
+
+
+# Curso de Pós-Graduação em Ciências Veterinárias (IV/UFRRJ)  
+*Métodos Estatísticos Aplicados às Ciências Veterinárias*
+
+---
+
+# Curso de Pós-Graduação em Medicina Veterinária (IV/UFRRJ)  
+*Métodos Estatísticos Aplicados à Pesquisa Veterinária*
+
+---
 
 Esta página representa o repositório do conteúdo da disciplina de Métodos Estatísticos Aplicados às Ciências Veterinárias (PPGCV/IV/UFRRJ) e da disciplina de Métodos Estatísticos Aplicados à Pesquisa Veterinária (PPGMV/IV/UFRRJ)
 
@@ -177,8 +184,10 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Vídeo | [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)                      |
 | Vídeo | [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4)          |
 | Vídeo | [Vídeo resumido para instalação do R e do Rcomander no Windows](https://www.youtube.com/watch?v=UsjmoW9zrbg) |
-|  Slides  | [Slide da aula 1](https://drive.google.com/file/d/1ccMOeQd_sdl-XR4i3UkKNB4YmyIagtVf/view?usp=sharing)                           |
+|  Slides  | [Slide da aula 1](https://drive.google.com/file/d/1AdM_XDP4FmYirECsQWZ8Tec4bVZrGGgM/view?usp=sharing)     |
 |  Prática no Rcommander  | [Prática banco de dados "horse"](aula1/banco_cavalos.html)                           |
+
+
 
 - Abaixo estão alguns vídeos mostrando um pouco dos principais recursos para o manuseio do RCommander. 
 
