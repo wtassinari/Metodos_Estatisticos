@@ -1,12 +1,16 @@
 ---
-title: "Curso de Pós-Graduação em Ciências Veterinárias (IV/UFRRJ)"
+title: |
+  Curso de Pós-Graduação em Ciências Veterinárias (IV/UFRRJ)  
+  
+  Curso de Pós-Graduação em Medicina Veterinária (IV/UFRRJ)
+        
 subtitle: "Métodos Estatísticos Aplicados às Ciências Veterinárias"
 author: |
   | Profa. Adriana Oliveira (DEMAT/UFRRJ)
   |
   | Prof. Wagner Tassinari (DEMAT/UFRRJ)
   |
-date: "2024"
+date: ""
 output:
   rmdformats::downcute:
     self_contained: true
@@ -68,7 +72,8 @@ knitr::include_graphics('figure/ufrrj.jpeg')
 #knitr::include_graphics('figure/Capivaras.png')
 ```
 
-Esta página representa o repositório do conteúdo da disciplina de Métodos Estatísticos Aplicados as Ciências Veterinárias (PPGCV/IV/UFRRJ)
+Esta página representa o repositório do conteúdo da disciplina de Métodos Estatísticos Aplicados às Ciências Veterinárias (PPGCV/IV/UFRRJ) e da disciplina de Métodos Estatísticos Aplicados à Pesquisa Veterinária (PPGMV/IV/UFRRJ)
+
 
 # Apresentação do curso
 
@@ -149,18 +154,21 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 
 | Aula |                              Descrição                               |    Data    |
 |:-----------:|:--------------------------------------------:|:-----------:|
-|  1   |            Apresentação da disciplina + Ambiente R + RComander       | 04/10/2024 |
-|  2   |               Análise Exploratória de dados                          | 11/10/2024 |
-|  3   |    Introdução à probabilidade e as principais dist. probabilidade    | 18/10/2024 |
-|  4   |                   Inferência Estatística - Parte 1                   | 25/10/2024 |
-|  5   |                   Inferência Estatística - Parte 2                   | 01/11/2024 |
-|  6   |                     Estatística não-paramétrica                      | 08/11/2024 |
-|  7   |                           Aula de dúvidas                            | 22/11/2024 |
-|  8   |                     Apresentação dos Seminários                      | 29/11/2024 |
+|  1   |            Apresentação da disciplina + Ambiente R + RComander       | 02/08/2025 |
+|  2   |               Análise Exploratória de dados                          | 29/08/2025 |
+|  3   |    Introdução à probabilidade e as principais dist. probabilidade    | 05/09/2025 |
+|  4   |                           Aula de Dúvidas                            | 12/09/2025 |
+|  5   |                           Primeira Avaliação                         | 19/09/2025 |
+|  6   |                   Inferência Estatística - Parte 1                   | 26/09/2025 |
+|  7   |                   Inferência Estatística - Parte 2                   | 03/10/2025 |
+|  8   |                     Estatística não-paramétrica                      | 10/10/2025 |
+|  9   |                           Aula de dúvidas                            | 17/10/2025 |
+|  10  |                     Segunda Avaliação (Apresentação dos Seminários)  | 24/10/2025 |
+|  11  |                     Entrega dos Relatórios                           | 31/10/2025 |
 
 # **Aula 1:** Apresentação da disciplina + Ambiente R + RCommander 
 
--   Nessa aula será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
+-   Nessa aula será apresentado como será o formato da disciplina (conteúdo e dinâmica das aulas). Uma breve apresentação de como iremos utilizar a ferramenta do R no contexto da disciplina. Introdução e planejamento da coleta de dados.
 
 -   Para a aula, é sugerido de que os alunos já tenham feito a instalação do pacote estatístico R da interface gráfica RStudio baixado e instalado a biblioteca Rcmdr referente a interface gráfica Rcommander, como mostrado nas videoaulas e no material complementar disponíveis nessa página.
 
@@ -238,7 +246,13 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 **Obs:** Se optarmos em não utilizar o pacote estatístico R e/ou Rcommander para a resolução dos exercícios, relacionados a distribuição normal de probabilidades, iremos precisar do auxílio tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
 
 
-# **Aula 4:** Inferência Estatística - Parte 1
+# **Aula 5:** Aula de Dúvidas
+
+-   Aula destinada a sanar as dúvidas dos alunos a respeito do conteúdo apresentado até o presente momento.
+
+# **Aula 6:** Primeira Avaliação
+
+# **Aula 7:** Inferência Estatística - Parte 1
 
 -   Nessa aula serão apresentados os conceitos introdutórios de inferência estatística, será falado sobre estimação pontual e intervalar e também serão abordados alguns testes de hipóteses para uma amostra.
 
@@ -263,7 +277,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 
 
 
-# **Aula 5:** Inferência Estatística - Parte 2
+# **Aula 8:** Inferência Estatística - Parte 2
 
 -   Nessa aula serão apresentados os conceitos de teste de hipóteses para 2 amostras e para 2 ou mais amostras de forma teórica e com exercícios.
 
@@ -285,7 +299,7 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 <!-- | Gabarito | Gabarito da lista de exercícios 4                              | [link](https://drive.google.com/file/d/1H5-_P5xRiIgfchvakKx1BxLJiUf26xXG/view?usp=sharing)    | -->
 
 
-# **Aula 6:** Estatística não-paramétrica
+# **Aula 9:** Estatística não-paramétrica
 
 -   Nessa aula serão apresentados alguns conceitos mais importantes a respeito dos testes de hipóteses para dados categóricos (ou testes de hipóteses para dados em tabelas de contingência) e dos testes não-paramétricos nas variáveis quantitativas, com aplicações.
 
@@ -296,20 +310,18 @@ Para baixar todos os **bancos de dados** basta clicar em [Bancos.zip](https://dr
 | Slides  | Slides da aula de Estatística não-paramétrica - Parte 1| [link](https://drive.google.com/file/d/1FS135P5zrlKHGBrELJHEZIO1rlmGwmUp/view?usp=sharing) |
 | Slides  | Slides da aula de Estatística não-paramétrica - Parte 2| [link](https://drive.google.com/file/d/1IvkSzZggl4dxLW2d-YoKKzLZITpMG6UB/view?usp=sharing) |
 
-# **Aula 7:** Aula de Dúvidas
+# **Aula 10:** Aula de Dúvidas
 
--   Aula destinada a sanar as dúvidas dos alunos a respeito do conteúdo do curso e a preparação do seminário.
+-   Aula destinada a sanar as dúvidas dos alunos a respeito do conteúdo do curso e sobre a preparação do seminário.
 
 
-# **Aula 8:** Apresentação dos Seminários
+# **Aula 11:** Apresentação dos Seminários
 
 -   Os seminários serão destinados a apresentação dos trabalhos pelos alunos.
 
 <!-- -   Roteiro dos Seminários ([link](https://drive.google.com/file/d/1Iqg47hnpksnxv5Iv0cE_k9I__w4CHhWj/view?usp=sharing)) -->
 
--   Início dos seminários: 9hs
-
-# **Lista de Exercícios Final**
+# **Aula 12:** Entrega dos Relatórios
 
 <!-- -  Lista de Exercícios ([link](https://drive.google.com/file/d/1Ag-toxWjfOmpp2AsBbWPJlS81gvlFXuF/view?usp=sharing)) -->
 
